@@ -1,0 +1,2277 @@
+2026-06-23 10:09:46 [INFO] 🚀 求职雷达启动！
+2026-06-23 10:09:52 [INFO] 正在扫描 [高盛 (Goldman Sachs)] ...
+2026-06-23 10:10:04 [INFO] [高盛 (Goldman Sachs)] 页面加载成功（第 1 次尝试）
+2026-06-23 10:10:04 [INFO] [高盛 (Goldman Sachs)] 截获 2 个岗位元素，正在执行黑白名单过滤...
+2026-06-23 10:10:04 [INFO] [高盛 (Goldman Sachs)] 发现 2 个全新岗位，已写入数据库
+2026-06-23 10:10:04 [INFO] [高盛 (Goldman Sachs)] 过滤后保留 2 个岗位（本轮新: 2 / 历史旧: 0）
+2026-06-23 10:10:06 [INFO] 正在扫描 [摩根大通 (JPMorgan Chase)] ...
+2026-06-23 10:10:19 [INFO] [摩根大通 (JPMorgan Chase)] 页面加载成功（第 1 次尝试）
+2026-06-23 10:10:19 [INFO] [摩根大通 (JPMorgan Chase)] 截获 25 个岗位元素，正在执行黑白名单过滤...
+2026-06-23 10:10:19 [INFO] [摩根大通 (JPMorgan Chase)] 过滤后保留 0 个岗位（本轮新: 0 / 历史旧: 0）
+2026-06-23 10:10:19 [INFO] 浏览器已关闭
+2026-06-23 10:10:19 [INFO] 数据库连接已关闭
+2026-06-23 10:12:34 [INFO] 🚀 求职雷达启动！
+2026-06-23 10:12:35 [INFO] 正在扫描 [高盛 (Goldman Sachs)] ...
+2026-06-23 10:13:22 [INFO] 🚀 求职雷达启动！
+2026-06-23 10:13:23 [INFO] 正在扫描 [高盛 (Goldman Sachs)] ...
+2026-06-23 10:13:36 [INFO] [高盛 (Goldman Sachs)] 页面加载成功（第 1 次尝试）
+2026-06-23 10:13:36 [INFO] [高盛 (Goldman Sachs)] 截获 2 个岗位元素，正在执行黑白名单过滤...
+2026-06-23 10:13:36 [INFO] [高盛 (Goldman Sachs)] 过滤后保留 2 个岗位（本轮新: 0 / 历史旧: 2）
+2026-06-23 10:13:38 [INFO] 正在扫描 [摩根大通 (JPMorgan Chase)] ...
+2026-06-23 10:13:51 [INFO] [摩根大通 (JPMorgan Chase)] 页面加载成功（第 1 次尝试）
+2026-06-23 10:13:51 [INFO] [摩根大通 (JPMorgan Chase)] 截获 25 个岗位元素，正在执行黑白名单过滤...
+2026-06-23 10:13:51 [INFO] [摩根大通 (JPMorgan Chase)] 过滤后保留 0 个岗位（本轮新: 0 / 历史旧: 0）
+2026-06-23 10:13:51 [INFO] 浏览器已关闭
+2026-06-23 10:13:51 [INFO] 数据库连接已关闭
+2026-06-23 10:16:21 [INFO] 🚀 求职雷达启动！
+2026-06-23 10:16:22 [INFO] 正在扫描 [高盛 (Goldman Sachs)] ...
+2026-06-23 10:16:34 [INFO] [高盛 (Goldman Sachs)] 页面加载成功（第 1 次尝试）
+2026-06-23 10:16:34 [INFO] [高盛 (Goldman Sachs)] 截获 2 个岗位元素，正在执行黑白名单过滤...
+2026-06-23 10:16:34 [INFO] [高盛 (Goldman Sachs)] 过滤后保留 2 个岗位（本轮新: 0 / 历史旧: 2）
+2026-06-23 10:16:36 [INFO] 正在扫描 [摩根大通 (JPMorgan Chase)] ...
+2026-06-23 10:16:52 [INFO] [摩根大通 (JPMorgan Chase)] 页面加载成功（第 1 次尝试）
+2026-06-23 10:16:52 [INFO] [摩根大通 (JPMorgan Chase)] 截获 25 个岗位元素，正在执行黑白名单过滤...
+2026-06-23 10:16:53 [INFO] [摩根大通 (JPMorgan Chase)] 过滤后保留 0 个岗位（本轮新: 0 / 历史旧: 0）
+2026-06-23 10:16:53 [INFO] 浏览器已关闭
+2026-06-23 10:16:53 [INFO] 数据库连接已关闭
+2026-06-23 10:18:20 [INFO] 🚀 求职雷达启动！
+2026-06-23 10:18:20 [INFO] 正在扫描 [高盛 (Goldman Sachs)] ...
+2026-06-23 10:18:33 [INFO] [高盛 (Goldman Sachs)] 页面加载成功（第 1 次尝试）
+2026-06-23 10:18:33 [INFO] [高盛 (Goldman Sachs)] 截获 2 个岗位元素，正在执行黑白名单过滤...
+2026-06-23 10:18:33 [INFO] [高盛 (Goldman Sachs)] 过滤后保留 2 个岗位（本轮新: 0 / 历史旧: 2）
+2026-06-23 10:18:35 [INFO] 正在扫描 [摩根大通 (JPMorgan Chase)] ...
+2026-06-23 10:18:47 [INFO] [摩根大通 (JPMorgan Chase)] 页面加载成功（第 1 次尝试）
+2026-06-23 10:18:47 [INFO] [摩根大通 (JPMorgan Chase)] 截获 25 个岗位元素，正在执行黑白名单过滤...
+2026-06-23 10:18:47 [INFO] [摩根大通 (JPMorgan Chase)] 过滤后保留 0 个岗位（本轮新: 0 / 历史旧: 0）
+2026-06-23 10:18:47 [INFO] 浏览器已关闭
+2026-06-23 10:18:47 [INFO] 数据库连接已关闭
+2026-06-23 10:19:12 [INFO] 🚀 求职雷达启动！
+2026-06-23 10:19:13 [INFO] 正在扫描 [高盛 (Goldman Sachs)] ...
+2026-06-23 10:19:25 [INFO] [高盛 (Goldman Sachs)] 页面加载成功（第 1 次尝试）
+2026-06-23 10:19:25 [INFO] [高盛 (Goldman Sachs)] 截获 2 个岗位元素，正在执行黑白名单过滤...
+2026-06-23 10:19:25 [INFO] [高盛 (Goldman Sachs)] 过滤后保留 2 个岗位（本轮新: 0 / 历史旧: 2）
+2026-06-23 10:19:27 [INFO] 正在扫描 [摩根大通 (JPMorgan Chase)] ...
+2026-06-23 10:19:40 [INFO] [摩根大通 (JPMorgan Chase)] 页面加载成功（第 1 次尝试）
+2026-06-23 10:19:40 [INFO] [摩根大通 (JPMorgan Chase)] 截获 25 个岗位元素，正在执行黑白名单过滤...
+2026-06-23 10:19:40 [INFO] [摩根大通 (JPMorgan Chase)] 🔍 跳过空元素 title='' href='https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2'
+2026-06-23 10:19:40 [INFO] [摩根大通 (JPMorgan Chase)] 🔍 跳过空元素 title='' href='https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2'
+2026-06-23 10:19:40 [INFO] [摩根大通 (JPMorgan Chase)] 🔍 跳过空元素 title='' href='https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2'
+2026-06-23 10:19:40 [INFO] [摩根大通 (JPMorgan Chase)] 🔍 跳过空元素 title='' href='https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2'
+2026-06-23 10:19:40 [INFO] [摩根大通 (JPMorgan Chase)] 🔍 跳过空元素 title='' href='https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2'
+2026-06-23 10:19:40 [INFO] [摩根大通 (JPMorgan Chase)] 🔍 跳过空元素 title='' href='https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2'
+2026-06-23 10:19:40 [INFO] [摩根大通 (JPMorgan Chase)] 🔍 跳过空元素 title='' href='https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2'
+2026-06-23 10:19:40 [INFO] [摩根大通 (JPMorgan Chase)] 🔍 跳过空元素 title='' href='https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2'
+2026-06-23 10:19:40 [INFO] [摩根大通 (JPMorgan Chase)] 🔍 跳过空元素 title='' href='https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2'
+2026-06-23 10:19:40 [INFO] [摩根大通 (JPMorgan Chase)] 🔍 跳过空元素 title='' href='https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2'
+2026-06-23 10:19:40 [INFO] [摩根大通 (JPMorgan Chase)] 🔍 跳过空元素 title='' href='https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2'
+2026-06-23 10:19:40 [INFO] [摩根大通 (JPMorgan Chase)] 🔍 跳过空元素 title='' href='https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2'
+2026-06-23 10:19:40 [INFO] [摩根大通 (JPMorgan Chase)] 🔍 跳过空元素 title='' href='https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2'
+2026-06-23 10:19:40 [INFO] [摩根大通 (JPMorgan Chase)] 🔍 跳过空元素 title='' href='https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2'
+2026-06-23 10:19:40 [INFO] [摩根大通 (JPMorgan Chase)] 🔍 跳过空元素 title='' href='https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2'
+2026-06-23 10:19:40 [INFO] [摩根大通 (JPMorgan Chase)] 🔍 跳过空元素 title='' href='https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2'
+2026-06-23 10:19:40 [INFO] [摩根大通 (JPMorgan Chase)] 🔍 跳过空元素 title='' href='https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2'
+2026-06-23 10:19:40 [INFO] [摩根大通 (JPMorgan Chase)] 🔍 跳过空元素 title='' href='https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2'
+2026-06-23 10:19:40 [INFO] [摩根大通 (JPMorgan Chase)] 🔍 跳过空元素 title='' href='https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2'
+2026-06-23 10:19:40 [INFO] [摩根大通 (JPMorgan Chase)] 🔍 跳过空元素 title='' href='https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2'
+2026-06-23 10:19:40 [INFO] [摩根大通 (JPMorgan Chase)] 🔍 跳过空元素 title='' href='https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2'
+2026-06-23 10:19:40 [INFO] [摩根大通 (JPMorgan Chase)] 🔍 跳过空元素 title='' href='https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2'
+2026-06-23 10:19:40 [INFO] [摩根大通 (JPMorgan Chase)] 🔍 跳过空元素 title='' href='https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2'
+2026-06-23 10:19:40 [INFO] [摩根大通 (JPMorgan Chase)] 🔍 跳过空元素 title='' href='https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2'
+2026-06-23 10:19:40 [INFO] [摩根大通 (JPMorgan Chase)] 🔍 跳过空元素 title='' href='https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2'
+2026-06-23 10:19:40 [INFO] [摩根大通 (JPMorgan Chase)] 过滤后保留 0 个岗位（本轮新: 0 / 历史旧: 0）
+2026-06-23 10:19:41 [INFO] 浏览器已关闭
+2026-06-23 10:19:41 [INFO] 数据库连接已关闭
+2026-06-23 10:20:18 [INFO] 🚀 求职雷达启动！
+2026-06-23 10:20:19 [INFO] 正在扫描 [高盛 (Goldman Sachs)] ...
+2026-06-23 10:20:30 [INFO] [高盛 (Goldman Sachs)] 页面加载成功（第 1 次尝试）
+2026-06-23 10:20:30 [INFO] [高盛 (Goldman Sachs)] 截获 2 个岗位元素，正在执行黑白名单过滤...
+2026-06-23 10:20:30 [INFO] [高盛 (Goldman Sachs)] 过滤后保留 2 个岗位（本轮新: 0 / 历史旧: 2）
+2026-06-23 10:20:32 [INFO] 正在扫描 [摩根大通 (JPMorgan Chase)] ...
+2026-06-23 10:20:45 [INFO] [摩根大通 (JPMorgan Chase)] 页面加载成功（第 1 次尝试）
+2026-06-23 10:20:45 [INFO] [摩根大通 (JPMorgan Chase)] 截获 25 个岗位元素，正在执行黑白名单过滤...
+2026-06-23 10:20:45 [INFO] [摩根大通 (JPMorgan Chase)] 🔍 跳过空元素 title='' alt_title='' href='https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2'
+2026-06-23 10:20:45 [INFO] [摩根大通 (JPMorgan Chase)] 🔍 元素 HTML: <a class="job-grid-item__link" data-bind="
+        attr: { href: getJobUrl(job.id), 'aria-labelledby': ariaLabelledByIdJob },
+        click: () =&gt; openJobPreview(job.id),
+        hasFocus: hasFocus
+    " href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210761659/?location=Hong+Kong&amp;locationId=300000000289330&amp;locationLevel=country&amp;mode=location" aria-labelledby="210761659"></a>
+2026-06-23 10:20:45 [INFO] [摩根大通 (JPMorgan Chase)] 🔍 跳过空元素 title='' alt_title='' href='https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2'
+2026-06-23 10:20:45 [INFO] [摩根大通 (JPMorgan Chase)] 🔍 元素 HTML: <a class="job-grid-item__link" data-bind="
+        attr: { href: getJobUrl(job.id), 'aria-labelledby': ariaLabelledByIdJob },
+        click: () =&gt; openJobPreview(job.id),
+        hasFocus: hasFocus
+    " href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210670619/?location=Hong+Kong&amp;locationId=300000000289330&amp;locationLevel=country&amp;mode=location" aria-labelledby="210670619"></a>
+2026-06-23 10:20:45 [INFO] [摩根大通 (JPMorgan Chase)] 🔍 跳过空元素 title='' alt_title='' href='https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2'
+2026-06-23 10:20:45 [INFO] [摩根大通 (JPMorgan Chase)] 🔍 元素 HTML: <a class="job-grid-item__link" data-bind="
+        attr: { href: getJobUrl(job.id), 'aria-labelledby': ariaLabelledByIdJob },
+        click: () =&gt; openJobPreview(job.id),
+        hasFocus: hasFocus
+    " href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210760458/?location=Hong+Kong&amp;locationId=300000000289330&amp;locationLevel=country&amp;mode=location" aria-labelledby="210760458"></a>
+2026-06-23 10:20:45 [INFO] [摩根大通 (JPMorgan Chase)] 🔍 跳过空元素 title='' alt_title='' href='https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2'
+2026-06-23 10:20:45 [INFO] [摩根大通 (JPMorgan Chase)] 🔍 元素 HTML: <a class="job-grid-item__link" data-bind="
+        attr: { href: getJobUrl(job.id), 'aria-labelledby': ariaLabelledByIdJob },
+        click: () =&gt; openJobPreview(job.id),
+        hasFocus: hasFocus
+    " href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210716079/?location=Hong+Kong&amp;locationId=300000000289330&amp;locationLevel=country&amp;mode=location" aria-labelledby="210716079"></a>
+2026-06-23 10:20:45 [INFO] [摩根大通 (JPMorgan Chase)] 🔍 跳过空元素 title='' alt_title='' href='https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2'
+2026-06-23 10:20:45 [INFO] [摩根大通 (JPMorgan Chase)] 🔍 元素 HTML: <a class="job-grid-item__link" data-bind="
+        attr: { href: getJobUrl(job.id), 'aria-labelledby': ariaLabelledByIdJob },
+        click: () =&gt; openJobPreview(job.id),
+        hasFocus: hasFocus
+    " href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210756183/?location=Hong+Kong&amp;locationId=300000000289330&amp;locationLevel=country&amp;mode=location" aria-labelledby="210756183"></a>
+2026-06-23 10:20:45 [INFO] [摩根大通 (JPMorgan Chase)] 🔍 跳过空元素 title='' alt_title='' href='https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2'
+2026-06-23 10:20:45 [INFO] [摩根大通 (JPMorgan Chase)] 🔍 元素 HTML: <a class="job-grid-item__link" data-bind="
+        attr: { href: getJobUrl(job.id), 'aria-labelledby': ariaLabelledByIdJob },
+        click: () =&gt; openJobPreview(job.id),
+        hasFocus: hasFocus
+    " href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210759951/?location=Hong+Kong&amp;locationId=300000000289330&amp;locationLevel=country&amp;mode=location" aria-labelledby="210759951"></a>
+2026-06-23 10:20:45 [INFO] [摩根大通 (JPMorgan Chase)] 🔍 跳过空元素 title='' alt_title='' href='https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2'
+2026-06-23 10:20:45 [INFO] [摩根大通 (JPMorgan Chase)] 🔍 元素 HTML: <a class="job-grid-item__link" data-bind="
+        attr: { href: getJobUrl(job.id), 'aria-labelledby': ariaLabelledByIdJob },
+        click: () =&gt; openJobPreview(job.id),
+        hasFocus: hasFocus
+    " href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210758903/?location=Hong+Kong&amp;locationId=300000000289330&amp;locationLevel=country&amp;mode=location" aria-labelledby="210758903"></a>
+2026-06-23 10:20:45 [INFO] [摩根大通 (JPMorgan Chase)] 🔍 跳过空元素 title='' alt_title='' href='https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2'
+2026-06-23 10:20:45 [INFO] [摩根大通 (JPMorgan Chase)] 🔍 元素 HTML: <a class="job-grid-item__link" data-bind="
+        attr: { href: getJobUrl(job.id), 'aria-labelledby': ariaLabelledByIdJob },
+        click: () =&gt; openJobPreview(job.id),
+        hasFocus: hasFocus
+    " href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210758319/?location=Hong+Kong&amp;locationId=300000000289330&amp;locationLevel=country&amp;mode=location" aria-labelledby="210758319"></a>
+2026-06-23 10:20:45 [INFO] [摩根大通 (JPMorgan Chase)] 🔍 跳过空元素 title='' alt_title='' href='https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2'
+2026-06-23 10:20:45 [INFO] [摩根大通 (JPMorgan Chase)] 🔍 元素 HTML: <a class="job-grid-item__link" data-bind="
+        attr: { href: getJobUrl(job.id), 'aria-labelledby': ariaLabelledByIdJob },
+        click: () =&gt; openJobPreview(job.id),
+        hasFocus: hasFocus
+    " href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210746866/?location=Hong+Kong&amp;locationId=300000000289330&amp;locationLevel=country&amp;mode=location" aria-labelledby="210746866"></a>
+2026-06-23 10:20:45 [INFO] [摩根大通 (JPMorgan Chase)] 🔍 跳过空元素 title='' alt_title='' href='https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2'
+2026-06-23 10:20:46 [INFO] [摩根大通 (JPMorgan Chase)] 🔍 元素 HTML: <a class="job-grid-item__link" data-bind="
+        attr: { href: getJobUrl(job.id), 'aria-labelledby': ariaLabelledByIdJob },
+        click: () =&gt; openJobPreview(job.id),
+        hasFocus: hasFocus
+    " href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210707696/?location=Hong+Kong&amp;locationId=300000000289330&amp;locationLevel=country&amp;mode=location" aria-labelledby="210707696"></a>
+2026-06-23 10:20:46 [INFO] [摩根大通 (JPMorgan Chase)] 🔍 跳过空元素 title='' alt_title='' href='https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2'
+2026-06-23 10:20:46 [INFO] [摩根大通 (JPMorgan Chase)] 🔍 元素 HTML: <a class="job-grid-item__link" data-bind="
+        attr: { href: getJobUrl(job.id), 'aria-labelledby': ariaLabelledByIdJob },
+        click: () =&gt; openJobPreview(job.id),
+        hasFocus: hasFocus
+    " href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210755231/?location=Hong+Kong&amp;locationId=300000000289330&amp;locationLevel=country&amp;mode=location" aria-labelledby="210755231"></a>
+2026-06-23 10:20:46 [INFO] [摩根大通 (JPMorgan Chase)] 🔍 跳过空元素 title='' alt_title='' href='https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2'
+2026-06-23 10:20:46 [INFO] [摩根大通 (JPMorgan Chase)] 🔍 元素 HTML: <a class="job-grid-item__link" data-bind="
+        attr: { href: getJobUrl(job.id), 'aria-labelledby': ariaLabelledByIdJob },
+        click: () =&gt; openJobPreview(job.id),
+        hasFocus: hasFocus
+    " href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210756187/?location=Hong+Kong&amp;locationId=300000000289330&amp;locationLevel=country&amp;mode=location" aria-labelledby="210756187"></a>
+2026-06-23 10:20:46 [INFO] [摩根大通 (JPMorgan Chase)] 🔍 跳过空元素 title='' alt_title='' href='https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2'
+2026-06-23 10:20:46 [INFO] [摩根大通 (JPMorgan Chase)] 🔍 元素 HTML: <a class="job-grid-item__link" data-bind="
+        attr: { href: getJobUrl(job.id), 'aria-labelledby': ariaLabelledByIdJob },
+        click: () =&gt; openJobPreview(job.id),
+        hasFocus: hasFocus
+    " href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210757225/?location=Hong+Kong&amp;locationId=300000000289330&amp;locationLevel=country&amp;mode=location" aria-labelledby="210757225"></a>
+2026-06-23 10:20:46 [INFO] [摩根大通 (JPMorgan Chase)] 🔍 跳过空元素 title='' alt_title='' href='https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2'
+2026-06-23 10:20:46 [INFO] [摩根大通 (JPMorgan Chase)] 🔍 元素 HTML: <a class="job-grid-item__link" data-bind="
+        attr: { href: getJobUrl(job.id), 'aria-labelledby': ariaLabelledByIdJob },
+        click: () =&gt; openJobPreview(job.id),
+        hasFocus: hasFocus
+    " href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210755755/?location=Hong+Kong&amp;locationId=300000000289330&amp;locationLevel=country&amp;mode=location" aria-labelledby="210755755"></a>
+2026-06-23 10:20:46 [INFO] [摩根大通 (JPMorgan Chase)] 🔍 跳过空元素 title='' alt_title='' href='https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2'
+2026-06-23 10:20:46 [INFO] [摩根大通 (JPMorgan Chase)] 🔍 元素 HTML: <a class="job-grid-item__link" data-bind="
+        attr: { href: getJobUrl(job.id), 'aria-labelledby': ariaLabelledByIdJob },
+        click: () =&gt; openJobPreview(job.id),
+        hasFocus: hasFocus
+    " href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210716615/?location=Hong+Kong&amp;locationId=300000000289330&amp;locationLevel=country&amp;mode=location" aria-labelledby="210716615"></a>
+2026-06-23 10:20:46 [INFO] [摩根大通 (JPMorgan Chase)] 🔍 跳过空元素 title='' alt_title='' href='https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2'
+2026-06-23 10:20:46 [INFO] [摩根大通 (JPMorgan Chase)] 🔍 元素 HTML: <a class="job-grid-item__link" data-bind="
+        attr: { href: getJobUrl(job.id), 'aria-labelledby': ariaLabelledByIdJob },
+        click: () =&gt; openJobPreview(job.id),
+        hasFocus: hasFocus
+    " href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210753684/?location=Hong+Kong&amp;locationId=300000000289330&amp;locationLevel=country&amp;mode=location" aria-labelledby="210753684"></a>
+2026-06-23 10:20:46 [INFO] [摩根大通 (JPMorgan Chase)] 🔍 跳过空元素 title='' alt_title='' href='https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2'
+2026-06-23 10:20:46 [INFO] [摩根大通 (JPMorgan Chase)] 🔍 元素 HTML: <a class="job-grid-item__link" data-bind="
+        attr: { href: getJobUrl(job.id), 'aria-labelledby': ariaLabelledByIdJob },
+        click: () =&gt; openJobPreview(job.id),
+        hasFocus: hasFocus
+    " href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210756181/?location=Hong+Kong&amp;locationId=300000000289330&amp;locationLevel=country&amp;mode=location" aria-labelledby="210756181"></a>
+2026-06-23 10:20:46 [INFO] [摩根大通 (JPMorgan Chase)] 🔍 跳过空元素 title='' alt_title='' href='https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2'
+2026-06-23 10:20:46 [INFO] [摩根大通 (JPMorgan Chase)] 🔍 元素 HTML: <a class="job-grid-item__link" data-bind="
+        attr: { href: getJobUrl(job.id), 'aria-labelledby': ariaLabelledByIdJob },
+        click: () =&gt; openJobPreview(job.id),
+        hasFocus: hasFocus
+    " href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210754740/?location=Hong+Kong&amp;locationId=300000000289330&amp;locationLevel=country&amp;mode=location" aria-labelledby="210754740"></a>
+2026-06-23 10:20:46 [INFO] [摩根大通 (JPMorgan Chase)] 🔍 跳过空元素 title='' alt_title='' href='https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2'
+2026-06-23 10:20:46 [INFO] [摩根大通 (JPMorgan Chase)] 🔍 元素 HTML: <a class="job-grid-item__link" data-bind="
+        attr: { href: getJobUrl(job.id), 'aria-labelledby': ariaLabelledByIdJob },
+        click: () =&gt; openJobPreview(job.id),
+        hasFocus: hasFocus
+    " href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210755771/?location=Hong+Kong&amp;locationId=300000000289330&amp;locationLevel=country&amp;mode=location" aria-labelledby="210755771"></a>
+2026-06-23 10:20:46 [INFO] [摩根大通 (JPMorgan Chase)] 🔍 跳过空元素 title='' alt_title='' href='https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2'
+2026-06-23 10:20:46 [INFO] [摩根大通 (JPMorgan Chase)] 🔍 元素 HTML: <a class="job-grid-item__link" data-bind="
+        attr: { href: getJobUrl(job.id), 'aria-labelledby': ariaLabelledByIdJob },
+        click: () =&gt; openJobPreview(job.id),
+        hasFocus: hasFocus
+    " href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210754208/?location=Hong+Kong&amp;locationId=300000000289330&amp;locationLevel=country&amp;mode=location" aria-labelledby="210754208"></a>
+2026-06-23 10:20:46 [INFO] [摩根大通 (JPMorgan Chase)] 🔍 跳过空元素 title='' alt_title='' href='https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2'
+2026-06-23 10:20:46 [INFO] [摩根大通 (JPMorgan Chase)] 🔍 元素 HTML: <a class="job-grid-item__link" data-bind="
+        attr: { href: getJobUrl(job.id), 'aria-labelledby': ariaLabelledByIdJob },
+        click: () =&gt; openJobPreview(job.id),
+        hasFocus: hasFocus
+    " href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210737131/?location=Hong+Kong&amp;locationId=300000000289330&amp;locationLevel=country&amp;mode=location" aria-labelledby="210737131"></a>
+2026-06-23 10:20:46 [INFO] [摩根大通 (JPMorgan Chase)] 🔍 跳过空元素 title='' alt_title='' href='https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2'
+2026-06-23 10:20:46 [INFO] [摩根大通 (JPMorgan Chase)] 🔍 元素 HTML: <a class="job-grid-item__link" data-bind="
+        attr: { href: getJobUrl(job.id), 'aria-labelledby': ariaLabelledByIdJob },
+        click: () =&gt; openJobPreview(job.id),
+        hasFocus: hasFocus
+    " href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210752670/?location=Hong+Kong&amp;locationId=300000000289330&amp;locationLevel=country&amp;mode=location" aria-labelledby="210752670"></a>
+2026-06-23 10:20:46 [INFO] [摩根大通 (JPMorgan Chase)] 🔍 跳过空元素 title='' alt_title='' href='https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2'
+2026-06-23 10:20:46 [INFO] [摩根大通 (JPMorgan Chase)] 🔍 元素 HTML: <a class="job-grid-item__link" data-bind="
+        attr: { href: getJobUrl(job.id), 'aria-labelledby': ariaLabelledByIdJob },
+        click: () =&gt; openJobPreview(job.id),
+        hasFocus: hasFocus
+    " href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210753748/?location=Hong+Kong&amp;locationId=300000000289330&amp;locationLevel=country&amp;mode=location" aria-labelledby="210753748"></a>
+2026-06-23 10:20:46 [INFO] [摩根大通 (JPMorgan Chase)] 🔍 跳过空元素 title='' alt_title='' href='https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2'
+2026-06-23 10:20:46 [INFO] [摩根大通 (JPMorgan Chase)] 🔍 元素 HTML: <a class="job-grid-item__link" data-bind="
+        attr: { href: getJobUrl(job.id), 'aria-labelledby': ariaLabelledByIdJob },
+        click: () =&gt; openJobPreview(job.id),
+        hasFocus: hasFocus
+    " href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210743031/?location=Hong+Kong&amp;locationId=300000000289330&amp;locationLevel=country&amp;mode=location" aria-labelledby="210743031"></a>
+2026-06-23 10:20:46 [INFO] [摩根大通 (JPMorgan Chase)] 🔍 跳过空元素 title='' alt_title='' href='https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2'
+2026-06-23 10:20:46 [INFO] [摩根大通 (JPMorgan Chase)] 🔍 元素 HTML: <a class="job-grid-item__link" data-bind="
+        attr: { href: getJobUrl(job.id), 'aria-labelledby': ariaLabelledByIdJob },
+        click: () =&gt; openJobPreview(job.id),
+        hasFocus: hasFocus
+    " href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210745269/?location=Hong+Kong&amp;locationId=300000000289330&amp;locationLevel=country&amp;mode=location" aria-labelledby="210745269"></a>
+2026-06-23 10:20:46 [INFO] [摩根大通 (JPMorgan Chase)] 过滤后保留 0 个岗位（本轮新: 0 / 历史旧: 0）
+2026-06-23 10:20:46 [INFO] 浏览器已关闭
+2026-06-23 10:20:46 [INFO] 数据库连接已关闭
+2026-06-23 10:21:07 [INFO] 🚀 求职雷达启动！
+2026-06-23 10:21:08 [INFO] 正在扫描 [高盛 (Goldman Sachs)] ...
+2026-06-23 10:21:20 [INFO] [高盛 (Goldman Sachs)] 页面加载成功（第 1 次尝试）
+2026-06-23 10:21:20 [INFO] [高盛 (Goldman Sachs)] 截获 2 个岗位元素，正在执行黑白名单过滤...
+2026-06-23 10:21:20 [INFO] [高盛 (Goldman Sachs)] 过滤后保留 2 个岗位（本轮新: 0 / 历史旧: 2）
+2026-06-23 10:21:22 [INFO] 正在扫描 [摩根大通 (JPMorgan Chase)] ...
+2026-06-23 10:21:35 [INFO] [摩根大通 (JPMorgan Chase)] 页面加载成功（第 1 次尝试）
+2026-06-23 10:21:35 [INFO] [摩根大通 (JPMorgan Chase)] 截获 25 个岗位元素，正在执行黑白名单过滤...
+2026-06-23 10:21:36 [INFO] [摩根大通 (JPMorgan Chase)] 过滤后保留 0 个岗位（本轮新: 0 / 历史旧: 0）
+2026-06-23 10:21:36 [INFO] 浏览器已关闭
+2026-06-23 10:21:36 [INFO] 数据库连接已关闭
+2026-06-23 10:22:27 [INFO] 🚀 求职雷达启动！
+2026-06-23 10:22:28 [INFO] 正在扫描 [高盛 (Goldman Sachs)] ...
+2026-06-23 10:22:39 [INFO] [高盛 (Goldman Sachs)] 页面加载成功（第 1 次尝试）
+2026-06-23 10:22:39 [INFO] [高盛 (Goldman Sachs)] 截获 2 个岗位元素，正在执行黑白名单过滤...
+2026-06-23 10:22:39 [INFO] [高盛 (Goldman Sachs)] 📌 标题: 2026 | APEJ | Hong Kong | Global Investment Research, Industrial Tech | Seasonal
+2026-06-23 10:22:39 [INFO] [高盛 (Goldman Sachs)] 📌 标题: 2026 | APEJ | Shanghai | Internal Audit | New Analyst
+Shanghai·China
+·Analyst
+2026-06-23 10:22:39 [INFO] [高盛 (Goldman Sachs)] 过滤后保留 2 个岗位（本轮新: 0 / 历史旧: 2）
+2026-06-23 10:22:41 [INFO] 正在扫描 [摩根大通 (JPMorgan Chase)] ...
+2026-06-23 10:37:08 [INFO] 🚀 求职雷达启动！
+2026-06-23 10:37:09 [INFO] 正在扫描 [高盛 (Goldman Sachs)] ...
+2026-06-23 10:37:20 [INFO] [高盛 (Goldman Sachs)] 页面加载成功（第 1 次尝试）
+2026-06-23 10:37:20 [INFO] [高盛 (Goldman Sachs)] 截获 2 个岗位元素，正在执行黑白名单过滤...
+2026-06-23 10:37:20 [INFO] [高盛 (Goldman Sachs)] 过滤后保留 2 个岗位（本轮新: 0 / 历史旧: 2）
+2026-06-23 10:37:22 [INFO] 正在扫描 [摩根大通 (JPMorgan Chase)] ...
+2026-06-23 10:37:35 [INFO] [摩根大通 (JPMorgan Chase)] 页面加载成功（第 1 次尝试）
+2026-06-23 10:37:35 [INFO] [摩根大通 (JPMorgan Chase)] 截获 25 个岗位元素，正在执行黑白名单过滤...
+2026-06-23 10:37:35 [INFO] [摩根大通 (JPMorgan Chase)] 过滤后保留 0 个岗位（本轮新: 0 / 历史旧: 0）
+2026-06-23 10:37:35 [INFO] 浏览器已关闭
+2026-06-23 10:37:35 [INFO] 数据库连接已关闭
+2026-06-23 10:37:56 [INFO] 🚀 求职雷达启动！
+2026-06-23 10:37:57 [INFO] 正在扫描 [高盛 (Goldman Sachs)] ...
+2026-06-23 10:38:08 [INFO] [高盛 (Goldman Sachs)] 页面加载成功（第 1 次尝试）
+2026-06-23 10:38:08 [INFO] [高盛 (Goldman Sachs)] 截获 2 个岗位元素，正在执行黑白名单过滤...
+2026-06-23 10:38:08 [INFO] [高盛 (Goldman Sachs)] 📌 标题: 2026 | APEJ | Hong Kong | Global Investment Research, Industrial Tech | Seasonal / Off-cycle Interns
+2026-06-23 10:38:08 [INFO] [高盛 (Goldman Sachs)] 📌 标题: 2026 | APEJ | Shanghai | Internal Audit | New Analyst
+Shanghai·China
+·Analyst
+2026-06-23 10:38:08 [INFO] [高盛 (Goldman Sachs)] 过滤后保留 2 个岗位（本轮新: 0 / 历史旧: 2）
+2026-06-23 10:38:10 [INFO] 正在扫描 [摩根大通 (JPMorgan Chase)] ...
+2026-06-23 10:38:22 [INFO] [摩根大通 (JPMorgan Chase)] 页面加载成功（第 1 次尝试）
+2026-06-23 10:38:22 [INFO] [摩根大通 (JPMorgan Chase)] 截获 25 个岗位元素，正在执行黑白名单过滤...
+2026-06-23 10:38:22 [INFO] [摩根大通 (JPMorgan Chase)] 🔍 跳过空: title=''
+2026-06-23 10:38:22 [INFO] [摩根大通 (JPMorgan Chase)] 🔍 跳过空: title=''
+2026-06-23 10:38:22 [INFO] [摩根大通 (JPMorgan Chase)] 🔍 跳过空: title=''
+2026-06-23 10:38:22 [INFO] [摩根大通 (JPMorgan Chase)] 🔍 跳过空: title=''
+2026-06-23 10:38:22 [INFO] [摩根大通 (JPMorgan Chase)] 🔍 跳过空: title=''
+2026-06-23 10:38:22 [INFO] [摩根大通 (JPMorgan Chase)] 🔍 跳过空: title=''
+2026-06-23 10:38:22 [INFO] [摩根大通 (JPMorgan Chase)] 🔍 跳过空: title=''
+2026-06-23 10:38:22 [INFO] [摩根大通 (JPMorgan Chase)] 🔍 跳过空: title=''
+2026-06-23 10:38:22 [INFO] [摩根大通 (JPMorgan Chase)] 🔍 跳过空: title=''
+2026-06-23 10:38:22 [INFO] [摩根大通 (JPMorgan Chase)] 🔍 跳过空: title=''
+2026-06-23 10:38:22 [INFO] [摩根大通 (JPMorgan Chase)] 🔍 跳过空: title=''
+2026-06-23 10:38:22 [INFO] [摩根大通 (JPMorgan Chase)] 🔍 跳过空: title=''
+2026-06-23 10:38:22 [INFO] [摩根大通 (JPMorgan Chase)] 🔍 跳过空: title=''
+2026-06-23 10:38:22 [INFO] [摩根大通 (JPMorgan Chase)] 🔍 跳过空: title=''
+2026-06-23 10:38:22 [INFO] [摩根大通 (JPMorgan Chase)] 🔍 跳过空: title=''
+2026-06-23 10:38:22 [INFO] [摩根大通 (JPMorgan Chase)] 🔍 跳过空: title=''
+2026-06-23 10:38:22 [INFO] [摩根大通 (JPMorgan Chase)] 🔍 跳过空: title=''
+2026-06-23 10:38:22 [INFO] [摩根大通 (JPMorgan Chase)] 🔍 跳过空: title=''
+2026-06-23 10:38:22 [INFO] [摩根大通 (JPMorgan Chase)] 🔍 跳过空: title=''
+2026-06-23 10:38:23 [INFO] [摩根大通 (JPMorgan Chase)] 🔍 跳过空: title=''
+2026-06-23 10:38:23 [INFO] [摩根大通 (JPMorgan Chase)] 🔍 跳过空: title=''
+2026-06-23 10:38:23 [INFO] [摩根大通 (JPMorgan Chase)] 🔍 跳过空: title=''
+2026-06-23 10:38:23 [INFO] [摩根大通 (JPMorgan Chase)] 🔍 跳过空: title=''
+2026-06-23 10:38:23 [INFO] [摩根大通 (JPMorgan Chase)] 🔍 跳过空: title=''
+2026-06-23 10:38:23 [INFO] [摩根大通 (JPMorgan Chase)] 🔍 跳过空: title=''
+2026-06-23 10:38:23 [INFO] [摩根大通 (JPMorgan Chase)] 过滤后保留 0 个岗位（本轮新: 0 / 历史旧: 0）
+2026-06-23 10:38:23 [INFO] 浏览器已关闭
+2026-06-23 10:38:23 [INFO] 数据库连接已关闭
+2026-06-23 10:38:49 [INFO] 🚀 求职雷达启动！
+2026-06-23 10:38:50 [INFO] 正在扫描 [高盛 (Goldman Sachs)] ...
+2026-06-23 10:39:01 [INFO] [高盛 (Goldman Sachs)] 页面加载成功（第 1 次尝试）
+2026-06-23 10:39:01 [INFO] [高盛 (Goldman Sachs)] 截获 2 个岗位元素，正在执行黑白名单过滤...
+2026-06-23 10:39:01 [INFO] [高盛 (Goldman Sachs)] 📌 标题: 2026 | APEJ | Hong Kong | Global Investment Research, Industrial Tech | Seasonal / Off-cycle Interns
+2026-06-23 10:39:01 [INFO] [高盛 (Goldman Sachs)] 📌 标题: 2026 | APEJ | Shanghai | Internal Audit | New Analyst
+Shanghai·China
+·Analyst
+2026-06-23 10:39:01 [INFO] [高盛 (Goldman Sachs)] 过滤后保留 2 个岗位（本轮新: 0 / 历史旧: 2）
+2026-06-23 10:39:03 [INFO] 正在扫描 [摩根大通 (JPMorgan Chase)] ...
+2026-06-23 10:39:17 [INFO] [摩根大通 (JPMorgan Chase)] 页面加载成功（第 1 次尝试）
+2026-06-23 10:39:17 [INFO] [摩根大通 (JPMorgan Chase)] 截获 25 个岗位元素，正在执行黑白名单过滤...
+2026-06-23 10:39:17 [INFO] [摩根大通 (JPMorgan Chase)] 🔍 跳过空: title=''
+2026-06-23 10:39:17 [INFO] [摩根大通 (JPMorgan Chase)] 🔍 跳过空: title=''
+2026-06-23 10:39:17 [INFO] [摩根大通 (JPMorgan Chase)] 🔍 跳过空: title=''
+2026-06-23 10:39:17 [INFO] [摩根大通 (JPMorgan Chase)] 🔍 跳过空: title=''
+2026-06-23 10:39:17 [INFO] [摩根大通 (JPMorgan Chase)] 🔍 跳过空: title=''
+2026-06-23 10:39:17 [INFO] [摩根大通 (JPMorgan Chase)] 🔍 跳过空: title=''
+2026-06-23 10:39:17 [INFO] [摩根大通 (JPMorgan Chase)] 🔍 跳过空: title=''
+2026-06-23 10:39:17 [INFO] [摩根大通 (JPMorgan Chase)] 🔍 跳过空: title=''
+2026-06-23 10:39:17 [INFO] [摩根大通 (JPMorgan Chase)] 🔍 跳过空: title=''
+2026-06-23 10:39:17 [INFO] [摩根大通 (JPMorgan Chase)] 🔍 跳过空: title=''
+2026-06-23 10:39:18 [INFO] [摩根大通 (JPMorgan Chase)] 🔍 跳过空: title=''
+2026-06-23 10:39:18 [INFO] [摩根大通 (JPMorgan Chase)] 🔍 跳过空: title=''
+2026-06-23 10:39:18 [INFO] [摩根大通 (JPMorgan Chase)] 🔍 跳过空: title=''
+2026-06-23 10:39:18 [INFO] [摩根大通 (JPMorgan Chase)] 🔍 跳过空: title=''
+2026-06-23 10:39:18 [INFO] [摩根大通 (JPMorgan Chase)] 🔍 跳过空: title=''
+2026-06-23 10:39:18 [INFO] [摩根大通 (JPMorgan Chase)] 🔍 跳过空: title=''
+2026-06-23 10:39:18 [INFO] [摩根大通 (JPMorgan Chase)] 🔍 跳过空: title=''
+2026-06-23 10:39:19 [INFO] [摩根大通 (JPMorgan Chase)] 🔍 跳过空: title=''
+2026-06-23 10:39:19 [INFO] [摩根大通 (JPMorgan Chase)] 🔍 跳过空: title=''
+2026-06-23 10:39:19 [INFO] [摩根大通 (JPMorgan Chase)] 🔍 跳过空: title=''
+2026-06-23 10:39:19 [INFO] [摩根大通 (JPMorgan Chase)] 🔍 跳过空: title=''
+2026-06-23 10:39:19 [INFO] [摩根大通 (JPMorgan Chase)] 🔍 跳过空: title=''
+2026-06-23 10:39:19 [INFO] [摩根大通 (JPMorgan Chase)] 🔍 跳过空: title=''
+2026-06-23 10:39:19 [INFO] [摩根大通 (JPMorgan Chase)] 🔍 跳过空: title=''
+2026-06-23 10:39:19 [INFO] [摩根大通 (JPMorgan Chase)] 🔍 跳过空: title=''
+2026-06-23 10:39:19 [INFO] [摩根大通 (JPMorgan Chase)] 过滤后保留 0 个岗位（本轮新: 0 / 历史旧: 0）
+2026-06-23 10:39:19 [INFO] 浏览器已关闭
+2026-06-23 10:39:19 [INFO] 数据库连接已关闭
+2026-06-23 10:40:12 [INFO] 🚀 求职雷达启动！
+2026-06-23 10:40:12 [INFO] 正在扫描 [高盛 (Goldman Sachs)] ...
+2026-06-23 10:40:23 [INFO] [高盛 (Goldman Sachs)] 页面加载成功（第 1 次尝试）
+2026-06-23 10:40:23 [INFO] [高盛 (Goldman Sachs)] 截获 2 个岗位元素，正在执行黑白名单过滤...
+2026-06-23 10:40:23 [INFO] [高盛 (Goldman Sachs)] 📌 标题: 2026 | APEJ | Hong Kong | Global Investment Research, Industrial Tech | Seasonal / Off-cycle Interns
+2026-06-23 10:40:23 [INFO] [高盛 (Goldman Sachs)] 📌 标题: 2026 | APEJ | Shanghai | Internal Audit | New Analyst
+Shanghai·China
+·Analyst
+2026-06-23 10:40:23 [INFO] [高盛 (Goldman Sachs)] 过滤后保留 2 个岗位（本轮新: 0 / 历史旧: 2）
+2026-06-23 10:40:25 [INFO] 正在扫描 [摩根大通 (JPMorgan Chase)] ...
+2026-06-23 10:40:41 [INFO] [摩根大通 (JPMorgan Chase)] 页面加载成功（第 1 次尝试）
+2026-06-23 10:40:41 [INFO] [摩根大通 (JPMorgan Chase)] 截获 25 个岗位元素，正在执行黑白名单过滤...
+2026-06-23 10:40:41 [INFO] [摩根大通 (JPMorgan Chase)] 🔍 运行时 HTML: <li data-qa="searchResultItem">
+                <!-- ko component: {
+                        name: $parent.tileComponent,
+                        params: {
+                            job: job,
+                            hasFocus: $parent.isFirstJobAfterLoadMore($index()),
+                            customizationParams: $parent.customizationParams,
+                        }
+                    } --><div class="job-tile job-grid-item search-results job-grid-item--all-actions-visible" data-bind="
+    css: { 'job-grid-item--active': job.isActive, 'job-grid-item--focus': hasFocus,
+    'job-grid-
+2026-06-23 10:40:41 [INFO] [摩根大通 (JPMorgan Chase)] 📌 标题: Lead eSoftware engineer, Smart Order Routing C++, Equities Technologies Team
+2026-06-23 10:40:41 [INFO] [摩根大通 (JPMorgan Chase)] 📌 标题: International Private Bank - Trade Execution Specialist - Associate
+2026-06-23 10:40:41 [INFO] [摩根大通 (JPMorgan Chase)] 📌 标题: Asset Management - China Institutional Business, Sales Support - Associate/ Analyst
+2026-06-23 10:40:41 [INFO] [摩根大通 (JPMorgan Chase)] 📌 标题: Global Investment Banking - TMT- Analyst/Associate (Korean - Speaking)
+2026-06-23 10:40:41 [INFO] [摩根大通 (JPMorgan Chase)] 📌 标题: Regional Strategy & Transaction Manager - Vice President
+2026-06-23 10:40:41 [INFO] [摩根大通 (JPMorgan Chase)] 📌 标题: International Private Bank - Lending Advisory Analyst
+2026-06-23 10:40:41 [INFO] [摩根大通 (JPMorgan Chase)] 📌 标题: Payments - Client & Transaction Manager - Project Finance - Middle Office – Vice President
+2026-06-23 10:40:41 [INFO] [摩根大通 (JPMorgan Chase)] 📌 标题: Software engineer III, Electronic Trading & Liquidity Integration, Equities Technologies Team, DevOp
+2026-06-23 10:40:41 [INFO] [摩根大通 (JPMorgan Chase)] 📌 标题: Wealth Management KYC Associate
+2026-06-23 10:40:41 [INFO] [摩根大通 (JPMorgan Chase)] 📌 标题: Equity Derivatives Trade Support - Analyst/Associate
+2026-06-23 10:40:41 [INFO] [摩根大通 (JPMorgan Chase)] 📌 标题: JPMAM APAC Lead for ETF Product and Content Marketing, Managing Writer/Editor
+2026-06-23 10:40:41 [INFO] [摩根大通 (JPMorgan Chase)] 📌 标题: Greater China Cash Operations Lead - Vice President
+2026-06-23 10:40:41 [INFO] [摩根大通 (JPMorgan Chase)] 📌 标题: Lead Software Engineer, Client On-boarding & Integration Specialist, Equities Electronic Trading
+2026-06-23 10:40:41 [INFO] [摩根大通 (JPMorgan Chase)] 📌 标题: Senior Events Manager - Vice President
+2026-06-23 10:40:41 [INFO] [摩根大通 (JPMorgan Chase)] 📌 标题: Global Investment Banking - Vice President, Hong Kong
+2026-06-23 10:40:41 [INFO] [摩根大通 (JPMorgan Chase)] 📌 标题: 2026 J.P. Morgan Private Bank Challenge - Hong Kong
+2026-06-23 10:40:41 [INFO] [摩根大通 (JPMorgan Chase)] 📌 标题: Global Investment Banking -TMT, Vice President
+2026-06-23 10:40:41 [INFO] [摩根大通 (JPMorgan Chase)] 📌 标题: Fund Operations - Client Servicing Associate (Japanese Speaker)
+2026-06-23 10:40:41 [INFO] [摩根大通 (JPMorgan Chase)] 📌 标题: Securities Services Operations - Fund Accounting - Executive Director
+2026-06-23 10:40:41 [INFO] [摩根大通 (JPMorgan Chase)] 📌 标题: Securities Services Investment Middle Office Services - Asset Servicing Analyst
+2026-06-23 10:40:41 [INFO] [摩根大通 (JPMorgan Chase)] 📌 标题: Wealth Management - Asia Strategic Equity Solutions - Executive Director
+2026-06-23 10:40:41 [INFO] [摩根大通 (JPMorgan Chase)] 📌 标题: Asset Management - APAC Product Development - Vice President
+2026-06-23 10:40:41 [INFO] [摩根大通 (JPMorgan Chase)] 📌 标题: International Private Bank - Client Service – Associate
+2026-06-23 10:40:41 [INFO] [摩根大通 (JPMorgan Chase)] 📌 标题: 2027 Asset Management Program – Summer Internship – Hong Kong
+2026-06-23 10:40:41 [INFO] [摩根大通 (JPMorgan Chase)] 📌 标题: 2027 Global Private Bank Investment Solutions Program – Summer Internship - Hong Kong
+2026-06-23 10:40:41 [INFO] [摩根大通 (JPMorgan Chase)] 发现 8 个全新岗位，已写入数据库
+2026-06-23 10:40:41 [INFO] [摩根大通 (JPMorgan Chase)] 过滤后保留 8 个岗位（本轮新: 8 / 历史旧: 0）
+2026-06-23 10:40:41 [INFO] 浏览器已关闭
+2026-06-23 10:40:41 [INFO] 数据库连接已关闭
+2026-06-23 10:43:51 [INFO] 🚀 求职雷达启动！
+2026-06-23 10:43:51 [INFO] 正在扫描 [高盛 (Goldman Sachs)] ...
+2026-06-23 10:44:03 [INFO] [高盛 (Goldman Sachs)] 页面加载成功（第 1 次尝试）
+2026-06-23 10:44:03 [INFO] [高盛 (Goldman Sachs)] 截获 2 个岗位元素，正在执行黑白名单过滤...
+2026-06-23 10:44:03 [INFO] [高盛 (Goldman Sachs)] 过滤后保留 2 个岗位（本轮新: 0 / 历史旧: 2）
+2026-06-23 10:44:05 [INFO] 正在扫描 [摩根大通 (JPMorgan Chase)] ...
+2026-06-23 10:44:20 [INFO] [摩根大通 (JPMorgan Chase)] 页面加载成功（第 1 次尝试）
+2026-06-23 10:44:20 [INFO] [摩根大通 (JPMorgan Chase)] 截获 25 个岗位元素，正在执行黑白名单过滤...
+2026-06-23 10:44:21 [INFO] [摩根大通 (JPMorgan Chase)] 过滤后保留 8 个岗位（本轮新: 0 / 历史旧: 8）
+2026-06-23 10:44:21 [INFO] 浏览器已关闭
+2026-06-23 10:44:21 [INFO] 数据库连接已关闭
+2026-06-23 10:46:27 [INFO] 🚀 求职雷达启动！
+2026-06-23 10:46:28 [INFO] 正在扫描 [高盛 (Goldman Sachs)] ...
+2026-06-23 10:46:40 [INFO] [高盛 (Goldman Sachs)] 页面加载成功（第 1 次尝试）
+2026-06-23 10:46:40 [INFO] [高盛 (Goldman Sachs)] 截获 2 个岗位元素，正在执行黑白名单过滤...
+2026-06-23 10:46:40 [INFO] [高盛 (Goldman Sachs)] 过滤后保留 2 个岗位（本轮新: 0 / 历史旧: 2）
+2026-06-23 10:46:42 [INFO] 正在扫描 [摩根大通 (JPMorgan Chase)] ...
+2026-06-23 10:47:02 [INFO] [摩根大通 (JPMorgan Chase)] 页面加载成功（第 1 次尝试）
+2026-06-23 10:47:02 [INFO] [摩根大通 (JPMorgan Chase)] 截获 119 个岗位元素，正在执行黑白名单过滤...
+2026-06-23 10:47:06 [INFO] [摩根大通 (JPMorgan Chase)] 发现 18 个全新岗位，已写入数据库
+2026-06-23 10:47:06 [INFO] [摩根大通 (JPMorgan Chase)] 过滤后保留 26 个岗位（本轮新: 18 / 历史旧: 8）
+2026-06-23 10:47:06 [INFO] 浏览器已关闭
+2026-06-23 10:47:06 [INFO] 数据库连接已关闭
+2026-06-23 16:17:36 [INFO] 🚀 求职雷达启动！
+2026-06-23 16:17:43 [INFO] 正在扫描 [高盛 (Goldman Sachs)] ...
+2026-06-23 16:17:59 [INFO] [高盛 (Goldman Sachs)] 页面加载成功（第 1 次尝试）
+2026-06-23 16:17:59 [INFO] [高盛 (Goldman Sachs)] 截获 2 个岗位元素，正在执行黑白名单过滤...
+2026-06-23 16:17:59 [INFO] [高盛 (Goldman Sachs)] 过滤后保留 2 个岗位（本轮新: 0 / 历史旧: 2）
+2026-06-23 16:18:01 [INFO] 正在扫描 [摩根大通 (JPMorgan Chase) - 香港] ...
+2026-06-23 16:18:25 [INFO] [摩根大通 (JPMorgan Chase) - 香港] 页面加载成功（第 1 次尝试）
+2026-06-23 16:18:25 [INFO] [摩根大通 (JPMorgan Chase) - 香港] 截获 120 个岗位元素，正在执行黑白名单过滤...
+2026-06-23 16:18:29 [INFO] [摩根大通 (JPMorgan Chase) - 香港] 发现 26 个全新岗位，已写入数据库
+2026-06-23 16:18:29 [INFO] [摩根大通 (JPMorgan Chase) - 香港] 过滤后保留 26 个岗位（本轮新: 26 / 历史旧: 0）
+2026-06-23 16:18:31 [INFO] 正在扫描 [摩根大通 (JPMorgan Chase) - 上海] ...
+2026-06-23 16:18:37 [INFO] [摩根大通 (JPMorgan Chase) - 上海] 页面加载成功（第 1 次尝试）
+2026-06-23 16:18:37 [INFO] [摩根大通 (JPMorgan Chase) - 上海] 截获 44 个岗位元素，正在执行黑白名单过滤...
+2026-06-23 16:18:38 [INFO] [摩根大通 (JPMorgan Chase) - 上海] 发现 12 个全新岗位，已写入数据库
+2026-06-23 16:18:38 [INFO] [摩根大通 (JPMorgan Chase) - 上海] 过滤后保留 12 个岗位（本轮新: 12 / 历史旧: 0）
+2026-06-23 16:18:39 [INFO] 浏览器已关闭
+2026-06-23 16:18:39 [INFO] 数据库连接已关闭
+2026-06-23 16:20:15 [INFO] 🚀 求职雷达启动！
+2026-06-23 16:20:16 [INFO] 正在扫描 [高盛 (Goldman Sachs)] ...
+2026-06-23 16:20:29 [INFO] [高盛 (Goldman Sachs)] 页面加载成功（第 1 次尝试）
+2026-06-23 16:20:29 [INFO] [高盛 (Goldman Sachs)] 截获 2 个岗位元素，正在执行黑白名单过滤...
+2026-06-23 16:20:29 [INFO] [高盛 (Goldman Sachs)] 过滤后保留 2 个岗位（本轮新: 0 / 历史旧: 2）
+2026-06-23 16:20:31 [INFO] 正在扫描 [摩根大通 (JPMorgan Chase) - 香港] ...
+2026-06-23 16:20:53 [INFO] [摩根大通 (JPMorgan Chase) - 香港] 页面加载成功（第 1 次尝试）
+2026-06-23 16:20:53 [INFO] [摩根大通 (JPMorgan Chase) - 香港] 截获 120 个岗位元素，正在执行黑白名单过滤...
+2026-06-23 16:20:57 [INFO] [摩根大通 (JPMorgan Chase) - 香港] 过滤后保留 8 个岗位（本轮新: 0 / 历史旧: 8）
+2026-06-23 16:20:59 [INFO] 正在扫描 [摩根大通 (JPMorgan Chase) - 上海] ...
+2026-06-23 16:21:07 [INFO] [摩根大通 (JPMorgan Chase) - 上海] 页面加载成功（第 1 次尝试）
+2026-06-23 16:21:07 [INFO] [摩根大通 (JPMorgan Chase) - 上海] 截获 44 个岗位元素，正在执行黑白名单过滤...
+2026-06-23 16:21:08 [INFO] [摩根大通 (JPMorgan Chase) - 上海] 过滤后保留 3 个岗位（本轮新: 0 / 历史旧: 3）
+2026-06-23 16:21:08 [INFO] 浏览器已关闭
+2026-06-23 16:21:08 [INFO] 数据库连接已关闭
+2026-06-24 21:03:53 [INFO] 🚀 求职雷达启动！
+2026-06-24 21:03:57 [INFO] 正在扫描 [高盛 (Goldman Sachs)] ...
+2026-06-24 21:04:21 [INFO] [高盛 (Goldman Sachs)] 页面加载成功（第 1 次尝试）
+2026-06-24 21:04:21 [INFO] [高盛 (Goldman Sachs)] 截获 2 个岗位元素，正在执行黑白名单过滤...
+2026-06-24 21:04:21 [INFO] [高盛 (Goldman Sachs)] 过滤后保留 2 个岗位（本轮新: 0 / 历史旧: 2）
+2026-06-24 21:04:23 [INFO] 正在扫描 [摩根大通 (JPMorgan Chase) - 香港] ...
+2026-06-24 21:05:13 [WARNING] [摩根大通 (JPMorgan Chase) - 香港] 第 1/3 次加载失败: Page.wait_for_selector: Timeout 20000ms exceeded.
+Call log:
+  - waiting for locator("a.job-grid-item__link") to be visible
+
+2026-06-24 21:05:36 [INFO] [摩根大通 (JPMorgan Chase) - 香港] 页面加载成功（第 2 次尝试）
+2026-06-24 21:05:36 [INFO] [摩根大通 (JPMorgan Chase) - 香港] 截获 123 个岗位元素，正在执行黑白名单过滤...
+2026-06-24 21:05:41 [INFO] [摩根大通 (JPMorgan Chase) - 香港] 过滤后保留 8 个岗位（本轮新: 0 / 历史旧: 8）
+2026-06-24 21:05:43 [INFO] 正在扫描 [摩根大通 (JPMorgan Chase) - 上海] ...
+2026-06-24 21:05:50 [INFO] [摩根大通 (JPMorgan Chase) - 上海] 页面加载成功（第 1 次尝试）
+2026-06-24 21:05:50 [INFO] [摩根大通 (JPMorgan Chase) - 上海] 截获 42 个岗位元素，正在执行黑白名单过滤...
+2026-06-24 21:05:51 [INFO] [摩根大通 (JPMorgan Chase) - 上海] 过滤后保留 3 个岗位（本轮新: 0 / 历史旧: 3）
+2026-06-24 21:05:51 [INFO] 浏览器已关闭
+2026-06-24 21:05:51 [INFO] 数据库连接已关闭
+2026-06-27 19:41:33 [INFO] 🚀 求职雷达启动！
+2026-06-27 19:41:41 [INFO] 正在扫描 [高盛 (Goldman Sachs)] ...
+2026-06-27 19:41:56 [INFO] [高盛 (Goldman Sachs)] 页面加载成功（第 1 次尝试）
+2026-06-27 19:41:56 [INFO] [高盛 (Goldman Sachs)] 截获 2 个岗位元素，正在执行黑白名单过滤...
+2026-06-27 19:41:56 [INFO] [高盛 (Goldman Sachs)] 过滤后保留 2 个岗位（本轮新: 0 / 历史旧: 2）
+2026-06-27 19:41:58 [INFO] 正在扫描 [摩根大通 (JPMorgan Chase) - 香港] ...
+2026-06-27 19:42:16 [INFO] [摩根大通 (JPMorgan Chase) - 香港] 页面加载成功（第 1 次尝试）
+2026-06-27 19:42:16 [INFO] [摩根大通 (JPMorgan Chase) - 香港] 截获 119 个岗位元素，正在执行黑白名单过滤...
+2026-06-27 19:42:19 [INFO] [摩根大通 (JPMorgan Chase) - 香港] 过滤后保留 8 个岗位（本轮新: 0 / 历史旧: 8）
+2026-06-27 19:42:21 [INFO] 正在扫描 [摩根大通 (JPMorgan Chase) - 上海] ...
+2026-06-27 19:42:28 [INFO] [摩根大通 (JPMorgan Chase) - 上海] 页面加载成功（第 1 次尝试）
+2026-06-27 19:42:28 [INFO] [摩根大通 (JPMorgan Chase) - 上海] 截获 43 个岗位元素，正在执行黑白名单过滤...
+2026-06-27 19:42:28 [INFO] [摩根大通 (JPMorgan Chase) - 上海] 发现 1 个全新岗位，已写入数据库
+2026-06-27 19:42:28 [INFO] [摩根大通 (JPMorgan Chase) - 上海] 过滤后保留 4 个岗位（本轮新: 1 / 历史旧: 3）
+2026-06-27 19:42:30 [INFO] 正在扫描 [摩根士丹利 (Morgan Stanley)] ...
+2026-06-27 19:42:32 [WARNING] [摩根士丹利 (Morgan Stanley)] 第 1/3 次加载失败: Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.morganstanley.com/careers/career-opportunities-search#
+Call log:
+  - navigating to "https://www.morganstanley.com/careers/career-opportunities-search#", waiting until "domcontentloaded"
+
+2026-06-27 19:42:34 [WARNING] [摩根士丹利 (Morgan Stanley)] 第 2/3 次加载失败: Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.morganstanley.com/careers/career-opportunities-search#
+Call log:
+  - navigating to "https://www.morganstanley.com/careers/career-opportunities-search#", waiting until "domcontentloaded"
+
+2026-06-27 19:42:36 [WARNING] [摩根士丹利 (Morgan Stanley)] 第 3/3 次加载失败: Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.morganstanley.com/careers/career-opportunities-search#
+Call log:
+  - navigating to "https://www.morganstanley.com/careers/career-opportunities-search#", waiting until "domcontentloaded"
+
+2026-06-27 19:42:36 [ERROR] [摩根士丹利 (Morgan Stanley)] 已达最大重试次数，跳过该公司
+2026-06-27 19:42:38 [INFO] 正在扫描 [摩根士丹利中国 (Morgan Stanley China)] ...
+2026-06-27 19:43:06 [WARNING] [摩根士丹利中国 (Morgan Stanley China)] 第 1/3 次加载失败: Page.wait_for_selector: Timeout 20000ms exceeded.
+Call log:
+  - waiting for locator("a.jobCardTitle") to be visible
+
+2026-06-27 19:43:30 [WARNING] [摩根士丹利中国 (Morgan Stanley China)] 第 2/3 次加载失败: Page.wait_for_selector: Timeout 20000ms exceeded.
+Call log:
+  - waiting for locator("a.jobCardTitle") to be visible
+
+2026-06-27 19:43:55 [WARNING] [摩根士丹利中国 (Morgan Stanley China)] 第 3/3 次加载失败: Page.wait_for_selector: Timeout 20000ms exceeded.
+Call log:
+  - waiting for locator("a.jobCardTitle") to be visible
+
+2026-06-27 19:43:55 [ERROR] [摩根士丹利中国 (Morgan Stanley China)] 已达最大重试次数，跳过该公司
+2026-06-27 19:43:57 [INFO] 正在扫描 [花旗银行 (Citi) - 中国大陆] ...
+2026-06-27 19:44:08 [INFO] [花旗银行 (Citi) - 中国大陆] 页面加载成功（第 1 次尝试）
+2026-06-27 19:44:08 [INFO] [花旗银行 (Citi) - 中国大陆] 截获 15 个岗位元素，正在执行黑白名单过滤...
+2026-06-27 19:44:08 [INFO] [花旗银行 (Citi) - 中国大陆] 过滤后保留 0 个岗位（本轮新: 0 / 历史旧: 0）
+2026-06-27 19:44:10 [INFO] 正在扫描 [花旗银行 (Citi) - 香港] ...
+2026-06-27 19:44:16 [INFO] [花旗银行 (Citi) - 香港] 页面加载成功（第 1 次尝试）
+2026-06-27 19:44:16 [INFO] [花旗银行 (Citi) - 香港] 截获 15 个岗位元素，正在执行黑白名单过滤...
+2026-06-27 19:44:16 [INFO] [花旗银行 (Citi) - 香港] 过滤后保留 0 个岗位（本轮新: 0 / 历史旧: 0）
+2026-06-27 19:44:18 [INFO] 浏览器已关闭
+2026-06-27 19:44:18 [INFO] 数据库连接已关闭
+2026-06-27 20:17:55 [INFO] 🚀 求职雷达启动！
+2026-06-27 20:18:03 [INFO] 正在扫描 [高盛 (Goldman Sachs)] ...
+2026-06-27 20:18:15 [INFO] [高盛 (Goldman Sachs)] 页面加载成功（第 1 次尝试）
+2026-06-27 20:18:15 [INFO] [高盛 (Goldman Sachs)] 截获 2 个岗位元素，正在执行黑白名单过滤...
+2026-06-27 20:18:15 [INFO] [高盛 (Goldman Sachs)] 过滤后保留 2 个岗位（本轮新: 0 / 历史旧: 2）
+2026-06-27 20:18:17 [INFO] 正在扫描 [摩根大通 (JPMorgan Chase) - 香港] ...
+2026-06-27 20:18:36 [INFO] [摩根大通 (JPMorgan Chase) - 香港] 页面加载成功（第 1 次尝试）
+2026-06-27 20:18:36 [INFO] [摩根大通 (JPMorgan Chase) - 香港] 截获 119 个岗位元素，正在执行黑白名单过滤...
+2026-06-27 20:18:40 [INFO] [摩根大通 (JPMorgan Chase) - 香港] 过滤后保留 8 个岗位（本轮新: 0 / 历史旧: 8）
+2026-06-27 20:18:42 [INFO] 正在扫描 [摩根大通 (JPMorgan Chase) - 上海] ...
+2026-06-27 20:18:49 [INFO] [摩根大通 (JPMorgan Chase) - 上海] 页面加载成功（第 1 次尝试）
+2026-06-27 20:18:49 [INFO] [摩根大通 (JPMorgan Chase) - 上海] 截获 43 个岗位元素，正在执行黑白名单过滤...
+2026-06-27 20:18:50 [INFO] [摩根大通 (JPMorgan Chase) - 上海] 过滤后保留 4 个岗位（本轮新: 0 / 历史旧: 4）
+2026-06-27 20:18:52 [INFO] 正在扫描 [摩根士丹利 (Morgan Stanley) - 全球/香港区] ...
+2026-06-27 20:19:14 [WARNING] [摩根士丹利 (Morgan Stanley) - 全球/香港区] 第 1/3 次加载失败: Page.wait_for_selector: Timeout 20000ms exceeded.
+Call log:
+  - waiting for locator("tr.search_res a.subject") to be visible
+
+2026-06-27 20:19:37 [WARNING] [摩根士丹利 (Morgan Stanley) - 全球/香港区] 第 2/3 次加载失败: Page.wait_for_selector: Timeout 20000ms exceeded.
+Call log:
+  - waiting for locator("tr.search_res a.subject") to be visible
+
+2026-06-27 20:19:59 [WARNING] [摩根士丹利 (Morgan Stanley) - 全球/香港区] 第 3/3 次加载失败: Page.wait_for_selector: Timeout 20000ms exceeded.
+Call log:
+  - waiting for locator("tr.search_res a.subject") to be visible
+
+2026-06-27 20:19:59 [ERROR] [摩根士丹利 (Morgan Stanley) - 全球/香港区] 已达最大重试次数，跳过该公司
+2026-06-27 20:20:01 [INFO] 正在扫描 [摩根士丹利中国 (Morgan Stanley China)] ...
+2026-06-27 20:20:28 [WARNING] [摩根士丹利中国 (Morgan Stanley China)] 第 1/3 次加载失败: Page.wait_for_selector: Timeout 20000ms exceeded.
+Call log:
+  - waiting for locator("a.jobCardTitle") to be visible
+
+2026-06-27 20:20:51 [WARNING] [摩根士丹利中国 (Morgan Stanley China)] 第 2/3 次加载失败: Page.wait_for_selector: Timeout 20000ms exceeded.
+Call log:
+  - waiting for locator("a.jobCardTitle") to be visible
+
+2026-06-27 20:21:14 [WARNING] [摩根士丹利中国 (Morgan Stanley China)] 第 3/3 次加载失败: Page.wait_for_selector: Timeout 20000ms exceeded.
+Call log:
+  - waiting for locator("a.jobCardTitle") to be visible
+
+2026-06-27 20:21:14 [ERROR] [摩根士丹利中国 (Morgan Stanley China)] 已达最大重试次数，跳过该公司
+2026-06-27 20:21:16 [INFO] 正在扫描 [花旗银行 (Citi) - 中国大陆] ...
+2026-06-27 20:21:30 [INFO] [花旗银行 (Citi) - 中国大陆] 页面加载成功（第 1 次尝试）
+2026-06-27 20:21:30 [INFO] [花旗银行 (Citi) - 中国大陆] 截获 15 个岗位元素，正在执行黑白名单过滤...
+2026-06-27 20:21:30 [INFO] [花旗银行 (Citi) - 中国大陆] 过滤后保留 0 个岗位（本轮新: 0 / 历史旧: 0）
+2026-06-27 20:21:32 [INFO] 正在扫描 [花旗银行 (Citi) - 香港] ...
+2026-06-27 20:21:37 [INFO] [花旗银行 (Citi) - 香港] 页面加载成功（第 1 次尝试）
+2026-06-27 20:21:37 [INFO] [花旗银行 (Citi) - 香港] 截获 15 个岗位元素，正在执行黑白名单过滤...
+2026-06-27 20:21:37 [INFO] [花旗银行 (Citi) - 香港] 过滤后保留 0 个岗位（本轮新: 0 / 历史旧: 0）
+2026-06-27 20:21:39 [INFO] 正在扫描 [美银 (Bank of America) - 香港/中国] ...
+2026-06-27 20:22:07 [WARNING] [美银 (Bank of America) - 香港/中国] 第 1/3 次加载失败: Page.wait_for_selector: Timeout 20000ms exceeded.
+Call log:
+  - waiting for locator("div.job-search-results-listing__item a.job-search-tile__url") to be visible
+
+2026-06-27 20:22:33 [WARNING] [美银 (Bank of America) - 香港/中国] 第 2/3 次加载失败: Page.wait_for_selector: Timeout 20000ms exceeded.
+Call log:
+  - waiting for locator("div.job-search-results-listing__item a.job-search-tile__url") to be visible
+
+2026-06-27 20:22:57 [WARNING] [美银 (Bank of America) - 香港/中国] 第 3/3 次加载失败: Page.wait_for_selector: Timeout 20000ms exceeded.
+Call log:
+  - waiting for locator("div.job-search-results-listing__item a.job-search-tile__url") to be visible
+
+2026-06-27 20:22:57 [ERROR] [美银 (Bank of America) - 香港/中国] 已达最大重试次数，跳过该公司
+2026-06-27 20:22:59 [INFO] 浏览器已关闭
+2026-06-27 20:22:59 [INFO] 数据库连接已关闭
+2026-06-27 20:47:41 [INFO] 🚀 求职雷达启动！
+2026-06-27 20:47:42 [INFO] 正在扫描 [高盛 (Goldman Sachs)] ...
+2026-06-27 20:47:58 [INFO] [高盛 (Goldman Sachs)] 页面加载成功
+2026-06-27 20:47:58 [INFO] [高盛 (Goldman Sachs)] 截获 2 个岗位元素，正在执行黑白名单过滤...
+2026-06-27 20:47:58 [INFO] [高盛 (Goldman Sachs)] 过滤后保留 2 个岗位（本轮新: 0 / 历史旧: 2）
+2026-06-27 20:48:00 [INFO] 正在扫描 [摩根大通 (JPMorgan Chase) - 香港] ...
+2026-06-27 20:48:19 [INFO] [摩根大通 (JPMorgan Chase) - 香港] 页面加载成功
+2026-06-27 20:48:19 [INFO] [摩根大通 (JPMorgan Chase) - 香港] 截获 119 个岗位元素，正在执行黑白名单过滤...
+2026-06-27 20:48:22 [INFO] [摩根大通 (JPMorgan Chase) - 香港] 过滤后保留 8 个岗位（本轮新: 0 / 历史旧: 8）
+2026-06-27 20:48:24 [INFO] 正在扫描 [摩根大通 (JPMorgan Chase) - 上海] ...
+2026-06-27 20:48:31 [INFO] [摩根大通 (JPMorgan Chase) - 上海] 页面加载成功
+2026-06-27 20:48:31 [INFO] [摩根大通 (JPMorgan Chase) - 上海] 截获 43 个岗位元素，正在执行黑白名单过滤...
+2026-06-27 20:48:32 [INFO] [摩根大通 (JPMorgan Chase) - 上海] 过滤后保留 4 个岗位（本轮新: 0 / 历史旧: 4）
+2026-06-27 20:48:34 [INFO] 正在扫描 [摩根士丹利 (Morgan Stanley) - 全球/香港区] ...
+2026-06-27 20:48:59 [INFO] [摩根士丹利 (Morgan Stanley) - 全球/香港区] 未检测到岗位卡片（selector 超时），按 0 岗位处理
+2026-06-27 20:49:01 [INFO] 正在扫描 [摩根士丹利中国 (Morgan Stanley China)] ...
+2026-06-27 20:49:27 [INFO] [摩根士丹利中国 (Morgan Stanley China)] 未检测到岗位卡片（selector 超时），按 0 岗位处理
+2026-06-27 20:49:29 [INFO] 正在扫描 [花旗银行 (Citi) - 中国大陆] ...
+2026-06-27 20:49:41 [INFO] [花旗银行 (Citi) - 中国大陆] 页面加载成功
+2026-06-27 20:49:41 [INFO] [花旗银行 (Citi) - 中国大陆] 截获 15 个岗位元素，正在执行黑白名单过滤...
+2026-06-27 20:49:41 [INFO] [花旗银行 (Citi) - 中国大陆] 过滤后保留 0 个岗位（本轮新: 0 / 历史旧: 0）
+2026-06-27 20:49:43 [INFO] 正在扫描 [花旗银行 (Citi) - 香港] ...
+2026-06-27 20:49:49 [INFO] [花旗银行 (Citi) - 香港] 页面加载成功
+2026-06-27 20:49:49 [INFO] [花旗银行 (Citi) - 香港] 截获 15 个岗位元素，正在执行黑白名单过滤...
+2026-06-27 20:49:49 [INFO] [花旗银行 (Citi) - 香港] 过滤后保留 0 个岗位（本轮新: 0 / 历史旧: 0）
+2026-06-27 20:49:51 [INFO] 正在扫描 [美银 (Bank of America) - 香港/中国] ...
+2026-06-27 20:50:19 [INFO] [美银 (Bank of America) - 香港/中国] 未检测到岗位卡片（selector 超时），按 0 岗位处理
+2026-06-27 20:50:20 [INFO] 浏览器已关闭
+2026-06-27 20:50:20 [INFO] 数据库连接已关闭
+2026-06-27 21:04:58 [INFO] 🚀 求职雷达启动！
+2026-06-27 21:04:58 [INFO] 正在扫描 [高盛 (Goldman Sachs)] ...
+2026-06-27 21:05:10 [INFO] [高盛 (Goldman Sachs)] 页面加载成功
+2026-06-27 21:05:10 [INFO] [高盛 (Goldman Sachs)] 截获 2 个岗位元素，正在执行黑白名单过滤...
+2026-06-27 21:05:10 [INFO] [高盛 (Goldman Sachs)] 过滤后保留 2 个岗位（本轮新: 0 / 历史旧: 2）
+2026-06-27 21:05:12 [INFO] 正在扫描 [摩根大通 (JPMorgan Chase) - 香港] ...
+2026-06-27 21:05:33 [INFO] [摩根大通 (JPMorgan Chase) - 香港] 页面加载成功
+2026-06-27 21:05:33 [INFO] [摩根大通 (JPMorgan Chase) - 香港] 截获 100 个岗位元素，正在执行黑白名单过滤...
+2026-06-27 21:05:35 [INFO] [摩根大通 (JPMorgan Chase) - 香港] 过滤后保留 8 个岗位（本轮新: 0 / 历史旧: 8）
+2026-06-27 21:05:37 [INFO] 正在扫描 [摩根大通 (JPMorgan Chase) - 上海] ...
+2026-06-27 21:05:44 [INFO] [摩根大通 (JPMorgan Chase) - 上海] 页面加载成功
+2026-06-27 21:05:44 [INFO] [摩根大通 (JPMorgan Chase) - 上海] 截获 43 个岗位元素，正在执行黑白名单过滤...
+2026-06-27 21:05:45 [INFO] [摩根大通 (JPMorgan Chase) - 上海] 过滤后保留 4 个岗位（本轮新: 0 / 历史旧: 4）
+2026-06-27 21:05:47 [INFO] 正在扫描 [摩根士丹利 (Morgan Stanley) - 全球/香港区] ...
+2026-06-27 21:06:09 [INFO] [摩根士丹利 (Morgan Stanley) - 全球/香港区] 未检测到岗位卡片（selector 超时），按 0 岗位处理
+2026-06-27 21:06:11 [INFO] 正在扫描 [摩根士丹利中国 (Morgan Stanley China)] ...
+2026-06-27 21:06:37 [INFO] [摩根士丹利中国 (Morgan Stanley China)] 未检测到岗位卡片（selector 超时），按 0 岗位处理
+2026-06-27 21:06:39 [INFO] 正在扫描 [花旗银行 (Citi) - 中国大陆] ...
+2026-06-27 21:06:51 [INFO] [花旗银行 (Citi) - 中国大陆] 页面加载成功
+2026-06-27 21:06:51 [INFO] [花旗银行 (Citi) - 中国大陆] 截获 15 个岗位元素，正在执行黑白名单过滤...
+2026-06-27 21:06:51 [INFO] [花旗银行 (Citi) - 中国大陆] 过滤后保留 0 个岗位（本轮新: 0 / 历史旧: 0）
+2026-06-27 21:06:53 [INFO] 正在扫描 [花旗银行 (Citi) - 香港] ...
+2026-06-27 21:06:58 [INFO] [花旗银行 (Citi) - 香港] 页面加载成功
+2026-06-27 21:06:58 [INFO] [花旗银行 (Citi) - 香港] 截获 15 个岗位元素，正在执行黑白名单过滤...
+2026-06-27 21:06:59 [INFO] [花旗银行 (Citi) - 香港] 过滤后保留 0 个岗位（本轮新: 0 / 历史旧: 0）
+2026-06-27 21:07:01 [INFO] 正在扫描 [美银 (Bank of America) - 香港/中国] ...
+2026-06-27 21:07:40 [INFO] [美银 (Bank of America) - 香港/中国] 未检测到岗位卡片（selector 超时），按 0 岗位处理
+2026-06-27 21:07:42 [INFO] 正在扫描 [巴克莱 (Barclays) - 香港/中国] ...
+2026-06-27 21:08:07 [INFO] [巴克莱 (Barclays) - 香港/中国] 未检测到岗位卡片（selector 超时），按 0 岗位处理
+2026-06-27 21:08:08 [INFO] 浏览器已关闭
+2026-06-27 21:08:08 [INFO] 数据库连接已关闭
+2026-06-29 09:54:20 [INFO] 🚀 求职雷达启动！
+2026-06-29 09:54:27 [INFO] 正在扫描 [巴克莱 (Barclays) - 香港/中国] ...
+2026-06-29 09:54:56 [INFO] [巴克莱 (Barclays) - 香港/中国] 未检测到岗位卡片（selector 超时），按 0 岗位处理
+2026-06-29 09:54:57 [INFO] 浏览器已关闭
+2026-06-29 09:54:58 [INFO] 数据库连接已关闭
+2026-06-29 10:03:11 [INFO] 🚀 求职雷达启动！
+2026-06-29 10:03:12 [INFO] 正在扫描 [巴克莱 (Barclays) - 香港/中国] ...
+2026-06-29 10:03:42 [INFO] [巴克莱 (Barclays) - 香港/中国] 未检测到岗位卡片（selector 超时），按 0 岗位处理
+2026-06-29 10:03:44 [INFO] 浏览器已关闭
+2026-06-29 10:03:44 [INFO] 数据库连接已关闭
+2026-06-29 10:05:50 [INFO] 🚀 求职雷达启动！
+2026-06-29 10:05:51 [INFO] 正在扫描 [高盛 (Goldman Sachs)] ...
+2026-06-29 10:06:06 [INFO] [高盛 (Goldman Sachs)] 页面加载成功
+2026-06-29 10:06:06 [INFO] [高盛 (Goldman Sachs)] 截获 2 个岗位元素，正在执行黑白名单过滤...
+2026-06-29 10:06:06 [INFO] [高盛 (Goldman Sachs)] 过滤后保留 2 个岗位（本轮新: 0 / 历史旧: 2）
+2026-06-29 10:06:08 [INFO] 正在扫描 [摩根大通 (JPMorgan Chase) - 香港] ...
+2026-06-29 10:06:26 [INFO] [摩根大通 (JPMorgan Chase) - 香港] 页面加载成功
+2026-06-29 10:06:26 [INFO] [摩根大通 (JPMorgan Chase) - 香港] 截获 119 个岗位元素，正在执行黑白名单过滤...
+2026-06-29 10:06:29 [INFO] [摩根大通 (JPMorgan Chase) - 香港] 过滤后保留 8 个岗位（本轮新: 0 / 历史旧: 8）
+2026-06-29 10:06:31 [INFO] 正在扫描 [摩根大通 (JPMorgan Chase) - 上海] ...
+2026-06-29 10:06:39 [INFO] [摩根大通 (JPMorgan Chase) - 上海] 页面加载成功
+2026-06-29 10:06:39 [INFO] [摩根大通 (JPMorgan Chase) - 上海] 截获 43 个岗位元素，正在执行黑白名单过滤...
+2026-06-29 10:06:40 [INFO] [摩根大通 (JPMorgan Chase) - 上海] 过滤后保留 4 个岗位（本轮新: 0 / 历史旧: 4）
+2026-06-29 10:06:42 [INFO] 正在扫描 [摩根士丹利 (Morgan Stanley) - 全球/香港区] ...
+2026-06-29 10:07:14 [INFO] [摩根士丹利 (Morgan Stanley) - 全球/香港区] 未检测到岗位卡片（selector 超时），按 0 岗位处理
+2026-06-29 10:07:16 [INFO] 正在扫描 [摩根士丹利中国 (Morgan Stanley China)] ...
+2026-06-29 10:07:41 [INFO] [摩根士丹利中国 (Morgan Stanley China)] 未检测到岗位卡片（selector 超时），按 0 岗位处理
+2026-06-29 10:07:43 [INFO] 正在扫描 [花旗银行 (Citi) - 中国大陆] ...
+2026-06-29 10:07:57 [INFO] [花旗银行 (Citi) - 中国大陆] 页面加载成功
+2026-06-29 10:07:57 [INFO] [花旗银行 (Citi) - 中国大陆] 截获 15 个岗位元素，正在执行黑白名单过滤...
+2026-06-29 10:07:57 [INFO] [花旗银行 (Citi) - 中国大陆] 过滤后保留 0 个岗位（本轮新: 0 / 历史旧: 0）
+2026-06-29 10:07:59 [INFO] 正在扫描 [花旗银行 (Citi) - 香港] ...
+2026-06-29 10:08:04 [INFO] [花旗银行 (Citi) - 香港] 页面加载成功
+2026-06-29 10:08:04 [INFO] [花旗银行 (Citi) - 香港] 截获 15 个岗位元素，正在执行黑白名单过滤...
+2026-06-29 10:08:04 [INFO] [花旗银行 (Citi) - 香港] 过滤后保留 0 个岗位（本轮新: 0 / 历史旧: 0）
+2026-06-29 10:08:06 [INFO] 正在扫描 [美银 (Bank of America) - 香港/中国] ...
+2026-06-29 10:08:36 [INFO] [美银 (Bank of America) - 香港/中国] 未检测到岗位卡片（selector 超时），按 0 岗位处理
+2026-06-29 10:08:38 [INFO] 正在扫描 [巴克莱 (Barclays) - 香港/中国] ...
+2026-06-29 10:09:03 [INFO] [巴克莱 (Barclays) - 香港/中国] 未检测到岗位卡片（selector 超时），按 0 岗位处理
+2026-06-29 10:09:05 [INFO] 浏览器已关闭
+2026-06-29 10:09:05 [INFO] 数据库连接已关闭
+2026-06-29 10:10:59 [INFO] 🚀 求职雷达启动！
+2026-06-29 10:11:00 [INFO] 正在扫描 [巴克莱 (Barclays) - 香港/中国] ...
+2026-06-29 10:11:29 [WARNING] [巴克莱 (Barclays) - 香港/中国] DEBUG selector=div.list-item a.job-title--link
+2026-06-29 10:11:29 [WARNING] [巴克莱 (Barclays) - 香港/中国] DEBUG page_title=Search our Job Opportunities at Barclays
+2026-06-29 10:11:29 [WARNING] [巴克莱 (Barclays) - 香港/中国] DEBUG body_snippet=This website uses cookies
+Barclays uses cookies on this website. They help us to know a little bit about you and how you use our website, which improves the browsing experience and marketing - both for you and for others. They are stored locally on your computer or mobile device. To accept cookies click the button on the left and continue browsing as normal. For more information and preferences go to the cookie policy.
+Accept AllReject AllManage Cookies
+Skip to main content
+
+Important notice: Protect yourself from recruitment scams. Learn more.
+
+Keyword Search
+
+City, State, or ZIP
+
+Search
+Your account
+?
+Helpdesk
+Saved jobs
+Menu
+6 results for
+Hong Kong China
+Category
+Country
+Region / State
+City
+Work Pattern
+Business Unit
+Job Type
+Clear All
+Flow Credit Desk Analyst
+Hong Kong, Hong Kong China
+25 6月
+Director, Asia PT Cash Sales
+Hong Kong, Hong Kong China
+22 6月
+Prime Synthetics Middle Office AVP
+Hong Kong, Hong Kong China
+22 6月
+Assistant VP - Global Markets Liquid Financing Quantitative Analyst
+Hong Kong, Hong Kong China
+27 6月
+VP Software Developer - APAC Flow Volatility Risk Pricing
+Hong Kong, Hong Kong China
+25 6月
+Front Office Equity Derivatives Quant -Assistant Vice President
+Hong Kong, Hong Kong China
+25 6月
+
+Sign up for job alerts
+
+Make sure you see job opportunities when they become available. Just add a few details below to stay up to date with jobs that suit you and your skills.
+
+Email*
+
+Category*
+
+Location*
+Location
+Aberdeen, Scotland
+Basildon, England
+Bath, England
+Bengal
+2026-06-29 10:11:29 [INFO] [巴克莱 (Barclays) - 香港/中国] 未检测到岗位卡片（selector 超时），按 0 岗位处理
+2026-06-29 10:11:31 [INFO] 浏览器已关闭
+2026-06-29 10:11:31 [INFO] 数据库连接已关闭
+2026-06-29 10:23:24 [INFO] 🚀 求职雷达启动！
+2026-06-29 10:23:25 [INFO] 正在扫描 [巴克莱 (Barclays) - 香港/中国] ...
+2026-06-29 10:23:52 [WARNING] [巴克莱 (Barclays) - 香港/中国] DEBUG selector=div.list-item a.job-title--link
+2026-06-29 10:23:52 [WARNING] [巴克莱 (Barclays) - 香港/中国] DEBUG page_title=Search our Job Opportunities at Barclays
+2026-06-29 10:23:52 [WARNING] [巴克莱 (Barclays) - 香港/中国] DEBUG body_snippet=This website uses cookies
+Barclays uses cookies on this website. They help us to know a little bit about you and how you use our website, which improves the browsing experience and marketing - both for you and for others. They are stored locally on your computer or mobile device. To accept cookies click the button on the left and continue browsing as normal. For more information and preferences go to the cookie policy.
+Accept AllReject AllManage Cookies
+Skip to main content
+
+Important notice: Protect yourself from recruitment scams. Learn more.
+
+Keyword Search
+
+City, State, or ZIP
+
+Search
+Your account
+?
+Helpdesk
+Saved jobs
+Menu
+6 results for
+Hong Kong China
+Category
+Country
+Region / State
+City
+Work Pattern
+Business Unit
+Job Type
+Clear All
+Flow Credit Desk Analyst
+Hong Kong, Hong Kong China
+25 6月
+Director, Asia PT Cash Sales
+Hong Kong, Hong Kong China
+22 6月
+Prime Synthetics Middle Office AVP
+Hong Kong, Hong Kong China
+22 6月
+Assistant VP - Global Markets Liquid Financing Quantitative Analyst
+Hong Kong, Hong Kong China
+27 6月
+VP Software Developer - APAC Flow Volatility Risk Pricing
+Hong Kong, Hong Kong China
+25 6月
+Front Office Equity Derivatives Quant -Assistant Vice President
+Hong Kong, Hong Kong China
+25 6月
+
+Sign up for job alerts
+
+Make sure you see job opportunities when they become available. Just add a few details below to stay up to date with jobs that suit you and your skills.
+
+Email*
+
+Category*
+
+Location*
+Location
+Aberdeen, Scotland
+Basildon, England
+Bath, England
+Bengal
+2026-06-29 10:23:52 [INFO] [巴克莱 (Barclays) - 香港/中国] 未检测到岗位卡片（selector 超时），按 0 岗位处理
+2026-06-29 10:23:54 [INFO] 浏览器已关闭
+2026-06-29 10:23:54 [INFO] 数据库连接已关闭
+2026-06-29 10:24:56 [INFO] 🚀 求职雷达启动！
+2026-06-29 10:24:57 [INFO] 正在扫描 [巴克莱 (Barclays) - 香港/中国] ...
+2026-06-29 10:25:24 [WARNING] [巴克莱 (Barclays) - 香港/中国] DEBUG selector=div.list-item a.job-title--link
+2026-06-29 10:25:24 [WARNING] [巴克莱 (Barclays) - 香港/中国] DEBUG page_title=Search our Job Opportunities at Barclays
+2026-06-29 10:25:24 [WARNING] [巴克莱 (Barclays) - 香港/中国] DEBUG body_snippet=This website uses cookies
+Barclays uses cookies on this website. They help us to know a little bit about you and how you use our website, which improves the browsing experience and marketing - both for you and for others. They are stored locally on your computer or mobile device. To accept cookies click the button on the left and continue browsing as normal. For more information and preferences go to the cookie policy.
+Accept AllReject AllManage Cookies
+Skip to main content
+
+Important notice: Protect yourself from recruitment scams. Learn more.
+
+Keyword Search
+
+City, State, or ZIP
+
+Search
+Your account
+?
+Helpdesk
+Saved jobs
+Menu
+6 results for
+Hong Kong China
+Category
+Country
+Region / State
+City
+Work Pattern
+Business Unit
+Job Type
+Clear All
+Flow Credit Desk Analyst
+Hong Kong, Hong Kong China
+25 6月
+Director, Asia PT Cash Sales
+Hong Kong, Hong Kong China
+22 6月
+Prime Synthetics Middle Office AVP
+Hong Kong, Hong Kong China
+22 6月
+Assistant VP - Global Markets Liquid Financing Quantitative Analyst
+Hong Kong, Hong Kong China
+27 6月
+VP Software Developer - APAC Flow Volatility Risk Pricing
+Hong Kong, Hong Kong China
+25 6月
+Front Office Equity Derivatives Quant -Assistant Vice President
+Hong Kong, Hong Kong China
+25 6月
+
+Sign up for job alerts
+
+Make sure you see job opportunities when they become available. Just add a few details below to stay up to date with jobs that suit you and your skills.
+
+Email*
+
+Category*
+
+Location*
+Location
+Aberdeen, Scotland
+Basildon, England
+Bath, England
+Bengal
+2026-06-29 10:25:24 [INFO] [巴克莱 (Barclays) - 香港/中国] 未检测到岗位卡片（selector 超时），按 0 岗位处理
+2026-06-29 10:25:26 [INFO] 浏览器已关闭
+2026-06-29 10:25:26 [INFO] 数据库连接已关闭
+2026-06-29 10:27:54 [INFO] 🚀 求职雷达启动！
+2026-06-29 10:27:54 [INFO] 正在扫描 [巴克莱 (Barclays) - 香港/中国] ...
+2026-06-29 10:28:04 [INFO] [巴克莱 (Barclays) - 香港/中国] ✅ 已处理 Cookie 弹窗 [#system-ialert-button]
+2026-06-29 10:28:26 [WARNING] [巴克莱 (Barclays) - 香港/中国] DEBUG selector=div.list-item a.job-title--link
+2026-06-29 10:28:26 [WARNING] [巴克莱 (Barclays) - 香港/中国] DEBUG page_title=Search our Job Opportunities at Barclays
+2026-06-29 10:28:26 [WARNING] [巴克莱 (Barclays) - 香港/中国] DEBUG body_snippet=Skip to main content
+
+Important notice: Protect yourself from recruitment scams. Learn more.
+
+Keyword Search
+
+City, State, or ZIP
+
+Search
+Your account
+?
+Helpdesk
+Saved jobs
+Menu
+6 results for
+Hong Kong China
+Category
+Country
+Region / State
+City
+Work Pattern
+Business Unit
+Job Type
+Clear All
+Flow Credit Desk Analyst
+Hong Kong, Hong Kong China
+25 6月
+Director, Asia PT Cash Sales
+Hong Kong, Hong Kong China
+22 6月
+Prime Synthetics Middle Office AVP
+Hong Kong, Hong Kong China
+22 6月
+Assistant VP - Global Markets Liquid Financing Quantitative Analyst
+Hong Kong, Hong Kong China
+27 6月
+VP Software Developer - APAC Flow Volatility Risk Pricing
+Hong Kong, Hong Kong China
+25 6月
+Front Office Equity Derivatives Quant -Assistant Vice President
+Hong Kong, Hong Kong China
+25 6月
+
+Sign up for job alerts
+
+Make sure you see job opportunities when they become available. Just add a few details below to stay up to date with jobs that suit you and your skills.
+
+Email*
+
+Category*
+
+Location*
+Location
+Aberdeen, Scotland
+Basildon, England
+Bath, England
+Bengaluru, Karnataka
+Birkenhead, England
+Birmingham, England
+Bolton, England
+Boston, Massachusetts
+Bournemouth, England
+Bradford, England
+Brighton, England
+Bristol, England
+Cambridge, England
+Cardiff, Wales
+Chennai, Tamil Nadu
+Colchester, England
+Coventry, England
+Crawley, England
+Derby, England
+Douglas, Douglas
+Dublin, Leinster
+Dundee, Scotland
+Edinburgh, Scotland
+Fleet, England
+Frankfurt am Main, Hesse
+Gandhinagar, Gujarat
+Geneva, Canton of Geneva
+Glasgow, S
+2026-06-29 10:28:26 [INFO] [巴克莱 (Barclays) - 香港/中国] 未检测到岗位卡片（selector 超时），按 0 岗位处理
+2026-06-29 10:28:27 [INFO] 浏览器已关闭
+2026-06-29 10:28:27 [INFO] 数据库连接已关闭
+2026-06-29 10:28:38 [INFO] 🚀 求职雷达启动！
+2026-06-29 10:28:39 [INFO] 正在扫描 [巴克莱 (Barclays) - 香港/中国] ...
+2026-06-29 10:28:54 [INFO] [巴克莱 (Barclays) - 香港/中国] ✅ 已处理 Cookie 弹窗 [#system-ialert-button]
+2026-06-29 10:29:15 [WARNING] [巴克莱 (Barclays) - 香港/中国] DEBUG selector=div.list-item a.job-title--link
+2026-06-29 10:29:15 [WARNING] [巴克莱 (Barclays) - 香港/中国] DEBUG page_title=Search our Job Opportunities at Barclays
+2026-06-29 10:29:15 [WARNING] [巴克莱 (Barclays) - 香港/中国] DEBUG body_snippet=Skip to main content
+
+Important notice: Protect yourself from recruitment scams. Learn more.
+
+Keyword Search
+
+City, State, or ZIP
+
+Search
+Your account
+?
+Helpdesk
+Saved jobs
+Menu
+6 results for
+Hong Kong China
+Category
+Country
+Region / State
+City
+Work Pattern
+Business Unit
+Job Type
+Clear All
+Flow Credit Desk Analyst
+Hong Kong, Hong Kong China
+25 6月
+Director, Asia PT Cash Sales
+Hong Kong, Hong Kong China
+22 6月
+Prime Synthetics Middle Office AVP
+Hong Kong, Hong Kong China
+22 6月
+Assistant VP - Global Markets Liquid Financing Quantitative Analyst
+Hong Kong, Hong Kong China
+27 6月
+VP Software Developer - APAC Flow Volatility Risk Pricing
+Hong Kong, Hong Kong China
+25 6月
+Front Office Equity Derivatives Quant -Assistant Vice President
+Hong Kong, Hong Kong China
+25 6月
+
+Sign up for job alerts
+
+Make sure you see job opportunities when they become available. Just add a few details below to stay up to date with jobs that suit you and your skills.
+
+Email*
+
+Category*
+
+Location*
+Location
+Aberdeen, Scotland
+Basildon, England
+Bath, England
+Bengaluru, Karnataka
+Birkenhead, England
+Birmingham, England
+Bolton, England
+Boston, Massachusetts
+Bournemouth, England
+Bradford, England
+Brighton, England
+Bristol, England
+Cambridge, England
+Cardiff, Wales
+Chennai, Tamil Nadu
+Colchester, England
+Coventry, England
+Crawley, England
+Derby, England
+Douglas, Douglas
+Dublin, Leinster
+Dundee, Scotland
+Edinburgh, Scotland
+Fleet, England
+Frankfurt am Main, Hesse
+Gandhinagar, Gujarat
+Geneva, Canton of Geneva
+Glasgow, S
+2026-06-29 10:29:15 [INFO] [巴克莱 (Barclays) - 香港/中国] 未检测到岗位卡片（selector 超时），按 0 岗位处理
+2026-06-29 10:29:17 [INFO] 浏览器已关闭
+2026-06-29 10:29:17 [INFO] 数据库连接已关闭
+2026-06-29 10:30:34 [INFO] 🚀 求职雷达启动！
+2026-06-29 10:30:35 [INFO] 正在扫描 [巴克莱 (Barclays) - 香港/中国] ...
+2026-06-29 10:30:45 [INFO] [巴克莱 (Barclays) - 香港/中国] ✅ 已处理 Cookie 弹窗 [#system-ialert-button]
+2026-06-29 10:31:07 [WARNING] [巴克莱 (Barclays) - 香港/中国] DEBUG selector=div.list-item a.job-title--link
+2026-06-29 10:31:07 [WARNING] [巴克莱 (Barclays) - 香港/中国] DEBUG page_title=Search our Job Opportunities at Barclays
+2026-06-29 10:31:07 [WARNING] [巴克莱 (Barclays) - 香港/中国] DEBUG has [class*=list-item]=69 | [class*=job-title]=16 | a[href^='/job/']=16
+2026-06-29 10:31:07 [WARNING] [巴克莱 (Barclays) - 香港/中国] DEBUG body_text(3000)=
+Skip to main content
+
+Important notice: Protect yourself from recruitment scams. Learn more.
+
+Keyword Search
+
+City, State, or ZIP
+
+Search
+Your account
+?
+Helpdesk
+Saved jobs
+Menu
+6 results for
+Hong Kong China
+Category
+Country
+Region / State
+City
+Work Pattern
+Business Unit
+Job Type
+Clear All
+Flow Credit Desk Analyst
+Hong Kong, Hong Kong China
+25 Jun
+Director, Asia PT Cash Sales
+Hong Kong, Hong Kong China
+22 Jun
+Prime Synthetics Middle Office AVP
+Hong Kong, Hong Kong China
+22 Jun
+Assistant VP - Global Markets Liquid Financing Quantitative Analyst
+Hong Kong, Hong Kong China
+27 Jun
+VP Software Developer - APAC Flow Volatility Risk Pricing
+Hong Kong, Hong Kong China
+25 Jun
+Front Office Equity Derivatives Quant -Assistant Vice President
+Hong Kong, Hong Kong China
+25 Jun
+
+Sign up for job alerts
+
+Make sure you see job opportunities when they become available. Just add a few details below to stay up to date with jobs that suit you and your skills.
+
+Email*
+
+Category*
+
+Location*
+Location
+Aberdeen, Scotland
+Basildon, England
+Bath, England
+Bengaluru, Karnataka
+Birkenhead, England
+Birmingham, England
+Bolton, England
+Boston, Massachusetts
+Bournemouth, England
+Bradford, England
+Brighton, England
+Bristol, England
+Cambridge, England
+Cardiff, Wales
+Chennai, Tamil Nadu
+Colchester, England
+Coventry, England
+Crawley, England
+Derby, England
+Douglas, Douglas
+Dublin, Leinster
+Dundee, Scotland
+Edinburgh, Scotland
+Fleet, England
+Frankfurt am Main, Hesse
+Gandhinagar, Gujarat
+Geneva, Canton of Geneva
+Glasgow, Scotland
+Greater Manchester, England
+Guildford, England
+Gurugram, Haryana
+Hamburg, Hamburg
+Hanley Swan, England
+Harlow, England
+Hong Kong, Central and Western District
+Huddersfield, England
+Huntingdon, England
+Inverness, Scotland
+Ipswich, England
+Knutsford, England
+Leeds, England
+Liverpool, England
+London, England
+Luxembourg, Luxembourg
+Mexico City, Mexico City
+Monaco, Municipality of Monaco
+Mumbai, Maharashtra
+New Delhi, National Capital Territory of Delhi
+New York, New York
+Newcastle upon Tyne, England
+Noida, Uttar Pradesh
+Northampton, England
+Norwich, England
+Paris, Île-de-France Region
+Prague, Czechia
+Pune, Maharashtra
+Reading, England
+Rugby, England
+Saint Helier, St Helier
+Singapore, Singapore
+Southampton, England
+Southend-on-Sea, England
+St Peter Port, St Peter Port
+Stoke-on-Trent, England
+Sunderland, England
+Taipei, Taiwan
+Tokyo, Tokyo
+Whippany, New Jersey
+Wilmington, Delaware
+Wolverhampton, England
+Wrexham, Wales
+Zurich, Canton of Zurich
+
+Add
+Hong Kong China
+x
+Sign up
+
+*By submitting your information, you acknowledge that you have read our privacy policy and consent to receive email communication from Barclays.
+
+Confirm Email
+
+home.barclays
+Privacy Policy
+Cookie Policy
+Website Accessibility
+Sitemap
+LinkedIn
+Instagram
+
+Registered office for all: 1 Churchill Place, London E14 5HP
+
+0 of 6 results are now available.
+2026-06-29 10:31:07 [INFO] [巴克莱 (Barclays) - 香港/中国] 未检测到岗位卡片（selector 超时），按 0 岗位处理
+2026-06-29 10:31:08 [INFO] 浏览器已关闭
+2026-06-29 10:31:08 [INFO] 数据库连接已关闭
+2026-06-29 10:32:13 [INFO] 🚀 求职雷达启动！
+2026-06-29 10:32:13 [INFO] 正在扫描 [巴克莱 (Barclays) - 香港/中国] ...
+2026-06-29 10:32:24 [INFO] [巴克莱 (Barclays) - 香港/中国] ✅ 已处理 Cookie 弹窗 [#system-ialert-button]
+2026-06-29 10:32:45 [WARNING] [巴克莱 (Barclays) - 香港/中国] DEBUG selector=a[href^='/job/']
+2026-06-29 10:32:45 [WARNING] [巴克莱 (Barclays) - 香港/中国] DEBUG page_title=Search our Job Opportunities at Barclays
+2026-06-29 10:32:45 [WARNING] [巴克莱 (Barclays) - 香港/中国] DEBUG has [class*=list-item]=69 | [class*=job-title]=16 | a[href^='/job/']=16
+2026-06-29 10:32:45 [WARNING] [巴克莱 (Barclays) - 香港/中国] DEBUG body_text(3000)=
+Skip to main content
+
+Important notice: Protect yourself from recruitment scams. Learn more.
+
+Keyword Search
+
+City, State, or ZIP
+
+Search
+Your account
+?
+Helpdesk
+Saved jobs
+Menu
+6 results for
+Hong Kong China
+Category
+Country
+Region / State
+City
+Work Pattern
+Business Unit
+Job Type
+Clear All
+Flow Credit Desk Analyst
+Hong Kong, Hong Kong China
+25 Jun
+Director, Asia PT Cash Sales
+Hong Kong, Hong Kong China
+22 Jun
+Prime Synthetics Middle Office AVP
+Hong Kong, Hong Kong China
+22 Jun
+Assistant VP - Global Markets Liquid Financing Quantitative Analyst
+Hong Kong, Hong Kong China
+27 Jun
+VP Software Developer - APAC Flow Volatility Risk Pricing
+Hong Kong, Hong Kong China
+25 Jun
+Front Office Equity Derivatives Quant -Assistant Vice President
+Hong Kong, Hong Kong China
+25 Jun
+
+Sign up for job alerts
+
+Make sure you see job opportunities when they become available. Just add a few details below to stay up to date with jobs that suit you and your skills.
+
+Email*
+
+Category*
+
+Location*
+Location
+Aberdeen, Scotland
+Basildon, England
+Bath, England
+Bengaluru, Karnataka
+Birkenhead, England
+Birmingham, England
+Bolton, England
+Boston, Massachusetts
+Bournemouth, England
+Bradford, England
+Brighton, England
+Bristol, England
+Cambridge, England
+Cardiff, Wales
+Chennai, Tamil Nadu
+Colchester, England
+Coventry, England
+Crawley, England
+Derby, England
+Douglas, Douglas
+Dublin, Leinster
+Dundee, Scotland
+Edinburgh, Scotland
+Fleet, England
+Frankfurt am Main, Hesse
+Gandhinagar, Gujarat
+Geneva, Canton of Geneva
+Glasgow, Scotland
+Greater Manchester, England
+Guildford, England
+Gurugram, Haryana
+Hamburg, Hamburg
+Hanley Swan, England
+Harlow, England
+Hong Kong, Central and Western District
+Huddersfield, England
+Huntingdon, England
+Inverness, Scotland
+Ipswich, England
+Knutsford, England
+Leeds, England
+Liverpool, England
+London, England
+Luxembourg, Luxembourg
+Mexico City, Mexico City
+Monaco, Municipality of Monaco
+Mumbai, Maharashtra
+New Delhi, National Capital Territory of Delhi
+New York, New York
+Newcastle upon Tyne, England
+Noida, Uttar Pradesh
+Northampton, England
+Norwich, England
+Paris, Île-de-France Region
+Prague, Czechia
+Pune, Maharashtra
+Reading, England
+Rugby, England
+Saint Helier, St Helier
+Singapore, Singapore
+Southampton, England
+Southend-on-Sea, England
+St Peter Port, St Peter Port
+Stoke-on-Trent, England
+Sunderland, England
+Taipei, Taiwan
+Tokyo, Tokyo
+Whippany, New Jersey
+Wilmington, Delaware
+Wolverhampton, England
+Wrexham, Wales
+Zurich, Canton of Zurich
+
+Add
+Hong Kong China
+x
+Sign up
+
+*By submitting your information, you acknowledge that you have read our privacy policy and consent to receive email communication from Barclays.
+
+Confirm Email
+
+home.barclays
+Privacy Policy
+Cookie Policy
+Website Accessibility
+Sitemap
+LinkedIn
+Instagram
+
+Registered office for all: 1 Churchill Place, London E14 5HP
+
+0 of 6 results are now available.
+2026-06-29 10:32:45 [INFO] [巴克莱 (Barclays) - 香港/中国] 未检测到岗位卡片（selector 超时），按 0 岗位处理
+2026-06-29 10:32:47 [INFO] 浏览器已关闭
+2026-06-29 10:32:47 [INFO] 数据库连接已关闭
+2026-06-29 10:34:09 [INFO] 🚀 求职雷达启动！
+2026-06-29 10:34:10 [INFO] 正在扫描 [巴克莱 (Barclays) - 香港/中国] ...
+2026-06-29 10:34:19 [INFO] [巴克莱 (Barclays) - 香港/中国] ✅ 已处理 Cookie 弹窗 [#system-ialert-button]
+2026-06-29 10:34:41 [WARNING] [巴克莱 (Barclays) - 香港/中国] DEBUG selector=a[href^='/job/']
+2026-06-29 10:34:41 [WARNING] [巴克莱 (Barclays) - 香港/中国] DEBUG page_title=Search our Job Opportunities at Barclays
+2026-06-29 10:34:41 [WARNING] [巴克莱 (Barclays) - 香港/中国] DEBUG has [class*=list-item]=69 | [class*=job-title]=16 | a[href^='/job/']=16
+2026-06-29 10:34:41 [WARNING] [巴克莱 (Barclays) - 香港/中国] DEBUG body_text(3000)=
+Skip to main content
+
+Important notice: Protect yourself from recruitment scams. Learn more.
+
+Keyword Search
+
+City, State, or ZIP
+
+Search
+Your account
+?
+Helpdesk
+Saved jobs
+Menu
+6 results for
+Hong Kong China
+Category
+Country
+Region / State
+City
+Work Pattern
+Business Unit
+Job Type
+Clear All
+Flow Credit Desk Analyst
+Hong Kong, Hong Kong China
+25 6月
+Director, Asia PT Cash Sales
+Hong Kong, Hong Kong China
+22 6月
+Prime Synthetics Middle Office AVP
+Hong Kong, Hong Kong China
+22 6月
+Assistant VP - Global Markets Liquid Financing Quantitative Analyst
+Hong Kong, Hong Kong China
+27 6月
+VP Software Developer - APAC Flow Volatility Risk Pricing
+Hong Kong, Hong Kong China
+25 6月
+Front Office Equity Derivatives Quant -Assistant Vice President
+Hong Kong, Hong Kong China
+25 6月
+
+Sign up for job alerts
+
+Make sure you see job opportunities when they become available. Just add a few details below to stay up to date with jobs that suit you and your skills.
+
+Email*
+
+Category*
+
+Location*
+Location
+Aberdeen, Scotland
+Basildon, England
+Bath, England
+Bengaluru, Karnataka
+Birkenhead, England
+Birmingham, England
+Bolton, England
+Boston, Massachusetts
+Bournemouth, England
+Bradford, England
+Brighton, England
+Bristol, England
+Cambridge, England
+Cardiff, Wales
+Chennai, Tamil Nadu
+Colchester, England
+Coventry, England
+Crawley, England
+Derby, England
+Douglas, Douglas
+Dublin, Leinster
+Dundee, Scotland
+Edinburgh, Scotland
+Fleet, England
+Frankfurt am Main, Hesse
+Gandhinagar, Gujarat
+Geneva, Canton of Geneva
+Glasgow, Scotland
+Greater Manchester, England
+Guildford, England
+Gurugram, Haryana
+Hamburg, Hamburg
+Hanley Swan, England
+Harlow, England
+Hong Kong, Central and Western District
+Huddersfield, England
+Huntingdon, England
+Inverness, Scotland
+Ipswich, England
+Knutsford, England
+Leeds, England
+Liverpool, England
+London, England
+Luxembourg, Luxembourg
+Mexico City, Mexico City
+Monaco, Municipality of Monaco
+Mumbai, Maharashtra
+New Delhi, National Capital Territory of Delhi
+New York, New York
+Newcastle upon Tyne, England
+Noida, Uttar Pradesh
+Northampton, England
+Norwich, England
+Paris, Île-de-France Region
+Prague, Czechia
+Pune, Maharashtra
+Reading, England
+Rugby, England
+Saint Helier, St Helier
+Singapore, Singapore
+Southampton, England
+Southend-on-Sea, England
+St Peter Port, St Peter Port
+Stoke-on-Trent, England
+Sunderland, England
+Taipei, Taiwan
+Tokyo, Tokyo
+Whippany, New Jersey
+Wilmington, Delaware
+Wolverhampton, England
+Wrexham, Wales
+Zurich, Canton of Zurich
+
+Add
+Hong Kong China
+x
+Sign up
+
+*By submitting your information, you acknowledge that you have read our privacy policy and consent to receive email communication from Barclays.
+
+Confirm Email
+
+home.barclays
+Privacy Policy
+Cookie Policy
+Website Accessibility
+Sitemap
+LinkedIn
+Instagram
+
+Registered office for all: 1 Churchill Place, London E14 5HP
+
+0 of 6 results are now available.
+2026-06-29 10:34:41 [INFO] [巴克莱 (Barclays) - 香港/中国] 未检测到岗位卡片（selector 超时），按 0 岗位处理
+2026-06-29 10:34:43 [INFO] 浏览器已关闭
+2026-06-29 10:34:43 [INFO] 数据库连接已关闭
+2026-06-29 10:35:44 [INFO] 🚀 求职雷达启动！
+2026-06-29 10:35:44 [INFO] 正在扫描 [巴克莱 (Barclays) - 香港/中国] ...
+2026-06-29 10:35:57 [INFO] [巴克莱 (Barclays) - 香港/中国] ✅ 已处理 Cookie 弹窗 [#system-ialert-button]
+2026-06-29 10:36:10 [INFO] [巴克莱 (Barclays) - 香港/中国] 页面加载成功
+2026-06-29 10:36:10 [INFO] [巴克莱 (Barclays) - 香港/中国] 截获 16 个岗位元素，正在执行黑白名单过滤...
+2026-06-29 10:36:10 [INFO] [巴克莱 (Barclays) - 香港/中国] 过滤后保留 0 个岗位（本轮新: 0 / 历史旧: 0）
+2026-06-29 10:36:11 [INFO] 浏览器已关闭
+2026-06-29 10:36:11 [INFO] 数据库连接已关闭
+2026-06-29 10:37:29 [INFO] 🚀 求职雷达启动！
+2026-06-29 10:37:29 [INFO] 正在扫描 [高盛 (Goldman Sachs)] ...
+2026-06-29 10:37:43 [INFO] [高盛 (Goldman Sachs)] ✅ 已处理 Cookie 弹窗 [text=OK]
+2026-06-29 10:38:04 [INFO] [高盛 (Goldman Sachs)] 未检测到岗位卡片（selector 超时），按 0 岗位处理
+2026-06-29 10:38:06 [INFO] 正在扫描 [摩根大通 (JPMorgan Chase) - 香港] ...
+2026-06-29 10:38:28 [INFO] [摩根大通 (JPMorgan Chase) - 香港] 页面加载成功
+2026-06-29 10:38:28 [INFO] [摩根大通 (JPMorgan Chase) - 香港] 截获 119 个岗位元素，正在执行黑白名单过滤...
+2026-06-29 10:38:31 [INFO] [摩根大通 (JPMorgan Chase) - 香港] 过滤后保留 8 个岗位（本轮新: 0 / 历史旧: 8）
+2026-06-29 10:38:33 [INFO] 正在扫描 [摩根大通 (JPMorgan Chase) - 上海] ...
+2026-06-29 10:38:38 [INFO] [摩根大通 (JPMorgan Chase) - 上海] ✅ 已处理 Cookie 弹窗 [text=Accept]
+2026-06-29 10:38:47 [INFO] [摩根大通 (JPMorgan Chase) - 上海] 页面加载成功
+2026-06-29 10:38:47 [INFO] [摩根大通 (JPMorgan Chase) - 上海] 截获 43 个岗位元素，正在执行黑白名单过滤...
+2026-06-29 10:38:48 [INFO] [摩根大通 (JPMorgan Chase) - 上海] 过滤后保留 4 个岗位（本轮新: 0 / 历史旧: 4）
+2026-06-29 10:38:50 [INFO] 正在扫描 [摩根士丹利 (Morgan Stanley) - 全球/香港区] ...
+2026-06-29 10:39:02 [INFO] [摩根士丹利 (Morgan Stanley) - 全球/香港区] ✅ 已处理 Cookie 弹窗 [text=Accept]
+2026-06-29 10:39:24 [INFO] [摩根士丹利 (Morgan Stanley) - 全球/香港区] 未检测到岗位卡片（selector 超时），按 0 岗位处理
+2026-06-29 10:39:26 [INFO] 正在扫描 [摩根士丹利中国 (Morgan Stanley China)] ...
+2026-06-29 10:39:33 [INFO] [摩根士丹利中国 (Morgan Stanley China)] ✅ 已处理 Cookie 弹窗 [text=Accept All Cookies]
+2026-06-29 10:39:55 [INFO] [摩根士丹利中国 (Morgan Stanley China)] 未检测到岗位卡片（selector 超时），按 0 岗位处理
+2026-06-29 10:39:57 [INFO] 正在扫描 [花旗银行 (Citi) - 中国大陆] ...
+2026-06-29 10:40:13 [INFO] [花旗银行 (Citi) - 中国大陆] ✅ 已处理 Cookie 弹窗 [text=OK]
+2026-06-29 10:40:35 [INFO] [花旗银行 (Citi) - 中国大陆] 未检测到岗位卡片（selector 超时），按 0 岗位处理
+2026-06-29 10:40:37 [INFO] 正在扫描 [花旗银行 (Citi) - 香港] ...
+2026-06-29 10:40:41 [INFO] [花旗银行 (Citi) - 香港] ✅ 已处理 Cookie 弹窗 [#system-ialert-button]
+2026-06-29 10:40:54 [INFO] [花旗银行 (Citi) - 香港] 页面加载成功
+2026-06-29 10:40:54 [INFO] [花旗银行 (Citi) - 香港] 截获 15 个岗位元素，正在执行黑白名单过滤...
+2026-06-29 10:40:54 [INFO] [花旗银行 (Citi) - 香港] 过滤后保留 0 个岗位（本轮新: 0 / 历史旧: 0）
+2026-06-29 10:40:56 [INFO] 正在扫描 [美银 (Bank of America) - 香港/中国] ...
+2026-06-29 10:41:28 [INFO] [美银 (Bank of America) - 香港/中国] 未检测到岗位卡片（selector 超时），按 0 岗位处理
+2026-06-29 10:41:30 [INFO] 正在扫描 [巴克莱 (Barclays) - 香港/中国] ...
+2026-06-29 10:41:39 [INFO] [巴克莱 (Barclays) - 香港/中国] ✅ 已处理 Cookie 弹窗 [#system-ialert-button]
+2026-06-29 10:41:46 [INFO] [巴克莱 (Barclays) - 香港/中国] 页面加载成功
+2026-06-29 10:41:46 [INFO] [巴克莱 (Barclays) - 香港/中国] 截获 16 个岗位元素，正在执行黑白名单过滤...
+2026-06-29 10:41:47 [INFO] [巴克莱 (Barclays) - 香港/中国] 过滤后保留 0 个岗位（本轮新: 0 / 历史旧: 0）
+2026-06-29 10:41:48 [INFO] 浏览器已关闭
+2026-06-29 10:41:48 [INFO] 数据库连接已关闭
+2026-06-29 10:54:45 [INFO] 🚀 求职雷达启动！
+2026-06-29 10:54:46 [INFO] 正在扫描 [瑞银 (UBS) - 香港] ...
+2026-06-29 10:56:08 [INFO] [瑞银 (UBS) - 香港] 页面加载成功
+2026-06-29 10:56:08 [INFO] [瑞银 (UBS) - 香港] 截获 50 个岗位元素，正在执行黑白名单过滤...
+2026-06-29 10:56:08 [INFO] [瑞银 (UBS) - 香港] 发现 37 个全新岗位，已写入数据库
+2026-06-29 10:56:08 [INFO] [瑞银 (UBS) - 香港] 过滤后保留 37 个岗位（本轮新: 37 / 历史旧: 0）
+2026-06-29 10:56:10 [INFO] 正在扫描 [瑞银 (UBS) - 中国大陆] ...
+2026-06-29 10:57:15 [INFO] [瑞银 (UBS) - 中国大陆] 页面加载成功
+2026-06-29 10:57:15 [INFO] [瑞银 (UBS) - 中国大陆] 截获 50 个岗位元素，正在执行黑白名单过滤...
+2026-06-29 10:57:16 [INFO] [瑞银 (UBS) - 中国大陆] 发现 37 个全新岗位，已写入数据库
+2026-06-29 10:57:16 [INFO] [瑞银 (UBS) - 中国大陆] 过滤后保留 37 个岗位（本轮新: 37 / 历史旧: 0）
+2026-06-29 10:57:18 [INFO] 浏览器已关闭
+2026-06-29 10:57:18 [INFO] 数据库连接已关闭
+2026-06-30 10:11:09 [INFO] 🚀 求职雷达启动！
+2026-06-30 10:11:18 [INFO] 正在扫描 [瑞银 (UBS) - 香港] ...
+2026-06-30 10:11:18 [WARNING] [瑞银 (UBS) - 香港] 第 1/3 次导航失败: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25008&siteid=5131&PageType=searchResults&SearchType=linkquery&LinkID=15232#keyWordSearch=&locationSearch=Hong%20Kong%20SAR
+Call log:
+  - navigating to "https://jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25008&siteid=5131&PageType=searchResults&SearchType=linkquery&LinkID=15232#keyWordSearch=&locationSearch=Hong%20Kong%20SAR", waiting until "domcontentloaded"
+
+2026-06-30 10:11:20 [WARNING] [瑞银 (UBS) - 香港] 第 2/3 次导航失败: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25008&siteid=5131&PageType=searchResults&SearchType=linkquery&LinkID=15232#keyWordSearch=&locationSearch=Hong%20Kong%20SAR
+Call log:
+  - navigating to "https://jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25008&siteid=5131&PageType=searchResults&SearchType=linkquery&LinkID=15232#keyWordSearch=&locationSearch=Hong%20Kong%20SAR", waiting until "domcontentloaded"
+
+2026-06-30 10:11:22 [WARNING] [瑞银 (UBS) - 香港] 第 3/3 次导航失败: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25008&siteid=5131&PageType=searchResults&SearchType=linkquery&LinkID=15232#keyWordSearch=&locationSearch=Hong%20Kong%20SAR
+Call log:
+  - navigating to "https://jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25008&siteid=5131&PageType=searchResults&SearchType=linkquery&LinkID=15232#keyWordSearch=&locationSearch=Hong%20Kong%20SAR", waiting until "domcontentloaded"
+
+2026-06-30 10:11:22 [ERROR] [瑞银 (UBS) - 香港] 已达最大重试次数，跳过该公司
+2026-06-30 10:11:24 [INFO] 正在扫描 [瑞银 (UBS) - 中国大陆] ...
+2026-06-30 10:11:24 [WARNING] [瑞银 (UBS) - 中国大陆] 第 1/3 次导航失败: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25008&siteid=5131&PageType=searchResults&SearchType=linkquery&LinkID=15232#keyWordSearch=&locationSearch=China
+Call log:
+  - navigating to "https://jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25008&siteid=5131&PageType=searchResults&SearchType=linkquery&LinkID=15232#keyWordSearch=&locationSearch=China", waiting until "domcontentloaded"
+
+2026-06-30 10:11:26 [WARNING] [瑞银 (UBS) - 中国大陆] 第 2/3 次导航失败: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25008&siteid=5131&PageType=searchResults&SearchType=linkquery&LinkID=15232#keyWordSearch=&locationSearch=China
+Call log:
+  - navigating to "https://jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25008&siteid=5131&PageType=searchResults&SearchType=linkquery&LinkID=15232#keyWordSearch=&locationSearch=China", waiting until "domcontentloaded"
+
+2026-06-30 10:11:34 [WARNING] [瑞银 (UBS) - 中国大陆] 第 3/3 次导航失败: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25008&siteid=5131&PageType=searchResults&SearchType=linkquery&LinkID=15232#keyWordSearch=&locationSearch=China
+Call log:
+  - navigating to "https://jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25008&siteid=5131&PageType=searchResults&SearchType=linkquery&LinkID=15232#keyWordSearch=&locationSearch=China", waiting until "domcontentloaded"
+
+2026-06-30 10:11:34 [ERROR] [瑞银 (UBS) - 中国大陆] 已达最大重试次数，跳过该公司
+2026-06-30 10:11:35 [INFO] 浏览器已关闭
+2026-06-30 10:11:35 [INFO] 数据库连接已关闭
+2026-06-30 10:41:09 [INFO] 🚀 求职雷达启动！
+2026-06-30 10:41:09 [INFO] 正在扫描 [瑞银 (UBS) - 香港] ...
+2026-06-30 10:42:23 [INFO] [瑞银 (UBS) - 香港] 页面加载成功
+2026-06-30 10:42:23 [INFO] [瑞银 (UBS) - 香港] 截获 50 个岗位元素，正在执行黑白名单过滤...
+2026-06-30 10:42:25 [INFO] [瑞银 (UBS) - 香港] 过滤后保留 0 个岗位（本轮新: 0 / 历史旧: 0）
+2026-06-30 10:42:27 [INFO] 正在扫描 [瑞银 (UBS) - 中国大陆] ...
+2026-06-30 10:43:32 [INFO] [瑞银 (UBS) - 中国大陆] 页面加载成功
+2026-06-30 10:43:32 [INFO] [瑞银 (UBS) - 中国大陆] 截获 50 个岗位元素，正在执行黑白名单过滤...
+2026-06-30 10:43:33 [INFO] [瑞银 (UBS) - 中国大陆] 过滤后保留 0 个岗位（本轮新: 0 / 历史旧: 0）
+2026-06-30 10:43:35 [INFO] 浏览器已关闭
+2026-06-30 10:43:35 [INFO] 数据库连接已关闭
+2026-06-30 10:52:05 [INFO] 🚀 求职雷达启动！
+2026-06-30 10:52:07 [INFO] 正在扫描 [高盛 (Goldman Sachs)] ...
+2026-06-30 10:52:23 [INFO] [高盛 (Goldman Sachs)] ✅ 已处理 Cookie 弹窗 [text=OK]
+2026-06-30 10:52:44 [INFO] [高盛 (Goldman Sachs)] 未检测到岗位卡片（selector 超时），按 0 岗位处理
+2026-06-30 10:52:46 [INFO] 正在扫描 [摩根大通 (JPMorgan Chase) - 香港] ...
+2026-06-30 10:52:55 [INFO] [摩根大通 (JPMorgan Chase) - 香港] ✅ 已处理 Cookie 弹窗 [text=Accept]
+2026-06-30 10:53:09 [INFO] [摩根大通 (JPMorgan Chase) - 香港] 页面加载成功
+2026-06-30 10:53:09 [INFO] [摩根大通 (JPMorgan Chase) - 香港] 截获 115 个岗位元素，正在执行黑白名单过滤...
+2026-06-30 10:53:12 [INFO] [摩根大通 (JPMorgan Chase) - 香港] 过滤后保留 8 个岗位（本轮新: 0 / 历史旧: 8）
+2026-06-30 10:53:14 [INFO] 正在扫描 [摩根大通 (JPMorgan Chase) - 上海] ...
+2026-06-30 10:53:20 [INFO] [摩根大通 (JPMorgan Chase) - 上海] ✅ 已处理 Cookie 弹窗 [text=OK]
+2026-06-30 10:53:42 [INFO] [摩根大通 (JPMorgan Chase) - 上海] 未检测到岗位卡片（selector 超时），按 0 岗位处理
+2026-06-30 10:53:44 [INFO] 正在扫描 [摩根士丹利 (Morgan Stanley) - 全球/香港区] ...
+2026-06-30 10:53:54 [INFO] [摩根士丹利 (Morgan Stanley) - 全球/香港区] ✅ 已处理 Cookie 弹窗 [text=Accept]
+2026-06-30 10:54:16 [INFO] [摩根士丹利 (Morgan Stanley) - 全球/香港区] 未检测到岗位卡片（selector 超时），按 0 岗位处理
+2026-06-30 10:54:18 [INFO] 正在扫描 [摩根士丹利中国 (Morgan Stanley China)] ...
+2026-06-30 10:54:25 [INFO] [摩根士丹利中国 (Morgan Stanley China)] ✅ 已处理 Cookie 弹窗 [text=Accept All Cookies]
+2026-06-30 10:54:47 [INFO] [摩根士丹利中国 (Morgan Stanley China)] 未检测到岗位卡片（selector 超时），按 0 岗位处理
+2026-06-30 10:54:49 [INFO] 正在扫描 [花旗银行 (Citi) - 中国大陆] ...
+2026-06-30 10:54:59 [INFO] [花旗银行 (Citi) - 中国大陆] ✅ 已处理 Cookie 弹窗 [#system-ialert-button]
+2026-06-30 10:55:14 [INFO] [花旗银行 (Citi) - 中国大陆] 页面加载成功
+2026-06-30 10:55:14 [INFO] [花旗银行 (Citi) - 中国大陆] 截获 15 个岗位元素，正在执行黑白名单过滤...
+2026-06-30 10:55:14 [INFO] [花旗银行 (Citi) - 中国大陆] 过滤后保留 0 个岗位（本轮新: 0 / 历史旧: 0）
+2026-06-30 10:55:16 [INFO] 正在扫描 [花旗银行 (Citi) - 香港] ...
+2026-06-30 10:55:21 [INFO] [花旗银行 (Citi) - 香港] ✅ 已处理 Cookie 弹窗 [text=OK]
+2026-06-30 10:55:42 [INFO] [花旗银行 (Citi) - 香港] 未检测到岗位卡片（selector 超时），按 0 岗位处理
+2026-06-30 10:55:44 [INFO] 正在扫描 [美银 (Bank of America) - 香港/中国] ...
+2026-06-30 10:56:45 [INFO] [美银 (Bank of America) - 香港/中国] 未检测到岗位卡片（selector 超时），按 0 岗位处理
+2026-06-30 10:56:47 [INFO] 正在扫描 [巴克莱 (Barclays) - 香港/中国] ...
+2026-06-30 10:56:58 [INFO] [巴克莱 (Barclays) - 香港/中国] ✅ 已处理 Cookie 弹窗 [#system-ialert-button]
+2026-06-30 10:57:08 [INFO] [巴克莱 (Barclays) - 香港/中国] 页面加载成功
+2026-06-30 10:57:08 [INFO] [巴克莱 (Barclays) - 香港/中国] 截获 17 个岗位元素，正在执行黑白名单过滤...
+2026-06-30 10:57:08 [INFO] [巴克莱 (Barclays) - 香港/中国] 过滤后保留 0 个岗位（本轮新: 0 / 历史旧: 0）
+2026-06-30 10:57:11 [INFO] 正在扫描 [瑞银 (UBS) - 香港/中国大陆] ...
+2026-06-30 10:58:56 [INFO] [瑞银 (UBS) - 香港/中国大陆] 页面加载成功
+2026-06-30 10:58:56 [INFO] [瑞银 (UBS) - 香港/中国大陆] 截获 50 个岗位元素，正在执行黑白名单过滤...
+2026-06-30 10:58:57 [INFO] [瑞银 (UBS) - 香港/中国大陆] 过滤后保留 0 个岗位（本轮新: 0 / 历史旧: 0）
+2026-06-30 10:58:59 [INFO] 浏览器已关闭
+2026-06-30 10:58:59 [INFO] 数据库连接已关闭
+2026-06-30 11:05:02 [INFO] 🚀 求职雷达启动！
+2026-06-30 11:05:03 [INFO] 正在扫描 [高盛 (Goldman Sachs)] ...
+2026-06-30 11:05:56 [INFO] [高盛 (Goldman Sachs)] 页面加载成功
+2026-06-30 11:05:56 [INFO] [高盛 (Goldman Sachs)] 截获 2 个岗位元素，正在执行黑白名单过滤...
+2026-06-30 11:05:56 [INFO] [高盛 (Goldman Sachs)] 过滤后保留 2 个岗位（本轮新: 0 / 历史旧: 2）
+2026-06-30 11:05:58 [INFO] 正在扫描 [摩根大通 (JPMorgan Chase) - 香港] ...
+2026-06-30 11:06:12 [INFO] [摩根大通 (JPMorgan Chase) - 香港] ✅ 已处理 Cookie 弹窗 [text=Accept]
+2026-06-30 11:06:27 [INFO] [摩根大通 (JPMorgan Chase) - 香港] 页面加载成功
+2026-06-30 11:06:27 [INFO] [摩根大通 (JPMorgan Chase) - 香港] 截获 115 个岗位元素，正在执行黑白名单过滤...
+2026-06-30 11:06:30 [INFO] [摩根大通 (JPMorgan Chase) - 香港] 过滤后保留 8 个岗位（本轮新: 0 / 历史旧: 8）
+2026-06-30 11:06:32 [INFO] 正在扫描 [摩根大通 (JPMorgan Chase) - 上海] ...
+2026-06-30 11:06:40 [INFO] [摩根大通 (JPMorgan Chase) - 上海] 页面加载成功
+2026-06-30 11:06:40 [INFO] [摩根大通 (JPMorgan Chase) - 上海] 截获 42 个岗位元素，正在执行黑白名单过滤...
+2026-06-30 11:06:41 [INFO] [摩根大通 (JPMorgan Chase) - 上海] 过滤后保留 4 个岗位（本轮新: 0 / 历史旧: 4）
+2026-06-30 11:06:43 [INFO] 正在扫描 [摩根士丹利 (Morgan Stanley) - 全球/香港区] ...
+2026-06-30 11:06:55 [INFO] [摩根士丹利 (Morgan Stanley) - 全球/香港区] ✅ 已处理 Cookie 弹窗 [text=Accept]
+2026-06-30 11:07:17 [INFO] [摩根士丹利 (Morgan Stanley) - 全球/香港区] 未检测到岗位卡片（selector 超时），按 0 岗位处理
+2026-06-30 11:07:19 [INFO] 正在扫描 [摩根士丹利中国 (Morgan Stanley China)] ...
+2026-06-30 11:07:27 [INFO] [摩根士丹利中国 (Morgan Stanley China)] ✅ 已处理 Cookie 弹窗 [text=Accept All Cookies]
+2026-06-30 11:07:48 [INFO] [摩根士丹利中国 (Morgan Stanley China)] 未检测到岗位卡片（selector 超时），按 0 岗位处理
+2026-06-30 11:07:50 [INFO] 正在扫描 [花旗银行 (Citi) - 中国大陆] ...
+2026-06-30 11:08:02 [INFO] [花旗银行 (Citi) - 中国大陆] ✅ 已处理 Cookie 弹窗 [#system-ialert-button]
+2026-06-30 11:08:17 [INFO] [花旗银行 (Citi) - 中国大陆] 页面加载成功
+2026-06-30 11:08:17 [INFO] [花旗银行 (Citi) - 中国大陆] 截获 15 个岗位元素，正在执行黑白名单过滤...
+2026-06-30 11:08:17 [INFO] [花旗银行 (Citi) - 中国大陆] 过滤后保留 0 个岗位（本轮新: 0 / 历史旧: 0）
+2026-06-30 11:08:19 [INFO] 正在扫描 [花旗银行 (Citi) - 香港] ...
+2026-06-30 11:08:36 [INFO] [花旗银行 (Citi) - 香港] 页面加载成功
+2026-06-30 11:08:36 [INFO] [花旗银行 (Citi) - 香港] 截获 15 个岗位元素，正在执行黑白名单过滤...
+2026-06-30 11:08:37 [INFO] [花旗银行 (Citi) - 香港] 过滤后保留 0 个岗位（本轮新: 0 / 历史旧: 0）
+2026-06-30 11:08:39 [INFO] 正在扫描 [美银 (Bank of America) - 香港/中国] ...
+2026-06-30 11:09:13 [INFO] [美银 (Bank of America) - 香港/中国] 未检测到岗位卡片（selector 超时），按 0 岗位处理
+2026-06-30 11:09:15 [INFO] 正在扫描 [巴克莱 (Barclays) - 香港/中国] ...
+2026-06-30 11:09:27 [INFO] [巴克莱 (Barclays) - 香港/中国] ✅ 已处理 Cookie 弹窗 [#system-ialert-button]
+2026-06-30 11:09:48 [INFO] [巴克莱 (Barclays) - 香港/中国] 未检测到岗位卡片（selector 超时），按 0 岗位处理
+2026-06-30 11:09:50 [INFO] 正在扫描 [瑞银 (UBS) - 香港/中国大陆] ...
+2026-06-30 11:11:38 [INFO] [瑞银 (UBS) - 香港/中国大陆] 页面加载成功
+2026-06-30 11:11:38 [INFO] [瑞银 (UBS) - 香港/中国大陆] 截获 50 个岗位元素，正在执行黑白名单过滤...
+2026-06-30 11:11:39 [INFO] [瑞银 (UBS) - 香港/中国大陆] 过滤后保留 0 个岗位（本轮新: 0 / 历史旧: 0）
+2026-06-30 11:11:41 [INFO] 浏览器已关闭
+2026-06-30 11:11:41 [INFO] 数据库连接已关闭
+2026-06-30 11:12:36 [INFO] 🚀 求职雷达启动！
+2026-06-30 11:12:37 [INFO] 正在扫描 [高盛 (Goldman Sachs)] ...
+2026-06-30 11:13:22 [INFO] [高盛 (Goldman Sachs)] 页面加载成功
+2026-06-30 11:13:22 [INFO] [高盛 (Goldman Sachs)] 截获 2 个岗位元素，正在执行黑白名单过滤...
+2026-06-30 11:13:22 [INFO] [高盛 (Goldman Sachs)] 过滤后保留 2 个岗位（本轮新: 0 / 历史旧: 2）
+2026-06-30 11:13:24 [INFO] 正在扫描 [摩根大通 (JPMorgan Chase) - 香港] ...
+2026-06-30 11:13:33 [INFO] [摩根大通 (JPMorgan Chase) - 香港] ✅ 已处理 Cookie 弹窗 [text=Accept]
+2026-06-30 11:13:48 [INFO] [摩根大通 (JPMorgan Chase) - 香港] 页面加载成功
+2026-06-30 11:13:48 [INFO] [摩根大通 (JPMorgan Chase) - 香港] 截获 115 个岗位元素，正在执行黑白名单过滤...
+2026-06-30 11:13:51 [INFO] [摩根大通 (JPMorgan Chase) - 香港] 过滤后保留 8 个岗位（本轮新: 0 / 历史旧: 8）
+2026-06-30 11:13:53 [INFO] 正在扫描 [摩根大通 (JPMorgan Chase) - 上海] ...
+2026-06-30 11:14:01 [INFO] [摩根大通 (JPMorgan Chase) - 上海] 页面加载成功
+2026-06-30 11:14:02 [INFO] [摩根大通 (JPMorgan Chase) - 上海] 截获 42 个岗位元素，正在执行黑白名单过滤...
+2026-06-30 11:14:02 [INFO] [摩根大通 (JPMorgan Chase) - 上海] 过滤后保留 4 个岗位（本轮新: 0 / 历史旧: 4）
+2026-06-30 11:14:04 [INFO] 正在扫描 [摩根士丹利 (Morgan Stanley) - 全球/香港区] ...
+2026-06-30 11:14:15 [INFO] [摩根士丹利 (Morgan Stanley) - 全球/香港区] ✅ 已处理 Cookie 弹窗 [text=Accept]
+2026-06-30 11:14:37 [INFO] [摩根士丹利 (Morgan Stanley) - 全球/香港区] 未检测到岗位卡片（selector 超时），按 0 岗位处理
+2026-06-30 11:14:39 [INFO] 正在扫描 [摩根士丹利中国 (Morgan Stanley China)] ...
+2026-06-30 11:14:46 [INFO] [摩根士丹利中国 (Morgan Stanley China)] ✅ 已处理 Cookie 弹窗 [text=Accept All Cookies]
+2026-06-30 11:15:07 [INFO] [摩根士丹利中国 (Morgan Stanley China)] 未检测到岗位卡片（selector 超时），按 0 岗位处理
+2026-06-30 11:15:09 [INFO] 正在扫描 [花旗银行 (Citi) - 中国大陆] ...
+2026-06-30 11:15:21 [INFO] [花旗银行 (Citi) - 中国大陆] ✅ 已处理 Cookie 弹窗 [#system-ialert-button]
+2026-06-30 11:15:36 [INFO] [花旗银行 (Citi) - 中国大陆] 页面加载成功
+2026-06-30 11:15:36 [INFO] [花旗银行 (Citi) - 中国大陆] 截获 15 个岗位元素，正在执行黑白名单过滤...
+2026-06-30 11:15:36 [INFO] [花旗银行 (Citi) - 中国大陆] 过滤后保留 0 个岗位（本轮新: 0 / 历史旧: 0）
+2026-06-30 11:15:38 [INFO] 正在扫描 [花旗银行 (Citi) - 香港] ...
+2026-06-30 11:15:55 [INFO] [花旗银行 (Citi) - 香港] 页面加载成功
+2026-06-30 11:15:55 [INFO] [花旗银行 (Citi) - 香港] 截获 15 个岗位元素，正在执行黑白名单过滤...
+2026-06-30 11:15:55 [INFO] [花旗银行 (Citi) - 香港] 过滤后保留 0 个岗位（本轮新: 0 / 历史旧: 0）
+2026-06-30 11:15:57 [INFO] 正在扫描 [美银 (Bank of America) - 香港/中国] ...
+2026-06-30 11:16:31 [INFO] [美银 (Bank of America) - 香港/中国] 未检测到岗位卡片（selector 超时），按 0 岗位处理
+2026-06-30 11:16:33 [INFO] 正在扫描 [巴克莱 (Barclays) - 香港/中国] ...
+2026-06-30 11:16:41 [INFO] [巴克莱 (Barclays) - 香港/中国] ✅ 已处理 Cookie 弹窗 [#system-ialert-button]
+2026-06-30 11:16:51 [INFO] [巴克莱 (Barclays) - 香港/中国] 页面加载成功
+2026-06-30 11:16:51 [INFO] [巴克莱 (Barclays) - 香港/中国] 截获 17 个岗位元素，正在执行黑白名单过滤...
+2026-06-30 11:16:51 [INFO] [巴克莱 (Barclays) - 香港/中国] 过滤后保留 0 个岗位（本轮新: 0 / 历史旧: 0）
+2026-06-30 11:16:53 [INFO] 正在扫描 [瑞银 (UBS) - 香港/中国大陆] ...
+2026-06-30 11:18:37 [INFO] [瑞银 (UBS) - 香港/中国大陆] 页面加载成功
+2026-06-30 11:18:37 [INFO] [瑞银 (UBS) - 香港/中国大陆] 截获 50 个岗位元素，正在执行黑白名单过滤...
+2026-06-30 11:18:39 [INFO] [瑞银 (UBS) - 香港/中国大陆] 过滤后保留 0 个岗位（本轮新: 0 / 历史旧: 0）
+2026-06-30 11:18:40 [INFO] 浏览器已关闭
+2026-06-30 11:18:40 [INFO] 数据库连接已关闭
+2026-06-30 11:33:49 [INFO] 🚀 求职雷达启动！
+2026-06-30 11:33:50 [INFO] 正在扫描 [德银 (Deutsche Bank) - 全球] ...
+2026-06-30 11:34:36 [INFO] [德银 (Deutsche Bank) - 全球] 页面加载成功
+2026-06-30 11:34:36 [INFO] [德银 (Deutsche Bank) - 全球] 截获 10 个岗位元素，正在执行黑白名单过滤...
+2026-06-30 11:34:36 [INFO] [德银 (Deutsche Bank) - 全球] 过滤后保留 0 个岗位（本轮新: 0 / 历史旧: 0）
+2026-06-30 11:34:37 [INFO] 浏览器已关闭
+2026-06-30 11:34:37 [INFO] 数据库连接已关闭
+2026-06-30 11:34:57 [INFO] 🚀 求职雷达启动！
+2026-06-30 11:34:57 [INFO] 正在扫描 [德银 (Deutsche Bank) - 全球] ...
+2026-06-30 11:35:41 [INFO] [德银 (Deutsche Bank) - 全球] 页面加载成功
+2026-06-30 11:35:41 [INFO] [德银 (Deutsche Bank) - 全球] 截获 10 个岗位元素，正在执行黑白名单过滤...
+2026-06-30 11:35:42 [INFO] [德银 (Deutsche Bank) - 全球] 过滤后保留 0 个岗位（本轮新: 0 / 历史旧: 0）
+2026-06-30 11:35:43 [INFO] 浏览器已关闭
+2026-06-30 11:35:43 [INFO] 数据库连接已关闭
+2026-06-30 11:36:45 [INFO] 🚀 求职雷达启动！
+2026-06-30 11:36:46 [INFO] 正在扫描 [德银 (Deutsche Bank) - 全球] ...
+2026-06-30 11:37:30 [INFO] [德银 (Deutsche Bank) - 全球] 页面加载成功
+2026-06-30 11:37:30 [INFO] [德银 (Deutsche Bank) - 全球] 截获 10 个岗位元素，正在执行黑白名单过滤...
+2026-06-30 11:37:30 [INFO] [德银 (Deutsche Bank) - 全球] 过滤后保留 0 个岗位（本轮新: 0 / 历史旧: 0）
+2026-06-30 11:37:31 [INFO] 浏览器已关闭
+2026-06-30 11:37:31 [INFO] 数据库连接已关闭
+2026-06-30 11:38:41 [INFO] 🚀 求职雷达启动！
+2026-06-30 11:38:41 [INFO] 正在扫描 [德银 (Deutsche Bank) - 全球] ...
+2026-06-30 11:38:57 [INFO] [德银 (Deutsche Bank) - 全球] 页面加载成功
+2026-06-30 11:38:57 [INFO] [德银 (Deutsche Bank) - 全球] 截获 10 个岗位元素，正在执行黑白名单过滤...
+2026-06-30 11:38:57 [INFO] [德银 (Deutsche Bank) - 全球] 过滤后保留 0 个岗位（本轮新: 0 / 历史旧: 0）
+2026-06-30 11:38:59 [INFO] 浏览器已关闭
+2026-06-30 11:38:59 [INFO] 数据库连接已关闭
+2026-06-30 11:40:02 [INFO] 🚀 求职雷达启动！
+2026-06-30 11:40:03 [INFO] 正在扫描 [德银 (Deutsche Bank) - 全球] ...
+2026-06-30 11:40:23 [INFO] [德银 (Deutsche Bank) - 全球] 页面加载成功
+2026-06-30 11:40:23 [INFO] [德银 (Deutsche Bank) - 全球] 截获 10 个岗位元素，正在执行黑白名单过滤...
+2026-06-30 11:40:23 [INFO] [德银 (Deutsche Bank) - 全球] 过滤后保留 0 个岗位（本轮新: 0 / 历史旧: 0）
+2026-06-30 11:40:24 [INFO] 浏览器已关闭
+2026-06-30 11:40:25 [INFO] 数据库连接已关闭
+2026-06-30 11:40:59 [INFO] 🚀 求职雷达启动！
+2026-06-30 11:41:00 [INFO] 正在扫描 [德银 (Deutsche Bank) - 全球] ...
+2026-06-30 11:41:18 [INFO] [德银 (Deutsche Bank) - 全球] 页面加载成功
+2026-06-30 11:41:18 [INFO] [德银 (Deutsche Bank) - 全球] 截获 10 个岗位元素，正在执行黑白名单过滤...
+2026-06-30 11:41:19 [INFO] [德银 (Deutsche Bank) - 全球] 过滤后保留 0 个岗位（本轮新: 0 / 历史旧: 0）
+2026-06-30 11:41:20 [INFO] 浏览器已关闭
+2026-06-30 11:41:20 [INFO] 数据库连接已关闭
+2026-06-30 11:41:55 [INFO] 🚀 求职雷达启动！
+2026-06-30 11:41:56 [INFO] 正在扫描 [德银 (Deutsche Bank) - 全球] ...
+2026-06-30 11:42:09 [INFO] [德银 (Deutsche Bank) - 全球] 🔍 _scroll_to_load_all 开始, 初始计数=10
+2026-06-30 11:42:10 [INFO] [德银 (Deutsche Bank) - 全球] 🔍 找到 Load More 按钮，点击...
+2026-06-30 11:42:12 [INFO] [德银 (Deutsche Bank) - 全球] 🔍 Load More 按钮未找到或点击失败: Locator.click: Timeout 2000ms exceeded.
+Call log:
+  - waiting for locator("button:has-text('Load More'), button:has-text('Load more'), button:has-text('Show More'), button:has-text('Show more'), a:has-text('Load More'), a:has-text('Load more'), a:has-text('Show More'), a:has-text('Show more'), [class*='load-more'], [class*='show-more']").first
+    - locator resolved to <button data-v-1888e6f8="" class="button type-primary"> Load more </button>
+  - attempting click action
+    2 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <div class="focus-visible" id="usercentrics-root" data-focus-visible-added="" data-created-at="1782790921829"></div> intercepts pointer events
+    - retrying click action
+    - waiting 20ms
+    2 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <div class="focus-visible" id="usercentrics-root" data-focus-visible-added="" data-created-at="1782790921829"></div> intercepts pointer events
+    - retrying click action
+      - waiting 100ms
+    4 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <div class="focus-visible" id="usercentrics-root" data-focus-visible-added="" data-created-at="1782790921829"></div> intercepts pointer events
+    - retrying click action
+      - waiting 500ms
+
+2026-06-30 11:42:14 [INFO] [德银 (Deutsche Bank) - 全球] 🔍 找到 Load More 按钮，点击...
+2026-06-30 11:42:16 [INFO] [德银 (Deutsche Bank) - 全球] 🔍 Load More 按钮未找到或点击失败: Locator.click: Timeout 2000ms exceeded.
+Call log:
+  - waiting for locator("button:has-text('Load More'), button:has-text('Load more'), button:has-text('Show More'), button:has-text('Show more'), a:has-text('Load More'), a:has-text('Load more'), a:has-text('Show More'), a:has-text('Show more'), [class*='load-more'], [class*='show-more']").first
+    - locator resolved to <button data-v-1888e6f8="" class="button type-primary"> Load more </button>
+  - attempting click action
+    2 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <div class="focus-visible" id="usercentrics-root" data-focus-visible-added="" data-created-at="1782790921829"></div> intercepts pointer events
+    - retrying click action
+    - waiting 20ms
+    2 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <div class="focus-visible" id="usercentrics-root" data-focus-visible-added="" data-created-at="1782790921829"></div> intercepts pointer events
+    - retrying click action
+      - waiting 100ms
+    4 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <div class="focus-visible" id="usercentrics-root" data-focus-visible-added="" data-created-at="1782790921829"></div> intercepts pointer events
+    - retrying click action
+      - waiting 500ms
+
+2026-06-30 11:42:16 [INFO] [德银 (Deutsche Bank) - 全球] 🔍 _scroll_to_load_all 结束, 最终计数=10
+2026-06-30 11:42:16 [INFO] [德银 (Deutsche Bank) - 全球] 页面加载成功
+2026-06-30 11:42:16 [INFO] [德银 (Deutsche Bank) - 全球] 截获 10 个岗位元素，正在执行黑白名单过滤...
+2026-06-30 11:42:16 [INFO] [德银 (Deutsche Bank) - 全球] 过滤后保留 0 个岗位（本轮新: 0 / 历史旧: 0）
+2026-06-30 11:42:18 [INFO] 浏览器已关闭
+2026-06-30 11:42:18 [INFO] 数据库连接已关闭
+2026-06-30 11:42:57 [INFO] 🚀 求职雷达启动！
+2026-06-30 11:42:58 [INFO] 正在扫描 [德银 (Deutsche Bank) - 全球] ...
+2026-06-30 11:43:09 [INFO] [德银 (Deutsche Bank) - 全球] 🔍 _scroll_to_load_all 开始, 初始计数=10
+2026-06-30 11:43:11 [INFO] [德银 (Deutsche Bank) - 全球] 🔍 找到 Load More 按钮，JS 点击绕过遮罩...
+2026-06-30 11:43:12 [INFO] [德银 (Deutsche Bank) - 全球] 🔍 新内容已加载
+2026-06-30 11:43:14 [INFO] [德银 (Deutsche Bank) - 全球] 🔍 找到 Load More 按钮，JS 点击绕过遮罩...
+2026-06-30 11:43:15 [INFO] [德银 (Deutsche Bank) - 全球] 🔍 新内容已加载
+2026-06-30 11:43:17 [INFO] [德银 (Deutsche Bank) - 全球] 🔍 找到 Load More 按钮，JS 点击绕过遮罩...
+2026-06-30 11:43:48 [INFO] [德银 (Deutsche Bank) - 全球] 🔍 Load More 按钮未找到或点击失败: Locator.evaluate: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("button:has-text('Load More'), button:has-text('Load more'), button:has-text('Show More'), button:has-text('Show more'), a:has-text('Load More'), a:has-text('Load more'), a:has-text('Show More'), a:has-text('Show more'), [class*='load-more'], [class*='show-more']").first
+
+2026-06-30 11:43:49 [INFO] [德银 (Deutsche Bank) - 全球] 🔍 找到 Load More 按钮，JS 点击绕过遮罩...
+2026-06-30 11:44:19 [INFO] [德银 (Deutsche Bank) - 全球] 🔍 Load More 按钮未找到或点击失败: Locator.evaluate: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("button:has-text('Load More'), button:has-text('Load more'), button:has-text('Show More'), button:has-text('Show more'), a:has-text('Load More'), a:has-text('Load more'), a:has-text('Show More'), a:has-text('Show more'), [class*='load-more'], [class*='show-more']").first
+
+2026-06-30 11:44:19 [INFO] [德银 (Deutsche Bank) - 全球] 🔍 _scroll_to_load_all 结束, 最终计数=21
+2026-06-30 11:44:19 [INFO] [德银 (Deutsche Bank) - 全球] 页面加载成功
+2026-06-30 11:44:19 [INFO] [德银 (Deutsche Bank) - 全球] 截获 21 个岗位元素，正在执行黑白名单过滤...
+2026-06-30 11:44:20 [INFO] [德银 (Deutsche Bank) - 全球] 过滤后保留 0 个岗位（本轮新: 0 / 历史旧: 0）
+2026-06-30 11:44:21 [INFO] 浏览器已关闭
+2026-06-30 11:44:21 [INFO] 数据库连接已关闭
+2026-06-30 11:46:26 [INFO] 🚀 求职雷达启动！
+2026-06-30 11:46:27 [INFO] 正在扫描 [德银 (Deutsche Bank) - 全球] ...
+2026-06-30 11:46:45 [INFO] [德银 (Deutsche Bank) - 全球] 页面加载成功
+2026-06-30 11:46:45 [INFO] [德银 (Deutsche Bank) - 全球] 截获 10 个岗位元素，正在执行黑白名单过滤...
+2026-06-30 11:46:46 [INFO] [德银 (Deutsche Bank) - 全球] 过滤后保留 0 个岗位（本轮新: 0 / 历史旧: 0）
+2026-06-30 11:46:47 [INFO] 浏览器已关闭
+2026-06-30 11:46:47 [INFO] 数据库连接已关闭
+2026-06-30 11:47:27 [INFO] 🚀 求职雷达启动！
+2026-06-30 11:47:27 [INFO] 正在扫描 [德银 (Deutsche Bank) - 全球] ...
+2026-06-30 11:47:55 [INFO] [德银 (Deutsche Bank) - 全球] 页面加载成功
+2026-06-30 11:47:55 [INFO] [德银 (Deutsche Bank) - 全球] 截获 21 个岗位元素，正在执行黑白名单过滤...
+2026-06-30 11:47:56 [INFO] [德银 (Deutsche Bank) - 全球] 过滤后保留 0 个岗位（本轮新: 0 / 历史旧: 0）
+2026-06-30 11:47:57 [INFO] 浏览器已关闭
+2026-06-30 11:47:57 [INFO] 数据库连接已关闭
+2026-06-30 13:06:20 [INFO] 🚀 求职雷达启动！
+2026-06-30 13:06:22 [INFO] 正在扫描 [高盛 (Goldman Sachs)] ...
+2026-06-30 13:07:39 [INFO] [高盛 (Goldman Sachs)] 页面加载成功
+2026-06-30 13:07:39 [INFO] [高盛 (Goldman Sachs)] 截获 2 个岗位元素，正在执行黑白名单过滤...
+2026-06-30 13:07:39 [INFO] [高盛 (Goldman Sachs)] 过滤后保留 2 个岗位（本轮新: 0 / 历史旧: 2）
+2026-06-30 13:07:41 [INFO] 正在扫描 [摩根大通 (JPMorgan Chase) - 香港] ...
+2026-06-30 13:07:50 [INFO] [摩根大通 (JPMorgan Chase) - 香港] ✅ 已处理 Cookie 弹窗 [text=Accept]
+2026-06-30 13:08:18 [INFO] [摩根大通 (JPMorgan Chase) - 香港] 页面加载成功
+2026-06-30 13:08:18 [INFO] [摩根大通 (JPMorgan Chase) - 香港] 截获 115 个岗位元素，正在执行黑白名单过滤...
+2026-06-30 13:08:22 [INFO] [摩根大通 (JPMorgan Chase) - 香港] 过滤后保留 8 个岗位（本轮新: 0 / 历史旧: 8）
+2026-06-30 13:08:24 [INFO] 正在扫描 [摩根大通 (JPMorgan Chase) - 上海] ...
+2026-06-30 13:08:39 [INFO] [摩根大通 (JPMorgan Chase) - 上海] 页面加载成功
+2026-06-30 13:08:39 [INFO] [摩根大通 (JPMorgan Chase) - 上海] 截获 42 个岗位元素，正在执行黑白名单过滤...
+2026-06-30 13:08:40 [INFO] [摩根大通 (JPMorgan Chase) - 上海] 过滤后保留 4 个岗位（本轮新: 0 / 历史旧: 4）
+2026-06-30 13:08:42 [INFO] 正在扫描 [摩根士丹利 (Morgan Stanley) - 全球/香港区] ...
+2026-06-30 13:08:52 [INFO] [摩根士丹利 (Morgan Stanley) - 全球/香港区] ✅ 已处理 Cookie 弹窗 [text=Accept]
+2026-06-30 13:09:14 [INFO] [摩根士丹利 (Morgan Stanley) - 全球/香港区] 未检测到岗位卡片（selector 超时），按 0 岗位处理
+2026-06-30 13:09:16 [INFO] 正在扫描 [摩根士丹利中国 (Morgan Stanley China)] ...
+2026-06-30 13:09:24 [INFO] [摩根士丹利中国 (Morgan Stanley China)] ✅ 已处理 Cookie 弹窗 [text=Accept All Cookies]
+2026-06-30 13:09:45 [INFO] [摩根士丹利中国 (Morgan Stanley China)] 未检测到岗位卡片（selector 超时），按 0 岗位处理
+2026-06-30 13:09:47 [INFO] 正在扫描 [花旗银行 (Citi) - 中国大陆] ...
+2026-06-30 13:09:57 [INFO] [花旗银行 (Citi) - 中国大陆] ✅ 已处理 Cookie 弹窗 [#system-ialert-button]
+2026-06-30 13:20:17 [INFO] 🚀 求职雷达启动！
+2026-06-30 13:20:18 [INFO] 正在扫描 [高盛 (Goldman Sachs)] ...
+2026-06-30 13:21:35 [INFO] [高盛 (Goldman Sachs)] 页面加载成功
+2026-06-30 13:21:35 [INFO] [高盛 (Goldman Sachs)] 截获 2 个岗位元素，正在执行黑白名单过滤...
+2026-06-30 13:21:35 [INFO] [高盛 (Goldman Sachs)] 过滤后保留 2 个岗位（本轮新: 0 / 历史旧: 2）
+2026-06-30 13:21:37 [INFO] 正在扫描 [摩根大通 (JPMorgan Chase) - 香港] ...
+2026-06-30 13:21:46 [INFO] [摩根大通 (JPMorgan Chase) - 香港] ✅ 已处理 Cookie 弹窗 [text=Accept]
+2026-06-30 13:22:14 [INFO] [摩根大通 (JPMorgan Chase) - 香港] 页面加载成功
+2026-06-30 13:22:14 [INFO] [摩根大通 (JPMorgan Chase) - 香港] 截获 115 个岗位元素，正在执行黑白名单过滤...
+2026-06-30 13:22:16 [INFO] [摩根大通 (JPMorgan Chase) - 香港] 过滤后保留 8 个岗位（本轮新: 0 / 历史旧: 8）
+2026-06-30 13:22:18 [INFO] 正在扫描 [摩根大通 (JPMorgan Chase) - 上海] ...
+2026-06-30 13:22:33 [INFO] [摩根大通 (JPMorgan Chase) - 上海] 页面加载成功
+2026-06-30 13:22:33 [INFO] [摩根大通 (JPMorgan Chase) - 上海] 截获 42 个岗位元素，正在执行黑白名单过滤...
+2026-06-30 13:22:34 [INFO] [摩根大通 (JPMorgan Chase) - 上海] 过滤后保留 4 个岗位（本轮新: 0 / 历史旧: 4）
+2026-06-30 13:22:36 [INFO] 正在扫描 [摩根士丹利 (Morgan Stanley) - 全球/香港区] ...
+2026-06-30 13:22:47 [INFO] [摩根士丹利 (Morgan Stanley) - 全球/香港区] ✅ 已处理 Cookie 弹窗 [text=Accept]
+2026-06-30 13:23:08 [INFO] [摩根士丹利 (Morgan Stanley) - 全球/香港区] 未检测到岗位卡片（selector 超时），按 0 岗位处理
+2026-06-30 13:23:10 [INFO] 正在扫描 [摩根士丹利中国 (Morgan Stanley China)] ...
+2026-06-30 13:23:18 [INFO] [摩根士丹利中国 (Morgan Stanley China)] ✅ 已处理 Cookie 弹窗 [text=Accept All Cookies]
+2026-06-30 13:23:40 [INFO] [摩根士丹利中国 (Morgan Stanley China)] 未检测到岗位卡片（selector 超时），按 0 岗位处理
+2026-06-30 13:23:42 [INFO] 正在扫描 [花旗银行 (Citi) - 中国大陆] ...
+2026-06-30 13:23:52 [INFO] [花旗银行 (Citi) - 中国大陆] ✅ 已处理 Cookie 弹窗 [#system-ialert-button]
+2026-06-30 13:25:22 [INFO] [花旗银行 (Citi) - 中国大陆] 页面加载成功
+2026-06-30 13:25:22 [INFO] [花旗银行 (Citi) - 中国大陆] 截获 3 个岗位元素，正在执行黑白名单过滤...
+2026-06-30 13:25:22 [INFO] [花旗银行 (Citi) - 中国大陆] 过滤后保留 0 个岗位（本轮新: 0 / 历史旧: 0）
+2026-06-30 13:25:24 [INFO] 正在扫描 [花旗银行 (Citi) - 香港] ...
+2026-06-30 13:25:35 [INFO] 🚀 求职雷达启动！
+2026-06-30 13:25:35 [INFO] 数据库连接已关闭
+2026-06-30 13:25:37 [INFO] 🚀 求职雷达启动！
+2026-06-30 13:25:37 [INFO] 数据库连接已关闭
+2026-06-30 13:25:37 [ERROR] Task was destroyed but it is pending!
+task: <Task pending name='Task-3' coro=<Connection.run.<locals>.init() running at E:\Python\PythonTools\.venv\Lib\site-packages\playwright\_impl\_connection.py:310> wait_for=<Future pending cb=[Task.task_wakeup()]> cb=[ProtocolCallback.__init__.<locals>.cb() at E:\Python\PythonTools\.venv\Lib\site-packages\playwright\_impl\_connection.py:230]>
+2026-06-30 13:25:39 [INFO] 🚀 求职雷达启动！
+2026-06-30 13:25:39 [INFO] 正在扫描 [高盛 (Goldman Sachs)] ...
+2026-06-30 13:26:38 [INFO] 🚀 求职雷达启动！
+2026-06-30 13:26:39 [INFO] 正在扫描 [高盛 (Goldman Sachs)] ...
+2026-06-30 13:28:00 [INFO] [高盛 (Goldman Sachs)] 页面加载成功
+2026-06-30 13:28:00 [INFO] [高盛 (Goldman Sachs)] 截获 2 个岗位元素，正在执行黑白名单过滤...
+2026-06-30 13:28:00 [INFO] [高盛 (Goldman Sachs)] 过滤后保留 2 个岗位（本轮新: 0 / 历史旧: 2）
+2026-06-30 13:28:02 [INFO] 正在扫描 [摩根大通 (JPMorgan Chase) - 香港] ...
+2026-06-30 13:28:11 [INFO] [摩根大通 (JPMorgan Chase) - 香港] ✅ 已处理 Cookie 弹窗 [text=Accept]
+2026-06-30 13:28:39 [INFO] [摩根大通 (JPMorgan Chase) - 香港] 页面加载成功
+2026-06-30 13:28:39 [INFO] [摩根大通 (JPMorgan Chase) - 香港] 截获 115 个岗位元素，正在执行黑白名单过滤...
+2026-06-30 13:28:43 [INFO] [摩根大通 (JPMorgan Chase) - 香港] 过滤后保留 8 个岗位（本轮新: 0 / 历史旧: 8）
+2026-06-30 13:28:45 [INFO] 正在扫描 [摩根大通 (JPMorgan Chase) - 上海] ...
+2026-06-30 13:29:00 [INFO] [摩根大通 (JPMorgan Chase) - 上海] 页面加载成功
+2026-06-30 13:29:00 [INFO] [摩根大通 (JPMorgan Chase) - 上海] 截获 42 个岗位元素，正在执行黑白名单过滤...
+2026-06-30 13:29:01 [INFO] [摩根大通 (JPMorgan Chase) - 上海] 过滤后保留 4 个岗位（本轮新: 0 / 历史旧: 4）
+2026-06-30 13:29:03 [INFO] 正在扫描 [摩根士丹利 (Morgan Stanley) - 全球/香港区] ...
+2026-06-30 13:29:14 [INFO] [摩根士丹利 (Morgan Stanley) - 全球/香港区] ✅ 已处理 Cookie 弹窗 [text=Accept]
+2026-06-30 13:29:35 [INFO] [摩根士丹利 (Morgan Stanley) - 全球/香港区] 未检测到岗位卡片（selector 超时），按 0 岗位处理
+2026-06-30 13:29:37 [INFO] 正在扫描 [摩根士丹利中国 (Morgan Stanley China)] ...
+2026-06-30 13:29:46 [INFO] [摩根士丹利中国 (Morgan Stanley China)] ✅ 已处理 Cookie 弹窗 [text=Accept All Cookies]
+2026-06-30 13:30:07 [INFO] [摩根士丹利中国 (Morgan Stanley China)] 未检测到岗位卡片（selector 超时），按 0 岗位处理
+2026-06-30 13:30:09 [INFO] 正在扫描 [花旗银行 (Citi) - 中国大陆] ...
+2026-06-30 13:30:20 [INFO] [花旗银行 (Citi) - 中国大陆] ✅ 已处理 Cookie 弹窗 [#system-ialert-button]
+2026-06-30 13:31:50 [INFO] [花旗银行 (Citi) - 中国大陆] 页面加载成功
+2026-06-30 13:31:50 [INFO] [花旗银行 (Citi) - 中国大陆] 截获 3 个岗位元素，正在执行黑白名单过滤...
+2026-06-30 13:31:50 [INFO] [花旗银行 (Citi) - 中国大陆] 过滤后保留 0 个岗位（本轮新: 0 / 历史旧: 0）
+2026-06-30 13:31:52 [INFO] 正在扫描 [花旗银行 (Citi) - 香港] ...
+2026-06-30 13:32:18 [INFO] [花旗银行 (Citi) - 香港] 页面加载成功
+2026-06-30 13:32:18 [INFO] [花旗银行 (Citi) - 香港] 截获 15 个岗位元素，正在执行黑白名单过滤...
+2026-06-30 13:32:19 [INFO] [花旗银行 (Citi) - 香港] 过滤后保留 0 个岗位（本轮新: 0 / 历史旧: 0）
+2026-06-30 13:32:21 [INFO] 正在扫描 [美银 (Bank of America) - 香港/中国] ...
+2026-06-30 13:32:53 [INFO] [美银 (Bank of America) - 香港/中国] 未检测到岗位卡片（selector 超时），按 0 岗位处理
+2026-06-30 13:32:55 [INFO] 正在扫描 [巴克莱 (Barclays) - 香港/中国] ...
+2026-06-30 13:33:05 [INFO] [巴克莱 (Barclays) - 香港/中国] ✅ 已处理 Cookie 弹窗 [#system-ialert-button]
+2026-06-30 13:33:21 [INFO] [巴克莱 (Barclays) - 香港/中国] 页面加载成功
+2026-06-30 13:33:21 [INFO] [巴克莱 (Barclays) - 香港/中国] 截获 17 个岗位元素，正在执行黑白名单过滤...
+2026-06-30 13:33:21 [INFO] [巴克莱 (Barclays) - 香港/中国] 过滤后保留 0 个岗位（本轮新: 0 / 历史旧: 0）
+2026-06-30 13:33:23 [INFO] 正在扫描 [瑞银 (UBS) - 香港/中国大陆] ...
+2026-06-30 13:35:15 [INFO] [瑞银 (UBS) - 香港/中国大陆] 页面加载成功
+2026-06-30 13:35:15 [INFO] [瑞银 (UBS) - 香港/中国大陆] 截获 50 个岗位元素，正在执行黑白名单过滤...
+2026-06-30 13:35:17 [INFO] [瑞银 (UBS) - 香港/中国大陆] 过滤后保留 0 个岗位（本轮新: 0 / 历史旧: 0）
+2026-06-30 13:35:19 [INFO] 正在扫描 [德银 (Deutsche Bank) - 全球] ...
+2026-06-30 13:35:48 [INFO] [德银 (Deutsche Bank) - 全球] 页面加载成功
+2026-06-30 13:35:48 [INFO] [德银 (Deutsche Bank) - 全球] 截获 21 个岗位元素，正在执行黑白名单过滤...
+2026-06-30 13:35:49 [INFO] [德银 (Deutsche Bank) - 全球] 过滤后保留 0 个岗位（本轮新: 0 / 历史旧: 0）
+2026-06-30 13:35:50 [INFO] 浏览器已关闭
+2026-06-30 13:35:51 [INFO] 数据库连接已关闭
+2026-07-02 09:40:05 [INFO] 🚀 求职雷达启动！
+2026-07-02 09:40:10 [INFO] 正在扫描 [高盛 (Goldman Sachs)] ...
+2026-07-02 09:40:10 [WARNING] [高盛 (Goldman Sachs)] 第 1/3 次导航失败: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://higher.gs.com/campus?LOCATION=Hong%20Kong|Shanghai&page=1&sort=RELEVANCE
+Call log:
+  - navigating to "https://higher.gs.com/campus?LOCATION=Hong%20Kong|Shanghai&page=1&sort=RELEVANCE", waiting until "domcontentloaded"
+
+2026-07-02 09:50:02 [INFO] 🚀 求职雷达启动！
+2026-07-02 09:50:03 [INFO] 正在扫描 [高盛 (Goldman Sachs)] ...
+2026-07-02 09:51:27 [INFO] [高盛 (Goldman Sachs)] 页面加载成功
+2026-07-02 09:51:27 [INFO] [高盛 (Goldman Sachs)] 截获 12 个岗位元素，正在执行黑白名单过滤...
+2026-07-02 09:51:27 [INFO] [高盛 (Goldman Sachs)] 发现 10 个全新岗位，已写入数据库
+2026-07-02 09:51:27 [INFO] [高盛 (Goldman Sachs)] 过滤后保留 12 个岗位（本轮新: 10 / 历史旧: 2）
+2026-07-02 09:51:29 [INFO] 正在扫描 [摩根大通 (JPMorgan Chase) - 香港] ...
+2026-07-02 09:51:40 [INFO] [摩根大通 (JPMorgan Chase) - 香港] ✅ 已处理 Cookie 弹窗 [text=Accept]
+2026-07-02 09:52:12 [INFO] [摩根大通 (JPMorgan Chase) - 香港] 页面加载成功
+2026-07-02 09:52:12 [INFO] [摩根大通 (JPMorgan Chase) - 香港] 截获 118 个岗位元素，正在执行黑白名单过滤...
+2026-07-02 09:52:15 [INFO] [摩根大通 (JPMorgan Chase) - 香港] 发现 2 个全新岗位，已写入数据库
+2026-07-02 09:52:15 [INFO] [摩根大通 (JPMorgan Chase) - 香港] 过滤后保留 10 个岗位（本轮新: 2 / 历史旧: 8）
+2026-07-02 09:52:17 [INFO] 正在扫描 [摩根大通 (JPMorgan Chase) - 上海] ...
+2026-07-02 09:52:32 [INFO] [摩根大通 (JPMorgan Chase) - 上海] 页面加载成功
+2026-07-02 09:52:32 [INFO] [摩根大通 (JPMorgan Chase) - 上海] 截获 43 个岗位元素，正在执行黑白名单过滤...
+2026-07-02 09:52:33 [INFO] [摩根大通 (JPMorgan Chase) - 上海] 过滤后保留 4 个岗位（本轮新: 0 / 历史旧: 4）
+2026-07-02 09:52:35 [INFO] 正在扫描 [摩根士丹利 (Morgan Stanley) - 全球/香港区] ...
+2026-07-02 09:52:44 [INFO] [摩根士丹利 (Morgan Stanley) - 全球/香港区] ✅ 已处理 Cookie 弹窗 [text=Accept]
+2026-07-02 09:52:53 [INFO] [摩根士丹利 (Morgan Stanley) - 全球/香港区] 页面加载成功
+2026-07-02 09:52:53 [INFO] [摩根士丹利 (Morgan Stanley) - 全球/香港区] 截获 10 个岗位元素，正在执行黑白名单过滤...
+2026-07-02 09:52:53 [INFO] [摩根士丹利 (Morgan Stanley) - 全球/香港区] 发现 10 个全新岗位，已写入数据库
+2026-07-02 09:52:53 [INFO] [摩根士丹利 (Morgan Stanley) - 全球/香港区] 过滤后保留 10 个岗位（本轮新: 10 / 历史旧: 0）
+2026-07-02 09:52:55 [INFO] 正在扫描 [摩根士丹利中国 (Morgan Stanley China)] ...
+2026-07-02 09:53:17 [INFO] [摩根士丹利中国 (Morgan Stanley China)] ✅ 已处理 Cookie 弹窗 [text=Accept All Cookies]
+2026-07-02 09:53:26 [INFO] [摩根士丹利中国 (Morgan Stanley China)] 页面加载成功
+2026-07-02 09:53:26 [INFO] [摩根士丹利中国 (Morgan Stanley China)] 截获 1 个岗位元素，正在执行黑白名单过滤...
+2026-07-02 09:53:26 [INFO] [摩根士丹利中国 (Morgan Stanley China)] 发现 1 个全新岗位，已写入数据库
+2026-07-02 09:53:26 [INFO] [摩根士丹利中国 (Morgan Stanley China)] 过滤后保留 1 个岗位（本轮新: 1 / 历史旧: 0）
+2026-07-02 09:53:28 [INFO] 正在扫描 [花旗银行 (Citi) - 中国大陆] ...
+2026-07-02 09:53:40 [INFO] [花旗银行 (Citi) - 中国大陆] ✅ 已处理 Cookie 弹窗 [#system-ialert-button]
+2026-07-02 09:55:10 [INFO] [花旗银行 (Citi) - 中国大陆] 页面加载成功
+2026-07-02 09:55:10 [INFO] [花旗银行 (Citi) - 中国大陆] 截获 5 个岗位元素，正在执行黑白名单过滤...
+2026-07-02 09:55:10 [INFO] [花旗银行 (Citi) - 中国大陆] 过滤后保留 0 个岗位（本轮新: 0 / 历史旧: 0）
+2026-07-02 09:55:12 [INFO] 正在扫描 [花旗银行 (Citi) - 香港] ...
+2026-07-02 09:55:39 [INFO] [花旗银行 (Citi) - 香港] 页面加载成功
+2026-07-02 09:55:39 [INFO] [花旗银行 (Citi) - 香港] 截获 15 个岗位元素，正在执行黑白名单过滤...
+2026-07-02 09:55:40 [INFO] [花旗银行 (Citi) - 香港] 过滤后保留 0 个岗位（本轮新: 0 / 历史旧: 0）
+2026-07-02 09:55:42 [INFO] 正在扫描 [美银 (Bank of America) - 香港/中国] ...
+2026-07-02 09:56:17 [INFO] [美银 (Bank of America) - 香港/中国] 页面加载成功
+2026-07-02 09:56:17 [INFO] [美银 (Bank of America) - 香港/中国] 截获 2 个岗位元素，正在执行黑白名单过滤...
+2026-07-02 09:56:17 [INFO] [美银 (Bank of America) - 香港/中国] 发现 2 个全新岗位，已写入数据库
+2026-07-02 09:56:17 [INFO] [美银 (Bank of America) - 香港/中国] 过滤后保留 2 个岗位（本轮新: 2 / 历史旧: 0）
+2026-07-02 09:56:19 [INFO] 正在扫描 [巴克莱 (Barclays) - 香港/中国] ...
+2026-07-02 09:56:31 [INFO] [巴克莱 (Barclays) - 香港/中国] ✅ 已处理 Cookie 弹窗 [#system-ialert-button]
+2026-07-02 09:56:49 [INFO] [巴克莱 (Barclays) - 香港/中国] 页面加载成功
+2026-07-02 09:56:49 [INFO] [巴克莱 (Barclays) - 香港/中国] 截获 22 个岗位元素，正在执行黑白名单过滤...
+2026-07-02 09:56:50 [INFO] [巴克莱 (Barclays) - 香港/中国] 发现 5 个全新岗位，已写入数据库
+2026-07-02 09:56:50 [INFO] [巴克莱 (Barclays) - 香港/中国] 过滤后保留 5 个岗位（本轮新: 5 / 历史旧: 0）
+2026-07-02 09:56:52 [INFO] 正在扫描 [瑞银 (UBS) - 香港/中国大陆] ...
+2026-07-02 09:58:46 [INFO] [瑞银 (UBS) - 香港/中国大陆] 页面加载成功
+2026-07-02 09:58:46 [INFO] [瑞银 (UBS) - 香港/中国大陆] 截获 50 个岗位元素，正在执行黑白名单过滤...
+2026-07-02 09:58:48 [INFO] [瑞银 (UBS) - 香港/中国大陆] 过滤后保留 0 个岗位（本轮新: 0 / 历史旧: 0）
+2026-07-02 09:58:50 [INFO] 正在扫描 [德银 (Deutsche Bank) - 全球] ...
+2026-07-02 09:59:20 [INFO] [德银 (Deutsche Bank) - 全球] 页面加载成功
+2026-07-02 09:59:20 [INFO] [德银 (Deutsche Bank) - 全球] 截获 21 个岗位元素，正在执行黑白名单过滤...
+2026-07-02 09:59:20 [INFO] [德银 (Deutsche Bank) - 全球] 过滤后保留 0 个岗位（本轮新: 0 / 历史旧: 0）
+2026-07-02 09:59:22 [INFO] 浏览器已关闭
+2026-07-02 09:59:22 [INFO] 数据库连接已关闭
+2026-07-02 10:07:28 [INFO] 🚀 求职雷达启动！
+2026-07-02 10:07:29 [INFO] 正在扫描 [瑞银 (UBS) - 香港/中国大陆] ...
+2026-07-02 10:08:15 [INFO] [瑞银 (UBS) - 香港/中国大陆] 🔍 尝试点击 Next 按钮...
+2026-07-02 10:08:17 [INFO] [瑞银 (UBS) - 香港/中国大陆] 🔍 未找到 Next 按钮
+2026-07-02 10:08:20 [INFO] [瑞银 (UBS) - 香港/中国大陆] 🔍 尝试点击 Next 按钮...
+2026-07-02 10:08:22 [INFO] [瑞银 (UBS) - 香港/中国大陆] 🔍 未找到 Next 按钮
+2026-07-02 10:08:22 [INFO] [瑞银 (UBS) - 香港/中国大陆] 页面加载成功
+2026-07-02 10:08:22 [INFO] [瑞银 (UBS) - 香港/中国大陆] 截获 50 个岗位元素，正在执行黑白名单过滤...
+2026-07-02 10:08:24 [INFO] [瑞银 (UBS) - 香港/中国大陆] 过滤后保留 0 个岗位（本轮新: 0 / 历史旧: 0）
+2026-07-02 10:08:25 [INFO] 浏览器已关闭
+2026-07-02 10:08:25 [INFO] 数据库连接已关闭
+2026-07-02 10:12:33 [INFO] 🚀 求职雷达启动！
+2026-07-02 10:12:34 [INFO] 正在扫描 [瑞银 (UBS) - 香港/中国大陆] ...
+2026-07-02 10:13:18 [INFO] [瑞银 (UBS) - 香港/中国大陆] 🔍 尝试点击 Next 按钮...
+2026-07-02 10:13:20 [INFO] [瑞银 (UBS) - 香港/中国大陆] 🔍 未找到 Next 按钮: Locator.click: Timeout 2000ms exceeded.
+Call log:
+  - waiting for locator("#showMoreJobs, a:has-text
+2026-07-02 10:13:24 [INFO] [瑞银 (UBS) - 香港/中国大陆] 🔍 尝试点击 Next 按钮...
+2026-07-02 10:13:26 [INFO] [瑞银 (UBS) - 香港/中国大陆] 🔍 未找到 Next 按钮: Locator.click: Timeout 2000ms exceeded.
+Call log:
+  - waiting for locator("#showMoreJobs, a:has-text
+2026-07-02 10:13:26 [INFO] [瑞银 (UBS) - 香港/中国大陆] 页面加载成功
+2026-07-02 10:13:26 [INFO] [瑞银 (UBS) - 香港/中国大陆] 截获 50 个岗位元素，正在执行黑白名单过滤...
+2026-07-02 10:13:27 [INFO] [瑞银 (UBS) - 香港/中国大陆] 过滤后保留 0 个岗位（本轮新: 0 / 历史旧: 0）
+2026-07-02 10:13:29 [INFO] 浏览器已关闭
+2026-07-02 10:13:29 [INFO] 数据库连接已关闭
+2026-07-02 10:17:16 [INFO] 🚀 求职雷达启动！
+2026-07-02 10:17:17 [INFO] 正在扫描 [瑞银 (UBS) - 香港/中国大陆] ...
+2026-07-02 10:19:16 [INFO] 🚀 求职雷达启动！
+2026-07-02 10:19:16 [INFO] 正在扫描 [瑞银 (UBS) - 香港/中国大陆] ...
+2026-07-02 10:22:56 [INFO] 🚀 求职雷达启动！
+2026-07-02 10:22:59 [INFO] 正在扫描 [瑞银 (UBS) - 香港/中国大陆] ...
+2026-07-02 10:26:14 [INFO] 🚀 求职雷达启动！
+2026-07-02 10:26:16 [INFO] 正在扫描 [高盛 (Goldman Sachs)] ...
+2026-07-02 10:29:21 [INFO] 🚀 求职雷达启动！
+2026-07-02 10:29:22 [INFO] 正在扫描 [高盛 (Goldman Sachs)] ...
+2026-07-02 10:32:16 [INFO] 🚀 求职雷达启动！
+2026-07-02 10:32:17 [INFO] 正在扫描 [高盛 (Goldman Sachs)] ...
+2026-07-02 10:33:15 [INFO] [高盛 (Goldman Sachs)] 页面加载成功
+2026-07-02 10:33:15 [INFO] [高盛 (Goldman Sachs)] 截获 12 个岗位元素，正在执行黑白名单过滤...
+2026-07-02 10:33:15 [INFO] [高盛 (Goldman Sachs)] 过滤后保留 12 个岗位（本轮新: 0 / 历史旧: 12）
+2026-07-02 10:33:17 [INFO] 正在扫描 [摩根大通 (JPMorgan Chase) - 香港] ...
+2026-07-02 10:33:49 [INFO] [摩根大通 (JPMorgan Chase) - 香港] ✅ 已处理 Cookie 弹窗 [text=Accept]
+2026-07-02 10:34:10 [INFO] [摩根大通 (JPMorgan Chase) - 香港] 页面加载成功
+2026-07-02 10:34:10 [INFO] [摩根大通 (JPMorgan Chase) - 香港] 截获 118 个岗位元素，正在执行黑白名单过滤...
+2026-07-02 10:34:13 [INFO] [摩根大通 (JPMorgan Chase) - 香港] 过滤后保留 10 个岗位（本轮新: 0 / 历史旧: 10）
+2026-07-02 10:34:15 [INFO] 正在扫描 [摩根大通 (JPMorgan Chase) - 上海] ...
+2026-07-02 10:34:31 [INFO] [摩根大通 (JPMorgan Chase) - 上海] 页面加载成功
+2026-07-02 10:34:32 [INFO] [摩根大通 (JPMorgan Chase) - 上海] 截获 43 个岗位元素，正在执行黑白名单过滤...
+2026-07-02 10:34:32 [INFO] [摩根大通 (JPMorgan Chase) - 上海] 过滤后保留 4 个岗位（本轮新: 0 / 历史旧: 4）
+2026-07-02 10:34:34 [INFO] 正在扫描 [摩根士丹利 (Morgan Stanley) - 全球/香港区] ...
+2026-07-02 10:34:44 [INFO] [摩根士丹利 (Morgan Stanley) - 全球/香港区] ✅ 已处理 Cookie 弹窗 [text=Accept]
+2026-07-02 10:35:18 [INFO] [摩根士丹利 (Morgan Stanley) - 全球/香港区] 页面加载成功
+2026-07-02 10:35:18 [INFO] [摩根士丹利 (Morgan Stanley) - 全球/香港区] 截获 10 个岗位元素，正在执行黑白名单过滤...
+2026-07-02 10:35:18 [INFO] [摩根士丹利 (Morgan Stanley) - 全球/香港区] 发现 10 个全新岗位，已写入数据库
+2026-07-02 10:35:18 [INFO] [摩根士丹利 (Morgan Stanley) - 全球/香港区] 过滤后保留 10 个岗位（本轮新: 10 / 历史旧: 0）
+2026-07-02 10:35:20 [INFO] 正在扫描 [摩根士丹利中国 (Morgan Stanley China)] ...
+2026-07-02 10:35:41 [INFO] [摩根士丹利中国 (Morgan Stanley China)] ✅ 已处理 Cookie 弹窗 [text=Accept All Cookies]
+2026-07-02 10:35:57 [INFO] [摩根士丹利中国 (Morgan Stanley China)] 页面加载成功
+2026-07-02 10:35:57 [INFO] [摩根士丹利中国 (Morgan Stanley China)] 截获 1 个岗位元素，正在执行黑白名单过滤...
+2026-07-02 10:35:57 [INFO] [摩根士丹利中国 (Morgan Stanley China)] 过滤后保留 1 个岗位（本轮新: 0 / 历史旧: 1）
+2026-07-02 10:35:59 [INFO] 正在扫描 [花旗银行 (Citi) - 中国大陆] ...
+2026-07-02 10:36:11 [INFO] [花旗银行 (Citi) - 中国大陆] ✅ 已处理 Cookie 弹窗 [#system-ialert-button]
+2026-07-02 10:36:26 [INFO] [花旗银行 (Citi) - 中国大陆] 页面加载成功
+2026-07-02 10:36:26 [INFO] [花旗银行 (Citi) - 中国大陆] 截获 15 个岗位元素，正在执行黑白名单过滤...
+2026-07-02 10:36:26 [INFO] [花旗银行 (Citi) - 中国大陆] 过滤后保留 0 个岗位（本轮新: 0 / 历史旧: 0）
+2026-07-02 10:36:28 [INFO] 正在扫描 [花旗银行 (Citi) - 香港] ...
+2026-07-02 10:36:46 [INFO] [花旗银行 (Citi) - 香港] 页面加载成功
+2026-07-02 10:36:46 [INFO] [花旗银行 (Citi) - 香港] 截获 15 个岗位元素，正在执行黑白名单过滤...
+2026-07-02 10:36:46 [INFO] [花旗银行 (Citi) - 香港] 过滤后保留 0 个岗位（本轮新: 0 / 历史旧: 0）
+2026-07-02 10:36:48 [INFO] 正在扫描 [美银 (Bank of America) - 香港/中国] ...
+2026-07-02 10:37:15 [INFO] [美银 (Bank of America) - 香港/中国] 页面加载成功
+2026-07-02 10:37:15 [INFO] [美银 (Bank of America) - 香港/中国] 截获 2 个岗位元素，正在执行黑白名单过滤...
+2026-07-02 10:37:15 [INFO] [美银 (Bank of America) - 香港/中国] 过滤后保留 2 个岗位（本轮新: 0 / 历史旧: 2）
+2026-07-02 10:37:17 [INFO] 正在扫描 [巴克莱 (Barclays) - 香港/中国] ...
+2026-07-02 10:37:26 [INFO] [巴克莱 (Barclays) - 香港/中国] ✅ 已处理 Cookie 弹窗 [#system-ialert-button]
+2026-07-02 10:37:39 [INFO] [巴克莱 (Barclays) - 香港/中国] 页面加载成功
+2026-07-02 10:37:39 [INFO] [巴克莱 (Barclays) - 香港/中国] 截获 22 个岗位元素，正在执行黑白名单过滤...
+2026-07-02 10:37:40 [INFO] [巴克莱 (Barclays) - 香港/中国] 过滤后保留 5 个岗位（本轮新: 0 / 历史旧: 5）
+2026-07-02 10:37:42 [INFO] 正在扫描 [瑞银 (UBS) - 香港/中国大陆] ...
+2026-07-02 10:39:28 [INFO] [瑞银 (UBS) - 香港/中国大陆] 页面加载成功
+2026-07-02 10:39:28 [INFO] [瑞银 (UBS) - 香港/中国大陆] 截获 50 个岗位元素，正在执行黑白名单过滤...
+2026-07-02 10:39:30 [INFO] [瑞银 (UBS) - 香港/中国大陆] 过滤后保留 0 个岗位（本轮新: 0 / 历史旧: 0）
+2026-07-02 10:39:32 [INFO] 正在扫描 [德银 (Deutsche Bank) - 全球] ...
+2026-07-02 10:40:50 [INFO] [德银 (Deutsche Bank) - 全球] 页面加载成功
+2026-07-02 10:40:50 [INFO] [德银 (Deutsche Bank) - 全球] 截获 10 个岗位元素，正在执行黑白名单过滤...
+2026-07-02 10:40:51 [INFO] [德银 (Deutsche Bank) - 全球] 过滤后保留 0 个岗位（本轮新: 0 / 历史旧: 0）
+2026-07-02 10:40:53 [INFO] 浏览器已关闭
+2026-07-02 10:40:53 [INFO] 数据库连接已关闭
+2026-07-02 11:00:14 [INFO] 🚀 求职雷达启动！
+2026-07-02 11:00:19 [INFO] 正在扫描 [高盛 (Goldman Sachs)] ...
+2026-07-02 11:01:19 [INFO] [高盛 (Goldman Sachs)] 页面加载成功
+2026-07-02 11:01:19 [INFO] [高盛 (Goldman Sachs)] 截获 12 个岗位元素，正在执行黑白名单过滤...
+2026-07-02 11:01:19 [INFO] [高盛 (Goldman Sachs)] 过滤后保留 12 个岗位（本轮新: 0 / 历史旧: 12）
+2026-07-02 11:01:21 [INFO] 正在扫描 [摩根大通 (JPMorgan Chase) - 香港] ...
+2026-07-02 11:01:37 [INFO] [摩根大通 (JPMorgan Chase) - 香港] 页面加载成功
+2026-07-02 11:01:37 [INFO] [摩根大通 (JPMorgan Chase) - 香港] 截获 25 个岗位元素，正在执行黑白名单过滤...
+2026-07-02 11:01:38 [INFO] [摩根大通 (JPMorgan Chase) - 香港] 过滤后保留 2 个岗位（本轮新: 0 / 历史旧: 2）
+2026-07-02 11:01:40 [INFO] 正在扫描 [摩根大通 (JPMorgan Chase) - 上海] ...
+2026-07-02 11:01:44 [INFO] [摩根大通 (JPMorgan Chase) - 上海] ✅ 已处理 Cookie 弹窗 [text=Accept]
+2026-07-02 11:01:56 [INFO] [摩根大通 (JPMorgan Chase) - 上海] 页面加载成功
+2026-07-02 11:01:56 [INFO] [摩根大通 (JPMorgan Chase) - 上海] 截获 43 个岗位元素，正在执行黑白名单过滤...
+2026-07-02 11:01:56 [INFO] [摩根大通 (JPMorgan Chase) - 上海] 过滤后保留 4 个岗位（本轮新: 0 / 历史旧: 4）
+2026-07-02 11:01:58 [INFO] 正在扫描 [摩根士丹利 (Morgan Stanley) - 全球/香港区] ...
+2026-07-02 11:02:11 [INFO] [摩根士丹利 (Morgan Stanley) - 全球/香港区] ✅ 已处理 Cookie 弹窗 [text=Accept]
+2026-07-02 11:02:44 [INFO] [摩根士丹利 (Morgan Stanley) - 全球/香港区] 页面加载成功
+2026-07-02 11:02:44 [INFO] [摩根士丹利 (Morgan Stanley) - 全球/香港区] 截获 10 个岗位元素，正在执行黑白名单过滤...
+2026-07-02 11:02:44 [INFO] [摩根士丹利 (Morgan Stanley) - 全球/香港区] 发现 10 个全新岗位，已写入数据库
+2026-07-02 11:02:44 [INFO] [摩根士丹利 (Morgan Stanley) - 全球/香港区] 过滤后保留 10 个岗位（本轮新: 10 / 历史旧: 0）
+2026-07-02 11:02:46 [INFO] 正在扫描 [摩根士丹利中国 (Morgan Stanley China)] ...
+2026-07-02 11:02:58 [INFO] [摩根士丹利中国 (Morgan Stanley China)] ✅ 已处理 Cookie 弹窗 [text=Accept All Cookies]
+2026-07-02 11:03:00 [INFO] [摩根士丹利中国 (Morgan Stanley China)] 页面加载成功
+2026-07-02 11:03:00 [INFO] [摩根士丹利中国 (Morgan Stanley China)] 截获 1 个岗位元素，正在执行黑白名单过滤...
+2026-07-02 11:03:00 [INFO] [摩根士丹利中国 (Morgan Stanley China)] 过滤后保留 1 个岗位（本轮新: 0 / 历史旧: 1）
+2026-07-02 11:03:02 [INFO] 正在扫描 [花旗银行 (Citi) - 中国大陆] ...
+2026-07-02 11:03:21 [INFO] [花旗银行 (Citi) - 中国大陆] ✅ 已处理 Cookie 弹窗 [#system-ialert-button]
+2026-07-02 11:03:43 [INFO] [花旗银行 (Citi) - 中国大陆] 页面加载成功
+2026-07-02 11:03:43 [INFO] [花旗银行 (Citi) - 中国大陆] 截获 15 个岗位元素，正在执行黑白名单过滤...
+2026-07-02 11:03:43 [INFO] [花旗银行 (Citi) - 中国大陆] 过滤后保留 0 个岗位（本轮新: 0 / 历史旧: 0）
+2026-07-02 11:03:45 [INFO] 正在扫描 [花旗银行 (Citi) - 香港] ...
+2026-07-02 11:04:09 [INFO] [花旗银行 (Citi) - 香港] 页面加载成功
+2026-07-02 11:04:09 [INFO] [花旗银行 (Citi) - 香港] 截获 15 个岗位元素，正在执行黑白名单过滤...
+2026-07-02 11:04:09 [INFO] [花旗银行 (Citi) - 香港] 过滤后保留 0 个岗位（本轮新: 0 / 历史旧: 0）
+2026-07-02 11:04:11 [INFO] 正在扫描 [美银 (Bank of America) - 香港/中国] ...
+2026-07-02 11:04:45 [INFO] [美银 (Bank of America) - 香港/中国] 页面加载成功
+2026-07-02 11:04:45 [INFO] [美银 (Bank of America) - 香港/中国] 截获 10 个岗位元素，正在执行黑白名单过滤...
+2026-07-02 11:04:45 [INFO] [美银 (Bank of America) - 香港/中国] 发现 10 个全新岗位，已写入数据库
+2026-07-02 11:04:45 [INFO] [美银 (Bank of America) - 香港/中国] 过滤后保留 10 个岗位（本轮新: 10 / 历史旧: 0）
+2026-07-02 11:04:47 [INFO] 正在扫描 [巴克莱 (Barclays) - 香港/中国] ...
+2026-07-02 11:04:56 [INFO] [巴克莱 (Barclays) - 香港/中国] ✅ 已处理 Cookie 弹窗 [#system-ialert-button]
+2026-07-02 11:05:09 [INFO] [巴克莱 (Barclays) - 香港/中国] 页面加载成功
+2026-07-02 11:05:09 [INFO] [巴克莱 (Barclays) - 香港/中国] 截获 22 个岗位元素，正在执行黑白名单过滤...
+2026-07-02 11:05:09 [INFO] [巴克莱 (Barclays) - 香港/中国] 过滤后保留 5 个岗位（本轮新: 0 / 历史旧: 5）
+2026-07-02 11:05:11 [INFO] 正在扫描 [瑞银 (UBS) - 香港/中国大陆] ...
+2026-07-02 11:07:24 [INFO] [瑞银 (UBS) - 香港/中国大陆] 页面加载成功
+2026-07-02 11:07:24 [INFO] [瑞银 (UBS) - 香港/中国大陆] 截获 50 个岗位元素，正在执行黑白名单过滤...
+2026-07-02 11:07:26 [INFO] [瑞银 (UBS) - 香港/中国大陆] 过滤后保留 0 个岗位（本轮新: 0 / 历史旧: 0）
+2026-07-02 11:07:28 [INFO] 正在扫描 [德银 (Deutsche Bank) - 全球] ...
+2026-07-02 11:08:15 [INFO] [德银 (Deutsche Bank) - 全球] 页面加载成功
+2026-07-02 11:08:15 [INFO] [德银 (Deutsche Bank) - 全球] 截获 10 个岗位元素，正在执行黑白名单过滤...
+2026-07-02 11:08:15 [INFO] [德银 (Deutsche Bank) - 全球] 过滤后保留 0 个岗位（本轮新: 0 / 历史旧: 0）
+2026-07-02 11:08:17 [INFO] 浏览器已关闭
+2026-07-02 11:08:17 [INFO] 数据库连接已关闭
+2026-07-02 11:15:22 [INFO] 🚀 求职雷达启动！
+2026-07-02 11:15:23 [INFO] 正在扫描 [高盛 (Goldman Sachs)] ...
+2026-07-02 11:16:00 [INFO] [高盛 (Goldman Sachs)] 页面加载成功
+2026-07-02 11:16:00 [INFO] [高盛 (Goldman Sachs)] 截获 12 个岗位元素，正在执行黑白名单过滤...
+2026-07-02 11:16:00 [INFO] [高盛 (Goldman Sachs)] 过滤后保留 12 个岗位（本轮新: 0 / 历史旧: 12）
+2026-07-02 11:16:02 [INFO] 正在扫描 [摩根大通 (JPMorgan Chase) - 香港] ...
+2026-07-02 11:16:13 [INFO] [摩根大通 (JPMorgan Chase) - 香港] ✅ 已处理 Cookie 弹窗 [text=Accept]
+2026-07-02 11:16:21 [INFO] [摩根大通 (JPMorgan Chase) - 香港] 页面加载成功
+2026-07-02 11:16:21 [INFO] [摩根大通 (JPMorgan Chase) - 香港] 截获 25 个岗位元素，正在执行黑白名单过滤...
+2026-07-02 11:16:22 [INFO] [摩根大通 (JPMorgan Chase) - 香港] 过滤后保留 2 个岗位（本轮新: 0 / 历史旧: 2）
+2026-07-02 11:16:24 [INFO] 正在扫描 [摩根大通 (JPMorgan Chase) - 上海] ...
+2026-07-02 11:16:31 [INFO] [摩根大通 (JPMorgan Chase) - 上海] 📄 动态加载完成: 25 → 43 个岗位
+2026-07-02 11:16:31 [INFO] [摩根大通 (JPMorgan Chase) - 上海] 页面加载成功
+2026-07-02 11:16:31 [INFO] [摩根大通 (JPMorgan Chase) - 上海] 截获 43 个岗位元素，正在执行黑白名单过滤...
+2026-07-02 11:16:32 [INFO] [摩根大通 (JPMorgan Chase) - 上海] 过滤后保留 4 个岗位（本轮新: 0 / 历史旧: 4）
+2026-07-02 11:16:34 [INFO] 正在扫描 [摩根士丹利 (Morgan Stanley) - 全球/香港区] ...
+2026-07-02 11:16:44 [INFO] [摩根士丹利 (Morgan Stanley) - 全球/香港区] ✅ 已处理 Cookie 弹窗 [text=Accept]
+2026-07-02 11:16:57 [INFO] [摩根士丹利 (Morgan Stanley) - 全球/香港区] 页面加载成功
+2026-07-02 11:16:57 [INFO] [摩根士丹利 (Morgan Stanley) - 全球/香港区] 截获 10 个岗位元素，正在执行黑白名单过滤...
+2026-07-02 11:16:57 [INFO] [摩根士丹利 (Morgan Stanley) - 全球/香港区] 发现 10 个全新岗位，已写入数据库
+2026-07-02 11:16:57 [INFO] [摩根士丹利 (Morgan Stanley) - 全球/香港区] 过滤后保留 10 个岗位（本轮新: 10 / 历史旧: 0）
+2026-07-02 11:16:59 [INFO] 正在扫描 [摩根士丹利中国 (Morgan Stanley China)] ...
+2026-07-02 11:17:08 [INFO] [摩根士丹利中国 (Morgan Stanley China)] ✅ 已处理 Cookie 弹窗 [text=Accept All Cookies]
+2026-07-02 11:17:11 [INFO] [摩根士丹利中国 (Morgan Stanley China)] 页面加载成功
+2026-07-02 11:17:11 [INFO] [摩根士丹利中国 (Morgan Stanley China)] 截获 1 个岗位元素，正在执行黑白名单过滤...
+2026-07-02 11:17:11 [INFO] [摩根士丹利中国 (Morgan Stanley China)] 过滤后保留 1 个岗位（本轮新: 0 / 历史旧: 1）
+2026-07-02 11:17:13 [INFO] 正在扫描 [花旗银行 (Citi) - 中国大陆] ...
+2026-07-02 11:17:31 [INFO] [花旗银行 (Citi) - 中国大陆] ✅ 已处理 Cookie 弹窗 [#system-ialert-button]
+2026-07-02 11:17:54 [INFO] [花旗银行 (Citi) - 中国大陆] 页面加载成功
+2026-07-02 11:17:54 [INFO] [花旗银行 (Citi) - 中国大陆] 截获 15 个岗位元素，正在执行黑白名单过滤...
+2026-07-02 11:17:54 [INFO] [花旗银行 (Citi) - 中国大陆] 过滤后保留 0 个岗位（本轮新: 0 / 历史旧: 0）
+2026-07-02 11:17:56 [INFO] 正在扫描 [花旗银行 (Citi) - 香港] ...
+2026-07-02 11:18:21 [INFO] [花旗银行 (Citi) - 香港] 页面加载成功
+2026-07-02 11:18:21 [INFO] [花旗银行 (Citi) - 香港] 截获 15 个岗位元素，正在执行黑白名单过滤...
+2026-07-02 11:18:21 [INFO] [花旗银行 (Citi) - 香港] 过滤后保留 0 个岗位（本轮新: 0 / 历史旧: 0）
+2026-07-02 11:18:23 [INFO] 正在扫描 [美银 (Bank of America) - 香港/中国] ...
+2026-07-02 11:18:57 [INFO] [美银 (Bank of America) - 香港/中国] 页面加载成功
+2026-07-02 11:18:57 [INFO] [美银 (Bank of America) - 香港/中国] 截获 2 个岗位元素，正在执行黑白名单过滤...
+2026-07-02 11:18:57 [INFO] [美银 (Bank of America) - 香港/中国] 过滤后保留 2 个岗位（本轮新: 0 / 历史旧: 2）
+2026-07-02 11:18:59 [INFO] 正在扫描 [巴克莱 (Barclays) - 香港/中国] ...
+2026-07-02 11:19:08 [INFO] [巴克莱 (Barclays) - 香港/中国] ✅ 已处理 Cookie 弹窗 [#system-ialert-button]
+2026-07-02 11:19:16 [INFO] [巴克莱 (Barclays) - 香港/中国] 页面加载成功
+2026-07-02 11:19:16 [INFO] [巴克莱 (Barclays) - 香港/中国] 截获 22 个岗位元素，正在执行黑白名单过滤...
+2026-07-02 11:19:17 [INFO] [巴克莱 (Barclays) - 香港/中国] 过滤后保留 5 个岗位（本轮新: 0 / 历史旧: 5）
+2026-07-02 11:19:19 [INFO] 正在扫描 [瑞银 (UBS) - 香港/中国大陆] ...
+2026-07-02 11:20:01 [INFO] [瑞银 (UBS) - 香港/中国大陆] 🔘 点击专属翻页 [a#showMoreJobs]
+2026-07-02 11:20:16 [INFO] [瑞银 (UBS) - 香港/中国大陆] 📄 动态加载完成: 50 → 58 个岗位
+2026-07-02 11:20:16 [INFO] [瑞银 (UBS) - 香港/中国大陆] 页面加载成功
+2026-07-02 11:20:16 [INFO] [瑞银 (UBS) - 香港/中国大陆] 截获 58 个岗位元素，正在执行黑白名单过滤...
+2026-07-02 11:20:18 [INFO] [瑞银 (UBS) - 香港/中国大陆] 过滤后保留 0 个岗位（本轮新: 0 / 历史旧: 0）
+2026-07-02 11:20:20 [INFO] 正在扫描 [德银 (Deutsche Bank) - 全球] ...
+2026-07-02 11:20:39 [INFO] [德银 (Deutsche Bank) - 全球] 📄 动态加载完成: 10 → 21 个岗位
+2026-07-02 11:20:39 [INFO] [德银 (Deutsche Bank) - 全球] 页面加载成功
+2026-07-02 11:20:39 [INFO] [德银 (Deutsche Bank) - 全球] 截获 21 个岗位元素，正在执行黑白名单过滤...
+2026-07-02 11:20:39 [INFO] [德银 (Deutsche Bank) - 全球] 过滤后保留 0 个岗位（本轮新: 0 / 历史旧: 0）
+2026-07-02 11:20:40 [INFO] 浏览器已关闭
+2026-07-02 11:20:40 [INFO] 数据库连接已关闭
