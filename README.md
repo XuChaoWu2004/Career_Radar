@@ -1,0 +1,2 @@
+# Career_Radar
+一个纯vibe coding出来的爬虫，用palywright进入对应公司官网，关键词检索岗位标题提出来贴.csv文件里。目前做了八大投行的版本，在几个config里可以自己调整网页和关键词。欢迎各位大佬提建议。
